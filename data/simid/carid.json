@@ -1,7 +1,6 @@
 {
   "name": "Car Name",
-  "class": "Class Name",
-  "classShorthand": "Class Shorthand",
+  "class": "Class Name Shorthand",
   "ledNumber": 10,
   "ledColor": [ "blue", "green","green","green","green","yellow","yellow","orange","orange","#FA0000","#FA0000" ],
   "ledRpm" : [

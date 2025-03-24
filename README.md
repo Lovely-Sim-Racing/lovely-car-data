@@ -26,8 +26,7 @@ Every file is formatted as follows:
 
 ``` 
 # name                (String) - The full human readable car name
-# class               (String) - The car's class name
-# classShort          (String) - The car's 3 letter class shorthand
+# class               (String) - The car's 3-5 letter class shorthand
 # ledNumber           (Int)    - The car's in game number of telemetry LED's
 # ledColor                       An array of the led color
   # redline(:Value)   (String) - A color name or HEX value for the red line
