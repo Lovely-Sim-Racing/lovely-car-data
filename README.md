@@ -28,6 +28,7 @@ Every file is formatted as follows:
 # name                (String) - The full human readable car name
 # class               (String) - The car's 3-5 letter class shorthand
 # ledNumber           (Int)    - The car's in game number of telemetry LED's
+# redlineBlinkInterval(Int)    - The Speed at which the redline blinks in ms
 # ledColor                       An array of the led color
   # redline(:Value)   (String) - A color name or HEX value for the red line
   # led1color(:Value) (String) - A color name or HEX value for LED 1

@@ -8,5 +8,8 @@
 
 ## Changelog
 
+#### v1.1.0
+1. Added `redlineBlinkInterval`
+
 #### v1.0.0
 1. Initial Format
