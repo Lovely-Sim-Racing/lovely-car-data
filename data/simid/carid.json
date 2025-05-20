@@ -1,6 +1,6 @@
 {
     "name": "Car Name",
-    "class": "Class Name Shorthand",
+    "carClass": "Class Name Shorthand",
     "ledNumber": 10,
     "redlineBlinkInterval": 250,
     "ledColor": [ "blue", "green", "green", "green", "green", "yellow", "yellow", "orange", "orange", "#FA0000", "#FA0000" ],
