@@ -1,9 +1,9 @@
 {
   "name": "acuransxevo22gt3",
-  "carClass": "acuransxevo22gt3",
-  "ledNumber": 10,
+  "carClass": "GT3",
+  "ledNumber": 12,
   "redlineBlinkInterval": 250,
-  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF8000","#FFFF8000","#FF000000","#FFFF0000","#FFFF0000"],
+  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF8000","#FFFF8000","#00000000","#FFFF0000","#FFFF0000"],
   "ledRpm": [
     {
       "R": [7280,6570,6640,0,6710,6780,6850,6920,6990,7060,0,7130,7200],
