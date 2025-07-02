@@ -1,6 +1,6 @@
 {
   "name": "lexus_rc_f_gt3",
-  "carClass": "lexus_rc_f_gt3",
+  "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 100,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FF0000FF","#FF0000FF"],

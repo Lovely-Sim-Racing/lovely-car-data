@@ -1,6 +1,6 @@
 {
   "name": "chevrolet_camaro_gt4r",
-  "carClass": "chevrolet_camaro_gt4r",
+  "carClass": "GT4",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00"],

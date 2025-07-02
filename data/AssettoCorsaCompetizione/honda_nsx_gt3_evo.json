@@ -1,6 +1,6 @@
 {
   "name": "honda_nsx_gt3_evo",
-  "carClass": "honda_nsx_gt3_evo",
+  "carClass": "GT3",
   "ledNumber": 10,
   "redlineBlinkInterval": 300,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF8000","#FFFF8000","#FFFF0000","#FFFF0000"],

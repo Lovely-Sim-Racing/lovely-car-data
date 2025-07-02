@@ -1,9 +1,9 @@
 {
   "name": "Audi R8 LMS GT3 evo II",
-  "carClass": "Audi R8 LMS GT3 evo II",
-  "ledNumber": 10,
+  "carClass": "GT3",
+  "ledNumber": 12,
   "redlineBlinkInterval": 0,
-  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF8000","#FFFF8000","#FF000000","#FFFF0000","#FFFF0000"],
+  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF8000","#FFFF8000","#00000000","#FFFF0000","#FFFF0000"],
   "ledRpm": [
     {
       "R": [8150,7000,7115,0,7230,7345,7460,7575,7690,7805,0,7920,8035],

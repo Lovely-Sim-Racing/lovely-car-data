@@ -1,6 +1,6 @@
 {
   "name": "nissan_gt_r_gt3_2018",
-  "carClass": "nissan_gt_r_gt3_2018",
+  "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 250,
   "ledColor": ["#FFFF0000","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF"],

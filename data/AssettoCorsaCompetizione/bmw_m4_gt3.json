@@ -1,9 +1,9 @@
 {
   "name": "bmw_m4_gt3",
-  "carClass": "bmw_m4_gt3",
-  "ledNumber": 10,
+  "carClass": "GT3",
+  "ledNumber": 12,
   "redlineBlinkInterval": 200,
-  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF000000","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FF000000","#FF00FF00","#FF00FF00"],
+  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#00000000","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#00000000","#FF00FF00","#FF00FF00"],
   "ledRpm": [
     {
       "R": [6750,5600,6000,0,6300,6500,6700,6700,6500,6300,0,6000,5600],

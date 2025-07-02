@@ -1,9 +1,9 @@
 {
   "name": "audir8lmsevo2gt3",
-  "carClass": "audir8lmsevo2gt3",
-  "ledNumber": 10,
+  "carClass": "GT3",
+  "ledNumber": 12,
   "redlineBlinkInterval": 250,
-  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF8000","#FFFF8000","#FF000000","#FFFF0000","#FFFF0000"],
+  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF8000","#FFFF8000","#00000000","#FFFF0000","#FFFF0000"],
   "ledRpm": [
     {
       "R": [8300,3875,4350,0,4825,5300,5775,6250,6725,7200,0,7675,8150],

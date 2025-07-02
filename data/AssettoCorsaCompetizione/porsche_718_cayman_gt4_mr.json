@@ -1,6 +1,6 @@
 {
   "name": "porsche_718_cayman_gt4_mr",
-  "carClass": "porsche_718_cayman_gt4_mr",
+  "carClass": "GT4",
   "ledNumber": 8,
   "redlineBlinkInterval": 100,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000"],

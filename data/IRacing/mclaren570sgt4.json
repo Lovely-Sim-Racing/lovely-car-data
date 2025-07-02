@@ -1,6 +1,6 @@
 {
   "name": "mclaren570sgt4",
-  "carClass": "mclaren570sgt4",
+  "carClass": "GT4",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FFFFFF00","#FFFF8000","#FFFF0000","#FFFF0000","#FFFF8000","#FFFFFF00","#FF00FF00"],

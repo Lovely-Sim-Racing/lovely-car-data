@@ -1,6 +1,6 @@
 {
   "name": "bentley_continental_gt3_2018",
-  "carClass": "bentley_continental_gt3_2018",
+  "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 100,
   "ledColor": ["#00000000","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FF00FF00"],

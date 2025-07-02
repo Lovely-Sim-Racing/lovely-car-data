@@ -1,9 +1,9 @@
 {
   "name": "amvantagegt4",
-  "carClass": "amvantagegt4",
-  "ledNumber": 10,
+  "carClass": "GT4",
+  "ledNumber": 12,
   "redlineBlinkInterval": 250,
-  "ledColor": ["#FF6495ED","#FF00FF00","#FF00FF00","#FF000000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF000000","#FF6495ED","#FF6495ED"],
+  "ledColor": ["#FF6495ED","#FF00FF00","#FF00FF00","#00000000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#00000000","#FF6495ED","#FF6495ED"],
   "ledRpm": [
     {
       "R": [6700,1000,5900,0,6000,6100,6200,6300,6400,6500,0,6600,6700],

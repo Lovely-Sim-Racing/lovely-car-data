@@ -1,6 +1,6 @@
 {
   "name": "ferrari_296_gt3",
-  "carClass": "ferrari_296_gt3",
+  "carClass": "GT3",
   "ledNumber": 6,
   "redlineBlinkInterval": 250,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000"],

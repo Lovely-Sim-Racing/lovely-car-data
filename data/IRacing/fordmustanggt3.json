@@ -1,6 +1,6 @@
 {
   "name": "fordmustanggt3",
-  "carClass": "fordmustanggt3",
+  "carClass": "GT3",
   "ledNumber": 10,
   "redlineBlinkInterval": 250,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF0000FF","#FF0000FF","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00"],

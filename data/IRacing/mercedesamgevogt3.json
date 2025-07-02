@@ -1,9 +1,9 @@
 {
   "name": "mercedesamgevogt3",
-  "carClass": "mercedesamgevogt3",
-  "ledNumber": 10,
+  "carClass": "GT3",
+  "ledNumber": 12,
   "redlineBlinkInterval": 300,
-  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF000000","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FF000000","#FF00FF00","#FF00FF00"],
+  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#00000000","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#00000000","#FF00FF00","#FF00FF00"],
   "ledRpm": [
     {
       "R": [3500,3000,3100,0,3200,3300,3400,3400,3300,3200,0,3100,3000],

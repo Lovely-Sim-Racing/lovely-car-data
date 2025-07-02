@@ -1,9 +1,9 @@
 {
   "name": "mclaren_720s_gt3_evo",
-  "carClass": "mclaren_720s_gt3_evo",
-  "ledNumber": 10,
+  "carClass": "GT3",
+  "ledNumber": 12,
   "redlineBlinkInterval": 250,
-  "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FF000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF8000","#FFFF8000","#FF000000","#FFFF0000","#FFFF0000"],
+  "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF8000","#FFFF8000","#00000000","#FFFF0000","#FFFF0000"],
   "ledRpm": [
     {
       "R": [7200,5300,5500,0,5700,5900,6100,6300,6500,6700,0,6900,7100],

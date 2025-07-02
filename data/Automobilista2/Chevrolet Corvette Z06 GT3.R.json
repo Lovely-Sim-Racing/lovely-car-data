@@ -1,6 +1,6 @@
 {
   "name": "Chevrolet Corvette Z06 GT3.R",
-  "carClass": "Chevrolet Corvette Z06 GT3.R",
+  "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF8000","#FFFF0000","#FFFF0000"],
