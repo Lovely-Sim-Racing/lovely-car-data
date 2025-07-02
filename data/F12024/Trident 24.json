@@ -1,6 +1,6 @@
 {
   "name": "Trident 24",
-  "carClass": "Trident 24",
+  "carClass": "F2",
   "ledNumber": 8,
   "redlineBlinkInterval": 50,
   "ledColor": ["#00000000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF0000FF","#FF0000FF"],

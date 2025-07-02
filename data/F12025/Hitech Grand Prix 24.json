@@ -1,6 +1,6 @@
 {
   "name": "Hitech Grand Prix 24",
-  "carClass": "Hitech Grand Prix 24",
+  "carClass": "F2",
   "ledNumber": 10,
   "redlineBlinkInterval": 50,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF0000FF","#FF0000FF","#FF0000FF","#FFFF0000","#FFFF0000","#FFFF0000"],

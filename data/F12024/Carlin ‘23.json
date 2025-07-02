@@ -1,6 +1,6 @@
 {
   "name": "Carlin ‘23",
-  "carClass": "Carlin ‘23",
+  "carClass": "F2",
   "ledNumber": 10,
   "redlineBlinkInterval": 50,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FFFF0000","#FFFF0000","#FFFF0000","#FF6495ED","#FF6495ED","#FF6495ED","#FF6495ED"],
