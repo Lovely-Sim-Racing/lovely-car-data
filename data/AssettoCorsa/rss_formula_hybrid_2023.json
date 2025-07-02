@@ -1,6 +1,6 @@
 {
   "name": "rss_formula_hybrid_2023",
-  "carClass": "rss_formula_hybrid_2023",
+  "carClass": "FHY",
   "ledNumber": 15,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF000000","#FF000000","#FF000000","#FF000000","#FF000000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF"],

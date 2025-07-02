@@ -1,6 +1,6 @@
 {
   "name": "Formula Inter MG-15",
-  "carClass": "Formula Inter MG-15",
+  "carClass": "FIN",
   "ledNumber": 13,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000","#FF0000FF","#FF0000FF"],

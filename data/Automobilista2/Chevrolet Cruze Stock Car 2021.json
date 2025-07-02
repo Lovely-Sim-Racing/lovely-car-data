@@ -1,6 +1,6 @@
 {
   "name": "Chevrolet Cruze Stock Car 2021",
-  "carClass": "Chevrolet Cruze Stock Car 2021",
+  "carClass": "STC",
   "ledNumber": 7,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000"],

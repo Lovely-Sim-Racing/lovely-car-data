@@ -1,6 +1,6 @@
 {
   "name": "Toyota Corolla Stock Car 2020",
-  "carClass": "Toyota Corolla Stock Car 2020",
+  "carClass": "STC",
   "ledNumber": 7,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000"],
