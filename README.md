@@ -11,6 +11,13 @@ A comprehensive list of Car Data for Sim Racing games.<br>
 
 ---
 
+<p align="center">
+<strong>A joint project between <a href="https://lsr.gg" target="_blank">Lovely Sim Racing</a>, <a href="https://lsr.gg/atsr" target="_blank">ATSR</a> & <a href="https://lsr.gg/gsi" target="_blank">Gomez Sim Industries</a>,</strong><br/>
+with the goal, to bring open and unified sim racing car data to everyone.
+</p>
+
+---
+
 ## How to
 Fetch the data by retrieving the url:
 `/data/{simId}/{carId}.json`
