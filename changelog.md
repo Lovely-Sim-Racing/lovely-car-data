@@ -8,6 +8,10 @@
 
 ## Changelog
 
+#### v1.2.0
+1. Added `carId`
+2. Renamed `name` to `carName`
+
 #### v1.1.0
 1. Added `redlineBlinkInterval`
 

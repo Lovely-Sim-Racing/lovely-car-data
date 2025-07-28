@@ -6,7 +6,7 @@
 
 <p align="center">
 A comprehensive list of Car Data for Sim Racing games.<br>
-<strong>File Format v1.0.0</strong>
+<strong>File Format v1.2.0</strong>
 </p>
 
 ---
@@ -32,7 +32,8 @@ Read the [changelog](changelog.md) to keep track of the format updates.
 Every file is formatted as follows:
 
 ``` 
-# name                (String) - The full human readable car name
+# carName             (String) - The full human readable car name
+# carId               (String) - The carId property as it appears in SimHub
 # carClass            (String) - The car's 3-5 letter class shorthand
 # ledNumber           (Int)    - The car's in game number of telemetry LED's
 # redlineBlinkInterval(Int)    - The Speed at which the redline blinks in ms
