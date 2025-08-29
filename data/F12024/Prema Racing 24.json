@@ -1,5 +1,6 @@
 {
-  "name": "Prema Racing 24",
+  "carName": "Prema Racing 24",
+  "carId": "Prema Racing 24",
   "carClass": "F2",
   "ledNumber": 10,
   "redlineBlinkInterval": 50,

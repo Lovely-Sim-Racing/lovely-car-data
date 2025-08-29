@@ -1,5 +1,6 @@
 {
-  "name": "Mercedes",
+  "carName": "Mercedes",
+  "carId": "Mercedes",
   "carClass": "MER",
   "ledNumber": 15,
   "redlineBlinkInterval": 50,

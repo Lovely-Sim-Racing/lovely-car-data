@@ -1,5 +1,6 @@
 {
-  "name": "Alpha Tauri",
+  "carName": "Alpha Tauri",
+  "carId": "Alpha Tauri",
   "carClass": "F2",
   "ledNumber": 15,
   "redlineBlinkInterval": 50,

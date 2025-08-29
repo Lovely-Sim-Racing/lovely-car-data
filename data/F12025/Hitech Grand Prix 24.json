@@ -1,5 +1,6 @@
 {
-  "name": "Hitech Grand Prix 24",
+  "carName": "Hitech Grand Prix 24",
+  "carId": "Hitech Grand Prix 24",
   "carClass": "F2",
   "ledNumber": 10,
   "redlineBlinkInterval": 50,

@@ -1,5 +1,6 @@
 {
-  "name": "PHM ‘23",
+  "carName": "PHM ‘23",
+  "carId": "PHM ‘23",
   "carClass": "F2",
   "ledNumber": 10,
   "redlineBlinkInterval": 50,

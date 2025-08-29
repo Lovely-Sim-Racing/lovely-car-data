@@ -1,5 +1,6 @@
 {
-  "name": "DAMS 24",
+  "carName": "DAMS 24",
+  "carId": "DAMS 24",
   "carClass": "F2",
   "ledNumber": 10,
   "redlineBlinkInterval": 50,

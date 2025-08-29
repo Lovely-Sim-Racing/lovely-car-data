@@ -1,5 +1,6 @@
 {
-  "name": "Art GP ‘23",
+  "carName": "Art GP ‘23",
+  "carId": "Art GP ‘23",
   "carClass": "F2",
   "ledNumber": 10,
   "redlineBlinkInterval": 50,

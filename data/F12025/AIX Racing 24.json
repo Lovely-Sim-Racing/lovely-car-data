@@ -1,5 +1,6 @@
 {
-  "name": "AIX Racing 24",
+  "carName": "AIX Racing 24",
+  "carId": "AIX Racing 24",
   "carClass": "F2",
   "ledNumber": 10,
   "redlineBlinkInterval": 50,

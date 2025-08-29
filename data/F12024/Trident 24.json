@@ -1,5 +1,6 @@
 {
-  "name": "Trident 24",
+  "carName": "Trident 24",
+  "carId": "Trident 24",
   "carClass": "F2",
   "ledNumber": 8,
   "redlineBlinkInterval": 50,

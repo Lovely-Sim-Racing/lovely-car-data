@@ -1,5 +1,6 @@
 {
-  "name": "F1 Generic",
+  "carName": "F1 Generic",
+  "carId": "F1 Generic",
   "carClass": "F1",
   "ledNumber": 15,
   "redlineBlinkInterval": 50,

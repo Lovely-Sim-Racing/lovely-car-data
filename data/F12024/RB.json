@@ -1,5 +1,6 @@
 {
-  "name": "RB",
+  "carName": "RB",
+  "carId": "RB",
   "carClass": "RB",
   "ledNumber": 15,
   "redlineBlinkInterval": 50,

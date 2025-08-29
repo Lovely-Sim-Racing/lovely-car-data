@@ -1,5 +1,6 @@
 {
-  "name": "MP Motorsport 24",
+  "carName": "MP Motorsport 24",
+  "carId": "MP Motorsport 24",
   "carClass": "F2",
   "ledNumber": 10,
   "redlineBlinkInterval": 50,

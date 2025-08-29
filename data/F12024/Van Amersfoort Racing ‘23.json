@@ -1,5 +1,6 @@
 {
-  "name": "Van Amersfoort Racing ‘23",
+  "carName": "Van Amersfoort Racing ‘23",
+  "carId": "Van Amersfoort Racing ‘23",
   "carClass": "F2",
   "ledNumber": 10,
   "redlineBlinkInterval": 50,

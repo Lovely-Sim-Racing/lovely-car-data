@@ -1,5 +1,6 @@
 {
-  "name": "Sauber",
+  "carName": "Sauber",
+  "carId": "Sauber",
   "carClass": "SAU",
   "ledNumber": 15,
   "redlineBlinkInterval": 50,

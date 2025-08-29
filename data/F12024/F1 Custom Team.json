@@ -1,5 +1,6 @@
 {
-  "name": "F1 Custom Team",
+  "carName": "F1 Custom Team",
+  "carId": "F1 Custom Team",
   "carClass": "F1",
   "ledNumber": 15,
   "redlineBlinkInterval": 50,

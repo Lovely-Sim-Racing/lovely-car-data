@@ -1,5 +1,6 @@
 {
-  "name": "Red Bull Racing",
+  "carName": "Red Bull Racing",
+  "carId": "Red Bull Racing",
   "carClass": "RBR",
   "ledNumber": 15,
   "redlineBlinkInterval": 50,

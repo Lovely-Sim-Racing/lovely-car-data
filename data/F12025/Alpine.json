@@ -1,6 +1,7 @@
 {
-  "name": "Alpine",
-  "carClass": "F2",
+  "carName": "Alpine",
+  "carId": "Alpine",
+  "carClass": "ALP",
   "ledNumber": 15,
   "redlineBlinkInterval": 50,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF6495ED","#FF6495ED","#FF6495ED","#FF6495ED","#FF6495ED"],

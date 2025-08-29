@@ -1,5 +1,6 @@
 {
-  "name": "ART Grand Prix 24",
+  "carName": "ART Grand Prix 24",
+  "carId": "ART Grand Prix 24",
   "carClass": "F2",
   "ledNumber": 10,
   "redlineBlinkInterval": 50,

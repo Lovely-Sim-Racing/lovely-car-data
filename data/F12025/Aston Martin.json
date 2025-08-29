@@ -1,5 +1,6 @@
 {
-  "name": "Aston Martin",
+  "carName": "Aston Martin",
+  "carId": "Aston Martin",
   "carClass": "AMR",
   "ledNumber": 15,
   "redlineBlinkInterval": 50,
