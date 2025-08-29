@@ -1,5 +1,6 @@
 {
-  "name": "lamborghinievogt3",
+  "carName": "Lamborghini Huracán EVO GT3",
+  "carId": "lamborghinievogt3",
   "carClass": "GT3",
   "ledNumber": 12,
   "redlineBlinkInterval": 0,

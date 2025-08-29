@@ -1,6 +1,7 @@
 {
-  "name": "ferrari499p",
-  "carClass": "ferrari499p",
+  "carName": "Ferrari 499P",
+  "carId": "ferrari499p",
+  "carClass": "GTP",
   "ledNumber": 10,
   "redlineBlinkInterval": 250,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000"],

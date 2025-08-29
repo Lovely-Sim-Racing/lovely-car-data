@@ -1,5 +1,6 @@
 {
-  "name": "mercedes_amg_gt3_evo",
+  "carName": "Mercedes AMG GT3 EVO",
+  "carId": "mercedes_amg_gt3_evo",
   "carClass": "GT3",
   "ledNumber": 12,
   "redlineBlinkInterval": 250,

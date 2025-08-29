@@ -1,6 +1,7 @@
 {
-  "name": "ferrari296challenge",
-  "carClass": "ferrari296challenge",
+  "carName": "Ferrari 296 Challenge",
+  "carId": "ferrari296challenge",
+  "carClass": "F296",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000"],

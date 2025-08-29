@@ -1,5 +1,6 @@
 {
-  "name": "GT3_BMW GT3 Custom Team",
+  "carName": "GT3_BMW GT3 Custom Team",
+  "carId": "GT3_BMW GT3 Custom Team",
   "carClass": "GT3",
   "ledNumber": 12,
   "redlineBlinkInterval": 0,

@@ -1,5 +1,6 @@
 {
-  "name": "Hyper_Glickenhaus Custom Team 2023",
+  "carName": "Hyper_Glickenhaus Custom Team 2023",
+  "carId": "Hyper_Glickenhaus Custom Team 2023",
   "carClass": "HYP",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,

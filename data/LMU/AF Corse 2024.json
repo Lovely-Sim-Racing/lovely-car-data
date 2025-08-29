@@ -1,6 +1,7 @@
 {
-  "name": "AF Corse 2024",
-  "carClass": "AF Corse 2024",
+  "carName": "AF Corse 2024",
+  "carId": "AF Corse 2024",
+  "carClass": "Manual input needed",
   "ledNumber": 12,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000"],

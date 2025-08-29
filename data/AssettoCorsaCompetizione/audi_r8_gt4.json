@@ -1,5 +1,6 @@
 {
-  "name": "audi_r8_gt4",
+  "carName": "Audi R8 GT4",
+  "carId": "audi_r8_gt4",
   "carClass": "GT4",
   "ledNumber": 10,
   "redlineBlinkInterval": 300,

@@ -1,5 +1,6 @@
 {
-  "name": "Hyper_Porsche 963 Custom Team 2023",
+  "carName": "Hyper_Porsche 963 Custom Team 2023",
+  "carId": "Hyper_Porsche 963 Custom Team 2023",
   "carClass": "HYP",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,

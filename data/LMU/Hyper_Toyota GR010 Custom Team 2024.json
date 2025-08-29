@@ -1,5 +1,6 @@
 {
-  "name": "Hyper_Toyota GR010 Custom Team 2024",
+  "carName": "Hyper_Toyota GR010 Custom Team 2024",
+  "carId": "Hyper_Toyota GR010 Custom Team 2024",
   "carClass": "HYP",
   "ledNumber": 15,
   "redlineBlinkInterval": 0,

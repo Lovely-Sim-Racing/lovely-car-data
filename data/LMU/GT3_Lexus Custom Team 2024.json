@@ -1,5 +1,6 @@
 {
-  "name": "GT3_Lexus Custom Team 2024",
+  "carName": "GT3_Lexus Custom Team 2024",
+  "carId": "GT3_Lexus Custom Team 2024",
   "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,

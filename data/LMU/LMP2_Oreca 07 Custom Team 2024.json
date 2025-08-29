@@ -1,5 +1,6 @@
 {
-  "name": "LMP2_Oreca 07 Custom Team 2024",
+  "carName": "LMP2_Oreca 07 Custom Team 2024",
+  "carId": "LMP2_Oreca 07 Custom Team 2024",
   "carClass": "LMP2",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,

@@ -1,6 +1,7 @@
 {
-  "name": "dallarair18",
-  "carClass": "dallarair18",
+  "carName": "Dallara iR18",
+  "carId": "dallarair18",
+  "carClass": "INDY",
   "ledNumber": 10,
   "redlineBlinkInterval": 300,
   "ledColor": ["#FF6495ED","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000"],

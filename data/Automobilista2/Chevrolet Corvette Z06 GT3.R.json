@@ -1,5 +1,6 @@
 {
-  "name": "Chevrolet Corvette Z06 GT3.R",
+  "carName": "Chevrolet Corvette Z06 GT3.R",
+  "carId": "Chevrolet Corvette Z06 GT3.R",
   "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,

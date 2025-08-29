@@ -1,6 +1,7 @@
 {
-  "name": "Chevrolet Cruze Stock Car 2023",
-  "carClass": "STC",
+  "carName": "Chevrolet Cruze Stock Car 2023",
+  "carId": "Chevrolet Cruze Stock Car 2023",
+  "carClass": "Manual input needed",
   "ledNumber": 7,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000"],

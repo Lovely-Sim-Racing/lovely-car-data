@@ -1,9 +1,10 @@
 {
-  "name": "Formula Ultimate Gen2",
-  "carClass": "FUT",
+  "carName": "Formula Ultimate Gen2",
+  "carId": "Formula Ultimate Gen2",
+  "carClass": "Manual input needed",
   "ledNumber": 15,
   "redlineBlinkInterval": 0,
-  "ledColor": ["#00000000","#FF000000","#FF000000","#FF000000","#FF000000","#FF000000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF"],
+  "ledColor": ["#00000000","#00000000","#00000000","#00000000","#00000000","#00000000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF"],
   "ledRpm": [
     {
       "R": [11550,9955,10000,10045,10090,11035,11079,11125,11175,11220,11265,11310,11365,11415,11453,11495],

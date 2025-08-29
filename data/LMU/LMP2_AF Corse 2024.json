@@ -1,5 +1,6 @@
 {
-  "name": "LMP2_AF Corse 2024",
+  "carName": "LMP2_AF Corse 2024",
+  "carId": "LMP2_AF Corse 2024",
   "carClass": "LMP2",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,

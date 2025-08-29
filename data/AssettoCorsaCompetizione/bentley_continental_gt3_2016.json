@@ -1,5 +1,6 @@
 {
-  "name": "bentley_continental_gt3_2016",
+  "carName": "Bentley Continental GT3 2016",
+  "carId": "bentley_continental_gt3_2016",
   "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 100,

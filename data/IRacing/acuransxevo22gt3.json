@@ -1,5 +1,6 @@
 {
-  "name": "acuransxevo22gt3",
+  "carName": "Acura NSX GT3 EVO22",
+  "carId": "acuransxevo22gt3",
   "carClass": "GT3",
   "ledNumber": 12,
   "redlineBlinkInterval": 250,

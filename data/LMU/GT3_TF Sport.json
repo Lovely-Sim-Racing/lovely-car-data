@@ -1,5 +1,6 @@
 {
-  "name": "GT3_TF Sport",
+  "carName": "GT3_TF Sport",
+  "carId": "GT3_TF Sport",
   "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,

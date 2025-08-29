@@ -1,5 +1,6 @@
 {
-  "name": "audir8lmsevo2gt3",
+  "carName": "Audi R8 LMS EVO2",
+  "carId": "audir8lmsevo2gt3",
   "carClass": "GT3",
   "ledNumber": 12,
   "redlineBlinkInterval": 250,

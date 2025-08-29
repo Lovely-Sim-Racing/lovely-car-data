@@ -1,6 +1,7 @@
 {
-  "name": "mclarenmp4",
-  "carClass": "mclarenmp4",
+  "carName": "McLaren MP4-12C",
+  "carId": "mclarenmp4",
+  "carClass": "GT3",
   "ledNumber": 12,
   "redlineBlinkInterval": 250,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF"],

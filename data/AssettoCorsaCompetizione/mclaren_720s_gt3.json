@@ -1,5 +1,6 @@
 {
-  "name": "mclaren_720s_gt3",
+  "carName": "McLaren 720S GT3",
+  "carId": "mclaren_720s_gt3",
   "carClass": "GT3",
   "ledNumber": 12,
   "redlineBlinkInterval": 250,

@@ -1,5 +1,6 @@
 {
-  "name": "amr_v8_vantage_gt4",
+  "carName": "AMR Vantage V8 GT4",
+  "carId": "amr_v8_vantage_gt4",
   "carClass": "GT4",
   "ledNumber": 12,
   "redlineBlinkInterval": 300,

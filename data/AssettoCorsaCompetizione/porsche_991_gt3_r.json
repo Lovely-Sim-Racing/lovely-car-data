@@ -1,5 +1,6 @@
 {
-  "name": "porsche_991_gt3_r",
+  "carName": "Porsche 991 GT3R",
+  "carId": "porsche_991_gt3_r",
   "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 100,

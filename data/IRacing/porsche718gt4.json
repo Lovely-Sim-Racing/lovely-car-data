@@ -1,5 +1,6 @@
 {
-  "name": "porsche718gt4",
+  "carName": "Porsche 718 GT4",
+  "carId": "porsche718gt4",
   "carClass": "GT4",
   "ledNumber": 8,
   "redlineBlinkInterval": 250,

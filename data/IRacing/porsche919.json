@@ -1,6 +1,7 @@
 {
-  "name": "porsche919",
-  "carClass": "porsche919",
+  "carName": "Porsche 919",
+  "carId": "porsche919",
+  "carClass": "LMP1",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FF6495ED","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00","#FF00FF00"],

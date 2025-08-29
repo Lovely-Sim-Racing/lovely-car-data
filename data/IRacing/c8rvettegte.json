@@ -1,9 +1,10 @@
 {
-  "name": "c8rvettegte",
-  "carClass": "c8rvettegte",
-  "ledNumber": 10,
+  "carName": "Corvette C8 GTE",
+  "carId": "c8rvettegte",
+  "carClass": "GTE",
+  "ledNumber": 12,
   "redlineBlinkInterval": 0,
-  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF8000","#FFFF8000","#FF000000","#FFFF0000","#FFFF0000"],
+  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF8000","#FFFF8000","#00000000","#FFFF0000","#FFFF0000"],
   "ledRpm": [
     {
       "R": [6900,4900,5100,0,5300,5500,5700,5900,6100,6300,0,6500,6700],

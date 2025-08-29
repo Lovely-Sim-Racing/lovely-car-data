@@ -1,5 +1,6 @@
 {
-  "name": "Hyper_VLMDH Custom Team 2024",
+  "carName": "Hyper_VLMDH Custom Team 2024",
+  "carId": "Hyper_VLMDH Custom Team 2024",
   "carClass": "HYP",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,

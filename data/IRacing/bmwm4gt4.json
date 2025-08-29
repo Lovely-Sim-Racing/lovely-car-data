@@ -1,5 +1,6 @@
 {
-  "name": "bmwm4gt4",
+  "carName": "BMW M4 GT4",
+  "carId": "bmwm4gt4",
   "carClass": "GT4",
   "ledNumber": 10,
   "redlineBlinkInterval": 250,

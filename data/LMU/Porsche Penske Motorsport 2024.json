@@ -1,6 +1,7 @@
 {
-  "name": "Porsche Penske Motorsport 2024",
-  "carClass": "Porsche Penske Motorsport 2024",
+  "carName": "Porsche Penske Motorsport 2024",
+  "carId": "Porsche Penske Motorsport 2024",
+  "carClass": "Manual input needed",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],

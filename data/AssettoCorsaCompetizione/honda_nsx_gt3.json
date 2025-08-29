@@ -1,5 +1,6 @@
 {
-  "name": "honda_nsx_gt3",
+  "carName": "Honda NSX GT3",
+  "carId": "honda_nsx_gt3",
   "carClass": "GT3",
   "ledNumber": 10,
   "redlineBlinkInterval": 300,

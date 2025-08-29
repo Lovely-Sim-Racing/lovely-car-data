@@ -1,5 +1,6 @@
 {
-  "name": "lexus_rc_f_gt3",
+  "carName": "Lexus RC-F GT3",
+  "carId": "lexus_rc_f_gt3",
   "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 100,

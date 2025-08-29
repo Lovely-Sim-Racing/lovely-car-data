@@ -1,5 +1,6 @@
 {
-  "name": "Mercedes-AMG GT3 Evo",
+  "carName": "Mercedes-AMG GT3 Evo",
+  "carId": "Mercedes-AMG GT3 Evo",
   "carClass": "GT3",
   "ledNumber": 12,
   "redlineBlinkInterval": 0,

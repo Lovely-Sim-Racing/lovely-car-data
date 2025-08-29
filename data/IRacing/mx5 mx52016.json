@@ -1,6 +1,7 @@
 {
-  "name": "mx5 mx52016",
-  "carClass": "mx5 mx52016",
+  "carName": "Mazda MX-5 Cup",
+  "carId": "mx5 mx52016",
+  "carClass": "MX5",
   "ledNumber": 10,
   "redlineBlinkInterval": 500,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],

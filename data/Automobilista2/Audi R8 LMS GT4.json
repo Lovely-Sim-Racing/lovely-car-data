@@ -1,5 +1,6 @@
 {
-  "name": "Audi R8 LMS GT4",
+  "carName": "Audi R8 LMS GT4",
+  "carId": "Audi R8 LMS GT4",
   "carClass": "GT4",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,

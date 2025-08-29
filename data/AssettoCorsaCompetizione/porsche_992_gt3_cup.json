@@ -1,5 +1,6 @@
 {
-  "name": "porsche_992_gt3_cup",
+  "carName": "Porsche 992 Cup",
+  "carId": "porsche_992_gt3_cup",
   "carClass": "CUP",
   "ledNumber": 16,
   "redlineBlinkInterval": 100,

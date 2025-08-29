@@ -1,5 +1,6 @@
 {
-  "name": "jaguar_g3",
+  "carName": "Jaguar G3",
+  "carId": "jaguar_g3",
   "carClass": "GT3",
   "ledNumber": 10,
   "redlineBlinkInterval": 300,

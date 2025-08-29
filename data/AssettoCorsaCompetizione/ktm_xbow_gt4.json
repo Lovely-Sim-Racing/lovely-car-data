@@ -1,5 +1,6 @@
 {
-  "name": "ktm_xbow_gt4",
+  "carName": "KTM X-Bow GT4",
+  "carId": "ktm_xbow_gt4",
   "carClass": "GT4",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,

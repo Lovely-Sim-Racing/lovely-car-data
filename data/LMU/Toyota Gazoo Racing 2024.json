@@ -1,6 +1,7 @@
 {
-  "name": "Toyota Gazoo Racing 2024",
-  "carClass": "Toyota Gazoo Racing 2024",
+  "carName": "Toyota Gazoo Racing 2024",
+  "carId": "Toyota Gazoo Racing 2024",
+  "carClass": "Manual input needed",
   "ledNumber": 15,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FF6495ED","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF"],

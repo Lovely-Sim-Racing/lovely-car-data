@@ -1,6 +1,7 @@
 {
-  "name": "formularenault20",
-  "carClass": "formularenault20",
+  "carName": "Formula Renault 2.0",
+  "carId": "formularenault20",
+  "carClass": "F2.0",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000"],

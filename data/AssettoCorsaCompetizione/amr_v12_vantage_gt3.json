@@ -1,5 +1,6 @@
 {
-  "name": "amr_v12_vantage_gt3",
+  "carName": "AMR Vantage V12 GT3",
+  "carId": "amr_v12_vantage_gt3",
   "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 100,

@@ -1,5 +1,6 @@
 {
-  "name": "porsche_718_cayman_gt4_mr",
+  "carName": "Porsche 718 Cayman GT4",
+  "carId": "porsche_718_cayman_gt4_mr",
   "carClass": "GT4",
   "ledNumber": 8,
   "redlineBlinkInterval": 100,

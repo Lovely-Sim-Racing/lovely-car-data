@@ -1,6 +1,7 @@
 {
-  "name": "supercars chevycamarogen3",
-  "carClass": "supercars chevycamarogen3",
+  "carName": "Chevrolet Camaro Gen3 Supercar",
+  "carId": "supercars chevycamarogen3",
+  "carClass": "SUP",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FFFF8000","#FFFF8000","#FF00FF00","#FF00FF00","#FF00FF00"],

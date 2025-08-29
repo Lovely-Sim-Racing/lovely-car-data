@@ -1,9 +1,10 @@
 {
-  "name": "Team WRT 2024",
-  "carClass": "Team WRT 2024",
-  "ledNumber": 10,
+  "carName": "Team WRT 2024",
+  "carId": "Team WRT 2024",
+  "carClass": "Manual input needed",
+  "ledNumber": 12,
   "redlineBlinkInterval": 0,
-  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF000000","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FF000000","#FF00FF00","#FF00FF00"],
+  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#00000000","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#00000000","#FF00FF00","#FF00FF00"],
   "ledRpm": [
     {
       "R": [7180,6100,6320,0,6535,6750,6967,6967,6750,6535,0,6320,6100],

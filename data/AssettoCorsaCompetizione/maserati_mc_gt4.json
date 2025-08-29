@@ -1,5 +1,6 @@
 {
-  "name": "maserati_mc_gt4",
+  "carName": "Maserati MC GT4",
+  "carId": "maserati_mc_gt4",
   "carClass": "GT4",
   "ledNumber": 6,
   "redlineBlinkInterval": 100,

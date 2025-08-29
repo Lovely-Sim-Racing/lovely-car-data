@@ -1,6 +1,7 @@
 {
-  "name": "Team WRT",
-  "carClass": "Team WRT",
+  "carName": "Team WRT",
+  "carId": "Team WRT",
+  "carClass": "Manual input needed",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FF0000FF","#FF0000FF"],

@@ -1,5 +1,6 @@
 {
-  "name": "mercedesamggt4",
+  "carName": "Mercedes AMG GT4",
+  "carId": "mercedesamggt4",
   "carClass": "GT4",
   "ledNumber": 12,
   "redlineBlinkInterval": 300,

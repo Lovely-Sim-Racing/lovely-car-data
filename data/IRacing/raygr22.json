@@ -1,6 +1,7 @@
 {
-  "name": "raygr22",
-  "carClass": "raygr22",
+  "carName": "Ray FF1600",
+  "carId": "raygr22",
+  "carClass": "F1.6",
   "ledNumber": 5,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFF0000","#FF0000FF"],

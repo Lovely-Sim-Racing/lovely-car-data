@@ -1,6 +1,7 @@
 {
-  "name": "formularenault35",
-  "carClass": "formularenault35",
+  "carName": "Formula Renault 3.5",
+  "carId": "formularenault35",
+  "carClass": "F3.5",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000"],

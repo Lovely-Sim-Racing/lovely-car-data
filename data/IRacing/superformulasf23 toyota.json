@@ -1,6 +1,7 @@
 {
-  "name": "superformulasf23 toyota",
-  "carClass": "superformulasf23 toyota",
+  "carName": "Super Formula - Toyota",
+  "carId": "superformulasf23 toyota",
+  "carClass": "SF",
   "ledNumber": 10,
   "redlineBlinkInterval": 300,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000"],

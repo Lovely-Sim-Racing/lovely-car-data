@@ -1,5 +1,6 @@
 {
-  "name": "Hyper_499P Custom Team 2023",
+  "carName": "Hyper_499P Custom Team 2023",
+  "carId": "Hyper_499P Custom Team 2023",
   "carClass": "HYP",
   "ledNumber": 12,
   "redlineBlinkInterval": 0,

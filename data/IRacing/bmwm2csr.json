@@ -1,6 +1,7 @@
 {
-  "name": "bmwm2csr",
-  "carClass": "bmwm2csr",
+  "carName": "BMW M2 CSR",
+  "carId": "bmwm2csr",
+  "carClass": "M2C",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],

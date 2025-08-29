@@ -1,6 +1,7 @@
 {
-  "name": "formulair04",
-  "carClass": "formulair04",
+  "carName": "Formula iR04",
+  "carId": "formulair04",
+  "carClass": "F4",
   "ledNumber": 6,
   "redlineBlinkInterval": 250,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFF0000","#FFFF0000"],

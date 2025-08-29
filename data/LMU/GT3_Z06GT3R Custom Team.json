@@ -1,5 +1,6 @@
 {
-  "name": "GT3_Z06GT3R Custom Team",
+  "carName": "GT3_Z06GT3R Custom Team",
+  "carId": "GT3_Z06GT3R Custom Team",
   "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,

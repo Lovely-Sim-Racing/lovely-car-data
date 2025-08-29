@@ -1,6 +1,7 @@
 {
-  "name": "ligierjsp320",
-  "carClass": "ligierjsp320",
+  "carName": "Ligier JS P320",
+  "carId": "ligierjsp320",
+  "carClass": "LMP3",
   "ledNumber": 10,
   "redlineBlinkInterval": 100,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FF0000FF","#FF0000FF","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],

@@ -1,5 +1,6 @@
 {
-  "name": "alpine_a110_gt4",
+  "carName": "Alpine A110 GT4",
+  "carId": "alpine_a110_gt4",
   "carClass": "GT4",
   "ledNumber": 10,
   "redlineBlinkInterval": 300,

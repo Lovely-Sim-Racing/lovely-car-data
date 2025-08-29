@@ -1,5 +1,6 @@
 {
-  "name": "chevrolet_camaro_gt4r",
+  "carName": "Chevrolet Camaro GT4R",
+  "carId": "chevrolet_camaro_gt4r",
   "carClass": "GT4",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,

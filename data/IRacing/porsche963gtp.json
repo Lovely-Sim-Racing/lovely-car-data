@@ -1,6 +1,7 @@
 {
-  "name": "porsche963gtp",
-  "carClass": "porsche963gtp",
+  "carName": "Porsche 963",
+  "carId": "porsche963gtp",
+  "carClass": "GTP",
   "ledNumber": 10,
   "redlineBlinkInterval": 250,
   "ledColor": ["#FF6495ED","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],

@@ -1,6 +1,7 @@
 {
-  "name": "dallarap217",
-  "carClass": "dallarap217",
+  "carName": "Dallara P217",
+  "carId": "dallarap217",
+  "carClass": "LMP2",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF0000FF","#FF0000FF","#FF0000FF"],

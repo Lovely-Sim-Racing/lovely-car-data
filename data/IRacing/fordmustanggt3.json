@@ -1,5 +1,6 @@
 {
-  "name": "fordmustanggt3",
+  "carName": "Ford Mustang GT3",
+  "carId": "fordmustanggt3",
   "carClass": "GT3",
   "ledNumber": 10,
   "redlineBlinkInterval": 250,

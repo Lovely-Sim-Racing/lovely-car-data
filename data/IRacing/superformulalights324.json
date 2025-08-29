@@ -1,6 +1,7 @@
 {
-  "name": "superformulalights324",
-  "carClass": "superformulalights324",
+  "carName": "Super Formula Lights",
+  "carId": "superformulalights324",
+  "carClass": "SFL",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000"],

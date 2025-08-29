@@ -1,5 +1,6 @@
 {
-  "name": "Ginetta G55 GT3",
+  "carName": "Ginetta G55 GT3",
+  "carId": "Ginetta G55 GT3",
   "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,

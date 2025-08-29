@@ -1,5 +1,6 @@
 {
-  "name": "Ginetta G55 GT4 Supercup",
+  "carName": "Ginetta G55 GT4 Supercup",
+  "carId": "Ginetta G55 GT4 Supercup",
   "carClass": "CUP",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,

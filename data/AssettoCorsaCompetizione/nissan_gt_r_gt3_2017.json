@@ -1,5 +1,6 @@
 {
-  "name": "nissan_gt_r_gt3_2017",
+  "carName": "Nissan GT-R GT3 2017",
+  "carId": "nissan_gt_r_gt3_2017",
   "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 250,

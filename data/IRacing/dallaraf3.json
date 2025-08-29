@@ -1,6 +1,7 @@
 {
-  "name": "dallaraf3",
-  "carClass": "dallaraf3",
+  "carName": "Dallara F3",
+  "carId": "dallaraf3",
+  "carClass": "F3",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000"],

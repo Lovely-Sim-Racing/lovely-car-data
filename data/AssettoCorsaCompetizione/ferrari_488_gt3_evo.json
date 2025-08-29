@@ -1,5 +1,6 @@
 {
-  "name": "ferrari_488_gt3_evo",
+  "carName": "Ferrari 488 EVO GT3",
+  "carId": "ferrari_488_gt3_evo",
   "carClass": "GT3",
   "ledNumber": 6,
   "redlineBlinkInterval": 250,

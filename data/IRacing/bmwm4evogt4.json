@@ -1,5 +1,6 @@
 {
-  "name": "bmwm4evogt4",
+  "carName": "BMW M4 EVO GT4",
+  "carId": "bmwm4evogt4",
   "carClass": "GT4",
   "ledNumber": 10,
   "redlineBlinkInterval": 200,

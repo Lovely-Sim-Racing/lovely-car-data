@@ -1,6 +1,7 @@
 {
-  "name": "ferrari488gte",
-  "carClass": "ferrari488gte",
+  "carName": "Ferrari 488 GTE",
+  "carId": "ferrari488gte",
+  "carClass": "GTE",
   "ledNumber": 6,
   "redlineBlinkInterval": 250,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFF0000"],

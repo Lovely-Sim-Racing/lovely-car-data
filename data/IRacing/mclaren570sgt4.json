@@ -1,5 +1,6 @@
 {
-  "name": "mclaren570sgt4",
+  "carName": "McLaren 570S GT4",
+  "carId": "mclaren570sgt4",
   "carClass": "GT4",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,

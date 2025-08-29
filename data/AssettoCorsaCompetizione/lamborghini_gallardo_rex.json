@@ -1,5 +1,6 @@
 {
-  "name": "lamborghini_gallardo_rex",
+  "carName": "Lamborghini Gallardo REX",
+  "carId": "lamborghini_gallardo_rex",
   "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,

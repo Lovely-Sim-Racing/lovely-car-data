@@ -1,6 +1,7 @@
 {
-  "name": "fordgt2017",
-  "carClass": "GT2",
+  "carName": "Ford GT GTE",
+  "carId": "fordgt2017",
+  "carClass": "GTE",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FFFF0000","#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00"],
