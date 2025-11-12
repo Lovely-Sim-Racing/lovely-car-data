@@ -6,7 +6,7 @@
 
 <p align="center">
 A comprehensive list of Car Data for Sim Racing games.<br>
-<strong>File Format v1.2.0</strong>
+<strong>File Format v2.0.0</strong>
 </p>
 
 ---
@@ -20,10 +20,55 @@ with the goal, to bring open and unified sim racing car data to everyone.
 
 ## How to
 Fetch the data by retrieving the url:
-`/data/{simId}/{carId}.json`
+`{version}/data/{simId}/{carId}.json`
 
-* `{simId}` is the lowercase Simhub game id `DataCorePlugin.CurrentGame`
-* `{carId}` is the lowercase Simhub car id `DataCorePlugin.CarId`
+* `{simId}` is the Simhub game id `DataCorePlugin.CurrentGame`
+* `{carId}` is the Simhub car id `DataCorePlugin.CarId`
+
+### Name Format
+
+Both `{SimId}` and `{carId}` must adhere to the following naming format:
+
+1. Lowercase
+2. Replace accented chars with standard equivalent
+3. Replace spaces with hyphen
+4. Replace special characters with hyphen
+5. Remove double Hyphens
+6. Remove leading and trailing hyphens
+
+### Example name formatting
+
+* `F12024 / AIX Racing 24` -> `f12024/aix-racing-24.json`
+* `F12024 / Dams ‘23` -> `f1/dams-23.json`
+* `AssettoCorsa / alpine_a110_gt4` -> `assettocorsa/alpine-a110-gt4.json`
+* `LMU / Algarve Pro Racing 2024` -> `lmu/algarve-pro-racing-2024.json`
+
+### Example code
+
+```
+function nameCleaner($cleanName)
+{
+    // Convert to lowercase
+    $cleanName = mb_strtolower($cleanName, 'UTF-8');
+
+    // Replace accented character with standard
+    $cleanName = iconv('UTF-8', 'ASCII//TRANSLIT', $cleanName);
+    
+    // Replace spaces with hyphen
+    $cleanName = preg_replace('/\s+/', '-', $cleanName);
+    
+    // Replace special characters with hyphen
+    $cleanName = preg_replace('/[^a-z0-9]/i', '-', $cleanName);
+    
+    // Replace multiple hyphens with single
+    $cleanName = preg_replace('/-+/', '-', $cleanName);
+    
+    // Clean leading and trailign hyphens
+    $cleanName = trim($cleanName, '-');
+    
+    return $cleanName;
+}   
+```
 
 ## Changelog
 Read the [changelog](changelog.md) to keep track of the format updates.
