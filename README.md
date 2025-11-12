@@ -22,6 +22,7 @@ with the goal, to bring open and unified sim racing car data to everyone.
 Fetch the data by retrieving the url:
 `{version}/data/{simId}/{carId}.json`
 
+* `{version}` is the specific branch of car data. `main` will always have the latest version.
 * `{simId}` is the Simhub game id `DataCorePlugin.CurrentGame`
 * `{carId}` is the Simhub car id `DataCorePlugin.CarId`
 
