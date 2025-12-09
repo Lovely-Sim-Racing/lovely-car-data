@@ -1,10 +1,10 @@
 {
-    "name": "MASERATI GT2 2023",
+    "carName": "MASERATI GT2 2023",
     "carId": "maserati_mc20_gt2",
     "carClass": "GT2",
     "ledNumber": 8,
     "redlineBlinkInterval": 250,
-    "ledColor": [ "#0000FF", "#00FF00", "#00FF00", "#FFFF00", "#FFFF00", "#FFFF00", "#FFFF00", "#FF0000", "#FF0000" ],
+    "ledColor": [ "#FF0000FF", "#FF00FF00", "#FF00FF00", "#FFFFFF00", "#FFFFFF00", "#FFFFFF00", "#FFFFFF00", "#FFFF0000", "#FFFF0000" ],
     "ledRpm": [
         {
             "R": [ 7650, 5500, 5900, 6200, 6400, 6700, 6900, 7200, 7400 ],
