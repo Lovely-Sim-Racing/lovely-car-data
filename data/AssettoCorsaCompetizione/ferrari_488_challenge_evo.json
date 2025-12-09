@@ -4,7 +4,7 @@
   "carClass": "GTC",
   "ledNumber": 4,
   "redlineBlinkInterval": 250,
-  "ledColor": ["#00000000","#00FF00","#00FF00","#00FF00","#FF0000"],
+  "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FFFF0000"],
   "ledRpm": [
     {
       "R": [ 7800, 7300, 7400, 7500, 7600 ],
