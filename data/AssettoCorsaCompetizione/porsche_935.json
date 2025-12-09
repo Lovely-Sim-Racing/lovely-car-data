@@ -4,7 +4,7 @@
   "carClass": "GT2",
   "ledNumber": 8,
   "redlineBlinkInterval": 120,
-  "ledColor": ["#0000FF","#00FF00","#00FF00","#00FF00","#FFFF00","#FFFF00","#FFFF00","#FF0000","#FF0000"],
+  "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000"],
   "ledRpm": [
     {
       "R": [ 6900, 6000, 6200, 6400, 6500, 6600, 6700, 6800, 6900 ],

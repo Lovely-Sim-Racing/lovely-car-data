@@ -1,10 +1,10 @@
 {
-    "name": "KTM XBOW GT2 2021",
+    "carNme": "KTM XBOW GT2 2021",
     "carId": "ktm_xbow_gt2",
     "carClass": "GT2",
     "ledNumber": 8,
     "redlineBlinkInterval": 250,
-    "ledColor": [ "#000000", "#FF0000", "#FF0000", "#FF0000", "#FF0000", "#FF0000", "#FF0000", "#FF0000", "#FF0000" ],
+    "ledColor": [ "#00000000", "#FFFF0000", "#FFFF0000", "#FFFF0000", "#FFFF0000", "#FFFF0000", "#FFFF0000", "#FFFF0000", "#FFFF0000" ],
     "ledRpm": [
         {
             "R": [ 7100, 6100, 6100, 6500, 6500, 6900, 6900, 6900, 6900 ],

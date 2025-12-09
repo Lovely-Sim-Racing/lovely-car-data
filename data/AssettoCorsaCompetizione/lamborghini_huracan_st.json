@@ -4,7 +4,7 @@
   "carClass": "ST",
   "ledNumber": 8,
   "redlineBlinkInterval": 250,
-  "ledColor": ["#00000000","#00FF00","#0000FF","#FFFF00","#FF0000","#FF0000","#FFFF00","#0000FF","#00FF00"],
+  "ledColor": ["#00000000","#FF00FF00","#FF0000FF","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FF0000FF","#FF00FF00"],
   "ledRpm": [
     {
       "R": [ 7900, 6200, 6800, 7100, 7400, 7400, 7100, 6800, 6200 ],

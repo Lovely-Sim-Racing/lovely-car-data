@@ -1,10 +1,10 @@
 {
-    "name": "MERCEDES AMG GT2 2023",
+    "carNme": "MERCEDES AMG GT2 2023",
     "carId": "mercedes_amg_gt2",
     "carClass": "GT2",
     "ledNumber": 8,
     "redlineBlinkInterval": 250,
-    "ledColor": [ "#FF0000", "#00FF00", "#FFFF00", "#FFFF00", "#FF0000", "#FF0000", "#FFFF00", "#FFFF00", "#00FF00" ],
+    "ledColor": [ "#FFFF0000", "#FF00FF00", "#FFFFFF00", "#FFFFFF00", "#FFFF0000", "#FFFF0000", "#FFFFFF00", "#FFFFFF00", "#FF00FF00" ],
     "ledRpm": [
         {
             "R": [ 7000, 6000, 6300, 6600, 6800, 6800, 6600, 6300, 6000 ],
