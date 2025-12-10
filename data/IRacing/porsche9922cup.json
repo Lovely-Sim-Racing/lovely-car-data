@@ -1,6 +1,6 @@
 {
-  "carName": "Porsche 992 Cup",
-  "carId": "porsche992cup",
+  "carName": "Porsche 911 Cup (992.2)",
+  "carId": "porsche9922cup",
   "carClass": "CUP",
   "ledNumber": 16,
   "redlineBlinkInterval": 200,
