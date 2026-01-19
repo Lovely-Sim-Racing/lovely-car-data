@@ -78,24 +78,29 @@ Read the [changelog](changelog.md) to keep track of the format updates.
 Every file is formatted as follows:
 
 ``` 
-# carName             (String) - The full human readable car name
-# carId               (String) - The carId property as it appears in SimHub
-# carClass            (String) - The car's 3-5 letter class shorthand
-# ledNumber           (Int)    - The car's in game number of telemetry LED's
-# redlineBlinkInterval(Int)    - The Speed at which the redline blinks in ms
-# ledColor                       An array of the led color
-  # redline(:Value)   (String) - A color name or HEX value for the red line
-  # led1color(:Value) (String) - A color name or HEX value for LED 1
-  # led2color(:Value) (String) - A color name or HEX value for LED 2
-  # led3color(:Value) (String) - A color name or HEX value for LED 3
-  # ledNcolor(:Value) (String) - A color name or HEX value for LED N
-# ledRpm                         An array of all the RPM data per gear
-  # gear(:Key)        (String) - The gear number
-    # redline(:Value) (Int)    - The RPM red line value per gear
-    # led1rpm(:Value) (Int)    - The RPM value for LED 1
-    # led2rpm(:Value) (Int)    - The RPM value for LED 2
-    # led3rpm(:Value) (Int)    - The RPM value for LED 3
-    # ledNrpm(:Value) {Int)    - The RPM value for LED N
+# carName               (String) - The full human readable car name
+# carId                 (String) - The carId property as it appears in SimHub
+# carClass              (String) - The car's 3-5 letter class shorthand
+# ledNumber             (Int)    - The car's in game number of telemetry LED's
+# redlineBlinkInterval  (Int)    - The Speed at which the redline blinks in ms
+# ledColor                         An array of the led color
+  # redline(:Value)     (String) - A color name or HEX value for the red line
+  # led1color(:Value)   (String) - A color name or HEX value for LED 1
+  # led2color(:Value)   (String) - A color name or HEX value for LED 2
+  # led3color(:Value)   (String) - A color name or HEX value for LED 3
+  # ledNcolor(:Value)   (String) - A color name or HEX value for LED N
+# ledRpm                           An array of all the RPM data per gear
+  # gear(:Key)          (String) - The gear number
+    # redline(:Value)   (Int)    - The RPM red line value per gear
+    # led1rpm(:Value)   (Int)    - The RPM value for LED 1
+    # led2rpm(:Value)   (Int)    - The RPM value for LED 2
+    # led3rpm(:Value)   (Int)    - The RPM value for LED 3
+    # ledNrpm(:Value)   (Int)    - The RPM value for LED N
+# carSettings                      (Optional) An array of all the available Car Settings
+  # property(:Simhub)   (String) - The SimHub Property Name
+    # min               (Int)    - Lowest possible setting
+    # max               (Int)    - Highest possible setting
+
 ```
 
 ## Color Names
