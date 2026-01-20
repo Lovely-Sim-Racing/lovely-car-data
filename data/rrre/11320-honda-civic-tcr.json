@@ -1,5 +1,5 @@
 {
-  "name": "Honda Civic TCR",
+  "carName": "Honda Civic TCR",
   "carId": "11320,Honda Civic TCR",
   "carClass": "TCR",
   "ledNumber": 10,
