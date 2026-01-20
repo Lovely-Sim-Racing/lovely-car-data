@@ -25,6 +25,12 @@ Fetch the data by retrieving the url:
 * `{simId}` is the lowercase Simhub game id `DataCorePlugin.CurrentGame`
 * `{carId}` is the lowercase Simhub car id `DataCorePlugin.CarId`
 
+### Manifest Files
+Each sim folder contains a `manifest.json` listing all available cars:
+`/data/{simId}/manifest.json`
+
+See [scripts/MANIFEST_GENERATOR.md](scripts/MANIFEST_GENERATOR.md) for details on regenerating manifests.
+
 ## Changelog
 Read the [changelog](changelog.md) to keep track of the format updates.
 
