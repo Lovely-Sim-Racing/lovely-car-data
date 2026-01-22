@@ -1,0 +1,2600 @@
+{
+  "cars": {
+    "assettocorsa": [
+      {
+        "carName": "RSS Formula Hybrid 2023",
+        "carId": "rss_formula_hybrid_2023_AC",
+        "path": "assettocorsa/rss-formula-hybrid-2023.json"
+      }
+    ],
+    "assettocorsacompetizione": [
+      {
+        "carName": "Alpine A110 GT4",
+        "carId": "alpine_a110_gt4",
+        "path": "assettocorsacompetizione/alpine-a110-gt4.json"
+      },
+      {
+        "carName": "AMR Vantage V12 GT3",
+        "carId": "amr_v12_vantage_gt3",
+        "path": "assettocorsacompetizione/amr-v12-vantage-gt3.json"
+      },
+      {
+        "carName": "AMR Vantage V8 GT3",
+        "carId": "amr_v8_vantage_gt3",
+        "path": "assettocorsacompetizione/amr-v8-vantage-gt3.json"
+      },
+      {
+        "carName": "AMR Vantage V8 GT4",
+        "carId": "amr_v8_vantage_gt4",
+        "path": "assettocorsacompetizione/amr-v8-vantage-gt4.json"
+      },
+      {
+        "carName": "Audi R8 GT4",
+        "carId": "audi_r8_gt4",
+        "path": "assettocorsacompetizione/audi-r8-gt4.json"
+      },
+      {
+        "carName": "Audi R8 LMS EVOii",
+        "carId": "audi_r8_lms_evo_ii",
+        "path": "assettocorsacompetizione/audi-r8-lms-evo-ii.json"
+      },
+      {
+        "carName": "Audi R8 LMS EVO",
+        "carId": "audi_r8_lms_evo",
+        "path": "assettocorsacompetizione/audi-r8-lms-evo.json"
+      },
+      {
+        "carName": "AUDI R8 LMS GT2 2021",
+        "carId": "audi_r8_lms_gt2",
+        "path": "assettocorsacompetizione/audi-r8-lms-gt2.json"
+      },
+      {
+        "carName": "Audi R8 LMS",
+        "carId": "audi_r8_lms",
+        "path": "assettocorsacompetizione/audi-r8-lms.json"
+      },
+      {
+        "carName": "Bentley Continental GT3 2016",
+        "carId": "bentley_continental_gt3_2016",
+        "path": "assettocorsacompetizione/bentley-continental-gt3-2016.json"
+      },
+      {
+        "carName": "Bentley Continental GT3 2018",
+        "carId": "bentley_continental_gt3_2018",
+        "path": "assettocorsacompetizione/bentley-continental-gt3-2018.json"
+      },
+      {
+        "carName": "BMW m2 CUP 2020",
+        "carId": "bmw_m2_cs_racing",
+        "path": "assettocorsacompetizione/bmw-m2-cs-racing.json"
+      },
+      {
+        "carName": "BMW M4 GT3",
+        "carId": "bmw_m4_gt3",
+        "path": "assettocorsacompetizione/bmw-m4-gt3.json"
+      },
+      {
+        "carName": "BMW M4 GT4",
+        "carId": "bmw_m4_gt4",
+        "path": "assettocorsacompetizione/bmw-m4-gt4.json"
+      },
+      {
+        "carName": "BMW M6 GT3",
+        "carId": "bmw_m6_gt3",
+        "path": "assettocorsacompetizione/bmw-m6-gt3.json"
+      },
+      {
+        "carName": "Chevrolet Camaro GT4R",
+        "carId": "chevrolet_camaro_gt4r",
+        "path": "assettocorsacompetizione/chevrolet-camaro-gt4r.json"
+      },
+      {
+        "carName": "Ferrari 296 GT3",
+        "carId": "ferrari_296_gt3",
+        "path": "assettocorsacompetizione/ferrari-296-gt3.json"
+      },
+      {
+        "carName": "FERRARI 488 CHALLENGE EVO 2020",
+        "carId": "ferrari_488_challenge_evo",
+        "path": "assettocorsacompetizione/ferrari-488-challenge-evo.json"
+      },
+      {
+        "carName": "Ferrari 488 EVO GT3",
+        "carId": "ferrari_488_gt3_evo",
+        "path": "assettocorsacompetizione/ferrari-488-gt3-evo.json"
+      },
+      {
+        "carName": "Ferrari 488 GT3",
+        "carId": "ferrari_488_gt3",
+        "path": "assettocorsacompetizione/ferrari-488-gt3.json"
+      },
+      {
+        "carName": "Ford Mustang GT3",
+        "carId": "ford_mustang_gt3",
+        "path": "assettocorsacompetizione/ford-mustang-gt3.json"
+      },
+      {
+        "carName": "Honda NSX Evo GT3",
+        "carId": "honda_nsx_gt3_evo",
+        "path": "assettocorsacompetizione/honda-nsx-gt3-evo.json"
+      },
+      {
+        "carName": "Honda NSX GT3",
+        "carId": "honda_nsx_gt3",
+        "path": "assettocorsacompetizione/honda-nsx-gt3.json"
+      },
+      {
+        "carName": "Jaguar G3",
+        "carId": "jaguar_g3",
+        "path": "assettocorsacompetizione/jaguar-g3.json"
+      },
+      {
+        "carName": "KTM XBOW GT2 2021",
+        "carId": "ktm_xbow_gt2",
+        "path": "assettocorsacompetizione/ktm-xbow-gt2.json"
+      },
+      {
+        "carName": "KTM X-Bow GT4",
+        "carId": "ktm_xbow_gt4",
+        "path": "assettocorsacompetizione/ktm-xbow-gt4.json"
+      },
+      {
+        "carName": "Lamborghini Gallardo REX",
+        "carId": "lamborghini_gallardo_rex",
+        "path": "assettocorsacompetizione/lamborghini-gallardo-rex.json"
+      },
+      {
+        "carName": "Lamborghini Huracan EVO GT3",
+        "carId": "lamborghini_huracan_gt3_evo",
+        "path": "assettocorsacompetizione/lamborghini-huracan-gt3-evo.json"
+      },
+      {
+        "carName": "Lamborghini Huracan EVO2 GT3",
+        "carId": "lamborghini_huracan_gt3_evo2",
+        "path": "assettocorsacompetizione/lamborghini-huracan-gt3-evo2.json"
+      },
+      {
+        "carName": "Lamborghini Huracan GT3",
+        "carId": "lamborghini_huracan_gt3",
+        "path": "assettocorsacompetizione/lamborghini-huracan-gt3.json"
+      },
+      {
+        "carName": "LAMBORGHINI HURACÁN ST EVO2 2021",
+        "carId": "lamborghini_huracan_st_evo2",
+        "path": "assettocorsacompetizione/lamborghini-huracan-st-evo2.json"
+      },
+      {
+        "carName": "LAMBORGHINI HURACÁN ST 2015",
+        "carId": "lamborghini_huracan_st",
+        "path": "assettocorsacompetizione/lamborghini-huracan-st.json"
+      },
+      {
+        "carName": "Lexus RC-F GT3",
+        "carId": "lexus_rc_f_gt3",
+        "path": "assettocorsacompetizione/lexus-rc-f-gt3.json"
+      },
+      {
+        "carName": "Maserati MC GT4",
+        "carId": "maserati_mc_gt4",
+        "path": "assettocorsacompetizione/maserati-mc-gt4.json"
+      },
+      {
+        "carName": "MASERATI GT2 2023",
+        "carId": "maserati_mc20_gt2",
+        "path": "assettocorsacompetizione/maserati-mc20-gt2.json"
+      },
+      {
+        "carName": "McLaren 570S GT4",
+        "carId": "mclaren_570s_gt4",
+        "path": "assettocorsacompetizione/mclaren-570s-gt4.json"
+      },
+      {
+        "carName": "McLaren 650S GT3",
+        "carId": "mclaren_650s_gt3",
+        "path": "assettocorsacompetizione/mclaren-650s-gt3.json"
+      },
+      {
+        "carName": "McLaren 720S GT3 EVO",
+        "carId": "mclaren_720s_gt3_evo",
+        "path": "assettocorsacompetizione/mclaren-720s-gt3-evo.json"
+      },
+      {
+        "carName": "McLaren 720S GT3",
+        "carId": "mclaren_720s_gt3",
+        "path": "assettocorsacompetizione/mclaren-720s-gt3.json"
+      },
+      {
+        "carName": "MERCEDES AMG GT2 2023",
+        "carId": "mercedes_amg_gt2",
+        "path": "assettocorsacompetizione/mercedes-amg-gt2.json"
+      },
+      {
+        "carName": "Mercedes AMG GT3 EVO",
+        "carId": "mercedes_amg_gt3_evo",
+        "path": "assettocorsacompetizione/mercedes-amg-gt3-evo.json"
+      },
+      {
+        "carName": "Mercedes AMG GT3",
+        "carId": "mercedes_amg_gt3",
+        "path": "assettocorsacompetizione/mercedes-amg-gt3.json"
+      },
+      {
+        "carName": "Mercedes AMG GT4",
+        "carId": "mercedes_amg_gt4",
+        "path": "assettocorsacompetizione/mercedes-amg-gt4.json"
+      },
+      {
+        "carName": "Nissan GT-R GT3 2017",
+        "carId": "nissan_gt_r_gt3_2017",
+        "path": "assettocorsacompetizione/nissan-gt-r-gt3-2017.json"
+      },
+      {
+        "carName": "Nissan GT-R GT3 2018",
+        "carId": "nissan_gt_r_gt3_2018",
+        "path": "assettocorsacompetizione/nissan-gt-r-gt3-2018.json"
+      },
+      {
+        "carName": "Porsche 718 Cayman GT4",
+        "carId": "porsche_718_cayman_gt4_mr",
+        "path": "assettocorsacompetizione/porsche-718-cayman-gt4-mr.json"
+      },
+      {
+        "carName": "PORSCHE 935 2019",
+        "carId": "porsche_935",
+        "path": "assettocorsacompetizione/porsche-935.json"
+      },
+      {
+        "carName": "PORSCHE 991 II GT2 RS CS EVO 2023",
+        "carId": "porsche_991_gt2_rs_mr",
+        "path": "assettocorsacompetizione/porsche-991-gt2-rs-mr.json"
+      },
+      {
+        "carName": "Porsche 991 GT3R",
+        "carId": "porsche_991_gt3_r",
+        "path": "assettocorsacompetizione/porsche-991-gt3-r.json"
+      },
+      {
+        "carName": "Porsche 991ii Cup",
+        "carId": "porsche_991ii_gt3_cup",
+        "path": "assettocorsacompetizione/porsche-991ii-gt3-cup.json"
+      },
+      {
+        "carName": "Porsche 991ii GT3R",
+        "carId": "porsche_991ii_gt3_r",
+        "path": "assettocorsacompetizione/porsche-991ii-gt3-r.json"
+      },
+      {
+        "carName": "Porsche 992 Cup",
+        "carId": "porsche_992_gt3_cup",
+        "path": "assettocorsacompetizione/porsche-992-gt3-cup.json"
+      },
+      {
+        "carName": "Porsche 992 GT3R",
+        "carId": "porsche_992_gt3_r",
+        "path": "assettocorsacompetizione/porsche-992-gt3-r.json"
+      }
+    ],
+    "automobilista2": [
+      {
+        "carName": "Alpine A110 GT4 evo",
+        "carId": "alpine_a110_gt4_evo",
+        "path": "automobilista2/alpine-a110-gt4-evo.json"
+      },
+      {
+        "carName": "Alpine A424",
+        "carId": "Alpine A424",
+        "path": "automobilista2/alpine-a424.json"
+      },
+      {
+        "carName": "Aston Martin Valkyrie Hypercar",
+        "carId": "aston_martin_valkyrie_hypercar",
+        "path": "automobilista2/aston-martin-valkyrie-hypercar.json"
+      },
+      {
+        "carName": "Aston Martin Vantage GT3 Evo",
+        "carId": "aston_martin_vantage_gt3_evo",
+        "path": "automobilista2/aston-martin-vantage-gt3-evo.json"
+      },
+      {
+        "carName": "Aston Martin Vantage GT4 Evo",
+        "carId": "aston_martin_vantage_gt4_evo",
+        "path": "automobilista2/aston-martin-vantage-gt4-evo.json"
+      },
+      {
+        "carName": "Aston Martin Vantage GTE",
+        "carId": "aston_martin_vantage_gte",
+        "path": "automobilista2/aston-martin-vantage-gte.json"
+      },
+      {
+        "carName": "Audi R8 LMS GT3 evo II",
+        "carId": "Audi R8 LMS GT3 evo II",
+        "path": "automobilista2/audi-r8-lms-gt3-evo-ii.json"
+      },
+      {
+        "carName": "Audi R8 LMS GT4",
+        "carId": "Audi R8 LMS GT4",
+        "path": "automobilista2/audi-r8-lms-gt4.json"
+      },
+      {
+        "carName": "BMW M Hybrid V8",
+        "carId": "BMW M Hybrid V8",
+        "path": "automobilista2/bmw-m-hybrid-v8.json"
+      },
+      {
+        "carName": "BMW M4 GT3",
+        "carId": "BMW M4 GT3",
+        "path": "automobilista2/bmw-m4-gt3.json"
+      },
+      {
+        "carName": "BMW M4 GT4",
+        "carId": "BMW M4 GT4",
+        "path": "automobilista2/bmw-m4-gt4.json"
+      },
+      {
+        "carName": "BMW M6 GT3",
+        "carId": "bmw_m6_gt3",
+        "path": "automobilista2/bmw-m6-gt3.json"
+      },
+      {
+        "carName": "BMW M8 GTE",
+        "carId": "bmw_m8_gte",
+        "path": "automobilista2/bmw-m8-gte.json"
+      },
+      {
+        "carName": "Cadillac dpi-vr",
+        "carId": "cadillac_dpi-vr",
+        "path": "automobilista2/cadillac-dpi-vr.json"
+      },
+      {
+        "carName": "Cadillac V-Series.R",
+        "carId": "Cadillac V-Series.R",
+        "path": "automobilista2/cadillac-v-series-r.json"
+      },
+      {
+        "carName": "Caterham supersport",
+        "carId": "caterham_supersport",
+        "path": "automobilista2/caterham-supersport.json"
+      },
+      {
+        "carName": "Chevrolet Camaro GT4.R",
+        "carId": "Chevrolet Camaro GT4.R",
+        "path": "automobilista2/chevrolet-camaro-gt4-r.json"
+      },
+      {
+        "carName": "Chevrolet Corvette C8.R",
+        "carId": "chevrolet_corvette_c8.r",
+        "path": "automobilista2/chevrolet-corvette-c8r.json"
+      },
+      {
+        "carName": "Chevrolet Corvette Z06 GT3.R",
+        "carId": "Chevrolet Corvette Z06 GT3.R",
+        "path": "automobilista2/chevrolet-corvette-z06-gt3-r.json"
+      },
+      {
+        "carName": "Chevrolet Cruze Stock Car 2020",
+        "carId": "Chevrolet Cruze Stock Car 2020",
+        "path": "automobilista2/chevrolet-cruze-stock-car-2020.json"
+      },
+      {
+        "carName": "Chevrolet Cruze Stock Car 2021",
+        "carId": "Chevrolet Cruze Stock Car 2021",
+        "path": "automobilista2/chevrolet-cruze-stock-car-2021.json"
+      },
+      {
+        "carName": "Chevrolet Cruze Stock Car 2022",
+        "carId": "Chevrolet Cruze Stock Car 2022",
+        "path": "automobilista2/chevrolet-cruze-stock-car-2022.json"
+      },
+      {
+        "carName": "Chevrolet Cruze Stock Car 2023",
+        "carId": "Chevrolet Cruze Stock Car 2023",
+        "path": "automobilista2/chevrolet-cruze-stock-car-2023.json"
+      },
+      {
+        "carName": "Chevrolet Cruze Stock Car 2024",
+        "carId": "Chevrolet Cruze Stock Car 2024",
+        "path": "automobilista2/chevrolet-cruze-stock-car-2024.json"
+      },
+      {
+        "carName": "Citroen DS3 RX",
+        "carId": "citroen_ds3_rx",
+        "path": "automobilista2/citroen-ds3-rx.json"
+      },
+      {
+        "carName": "Copa Montana",
+        "carId": "copa_montana",
+        "path": "automobilista2/copa-montana.json"
+      },
+      {
+        "carName": "Dallara F301",
+        "carId": "Dallara F301",
+        "path": "automobilista2/dallara-f301.json"
+      },
+      {
+        "carName": "Dallara F309",
+        "carId": "Dallara F309",
+        "path": "automobilista2/dallara-f309.json"
+      },
+      {
+        "carName": "Formula Dirt",
+        "carId": "formula_dirt",
+        "path": "automobilista2/formula-dirt.json"
+      },
+      {
+        "carName": "Formula Inter MG-15",
+        "carId": "Formula Inter MG-15",
+        "path": "automobilista2/formula-inter-mg-15.json"
+      },
+      {
+        "carName": "Formula Reiza",
+        "carId": "Formula Reiza",
+        "path": "automobilista2/formula-reiza.json"
+      },
+      {
+        "carName": "Formula Trainer Advanced",
+        "carId": "formula_trainer_advanced",
+        "path": "automobilista2/formula-trainer-advanced.json"
+      },
+      {
+        "carName": "Formula Ultimate Gen1",
+        "carId": "Formula Ultimate Gen1",
+        "path": "automobilista2/formula-ultimate-gen1.json"
+      },
+      {
+        "carName": "Formula Ultimate Gen2",
+        "carId": "Formula Ultimate Gen2",
+        "path": "automobilista2/formula-ultimate-gen2.json"
+      },
+      {
+        "carName": "Formula Ultimate Hybrid Gen2 - Low Downforce",
+        "carId": "Formula Ultimate Hybrid Gen2 - Low Downforce",
+        "path": "automobilista2/formula-ultimate-hybrid-gen2-low-downforce.json"
+      },
+      {
+        "carName": "Formula Ultimate Hybrid Gen2",
+        "carId": "Formula Ultimate Hybrid Gen2",
+        "path": "automobilista2/formula-ultimate-hybrid-gen2.json"
+      },
+      {
+        "carName": "Formula Ultimate Hybrid Gen3 - Low Downforce",
+        "carId": "Formula Ultimate Hybrid Gen3 - Low Downforce",
+        "path": "automobilista2/formula-ultimate-hybrid-gen3-low-downforce.json"
+      },
+      {
+        "carName": "Formula Ultimate Hybrid Gen3",
+        "carId": "Formula Ultimate Hybrid Gen3",
+        "path": "automobilista2/formula-ultimate-hybrid-gen3.json"
+      },
+      {
+        "carName": "Formula USA 2023",
+        "carId": "formula_usa_2023",
+        "path": "automobilista2/formula-usa-2023.json"
+      },
+      {
+        "carName": "Formula V10 Gen2 - Low Downforce",
+        "carId": "Formula V10 Gen2 - Low Downforce",
+        "path": "automobilista2/formula-v10-gen2-low-downforce.json"
+      },
+      {
+        "carName": "Formula V10 gen2",
+        "carId": "formula_v10_gen2",
+        "path": "automobilista2/formula-v10-gen2.json"
+      },
+      {
+        "carName": "Formula V8 Gen3 - Low Downforce",
+        "carId": "Formula V8 Gen3 - Low Downforce",
+        "path": "automobilista2/formula-v8-gen3-low-downforce.json"
+      },
+      {
+        "carName": "Formula V8 Gen3",
+        "carId": "Formula V8 Gen3",
+        "path": "automobilista2/formula-v8-gen3.json"
+      },
+      {
+        "carName": "Ginetta G40 Cup",
+        "carId": "ginetta_g40_cup",
+        "path": "automobilista2/ginetta-g40-cup.json"
+      },
+      {
+        "carName": "Ginetta G40",
+        "carId": "ginetta_g40",
+        "path": "automobilista2/ginetta-g40.json"
+      },
+      {
+        "carName": "Ginetta G55 GT3",
+        "carId": "Ginetta G55 GT3",
+        "path": "automobilista2/ginetta-g55-gt3.json"
+      },
+      {
+        "carName": "Ginetta G55 GT4 Supercup",
+        "carId": "Ginetta G55 GT4 Supercup",
+        "path": "automobilista2/ginetta-g55-gt4-supercup.json"
+      },
+      {
+        "carName": "Ginetta G55 GT4",
+        "carId": "Ginetta G55 GT4",
+        "path": "automobilista2/ginetta-g55-gt4.json"
+      },
+      {
+        "carName": "Ginetta G58 Gen2",
+        "carId": "ginetta_g58_gen2",
+        "path": "automobilista2/ginetta-g58-gen2.json"
+      },
+      {
+        "carName": "Ginetta G58",
+        "carId": "ginetta_g58",
+        "path": "automobilista2/ginetta-g58.json"
+      },
+      {
+        "carName": "Iveco Stralis",
+        "carId": "iveco_stralis",
+        "path": "automobilista2/iveco-stralis.json"
+      },
+      {
+        "carName": "Kart 2-Stroke 125CC Shifter",
+        "carId": "kart_2-stroke_125cc_shifter",
+        "path": "automobilista2/karting-2-stroke-125cc-shifter.json"
+      },
+      {
+        "carName": "Kart Cross",
+        "carId": "kart_cross",
+        "path": "automobilista2/karting-cross.json"
+      },
+      {
+        "carName": "Lamborghini Huracan GT3 EVO2",
+        "carId": "Lamborghini Huracan GT3 EVO2",
+        "path": "automobilista2/lamborghini-huracan-gt3-evo2.json"
+      },
+      {
+        "carName": "Lamborghini Huracan Super Trofeo Evo2",
+        "carId": "lamborghini_huracan_super_trofeo_evo2",
+        "path": "automobilista2/lamborghini-huracan-super-trofeo-evo2.json"
+      },
+      {
+        "carName": "Lamborghini SC63",
+        "carId": "lamborghini_sc63",
+        "path": "automobilista2/lamborghini-sc63.json"
+      },
+      {
+        "carName": "Ligier JS P217",
+        "carId": "Ligier JS P217",
+        "path": "automobilista2/ligier-js-p217.json"
+      },
+      {
+        "carName": "Ligier JS P320",
+        "carId": "ligier_js_p320",
+        "path": "automobilista2/ligier-js-p320.json"
+      },
+      {
+        "carName": "Ligier JS2 R",
+        "carId": "ligier_js2_r",
+        "path": "automobilista2/ligier-js2-r.json"
+      },
+      {
+        "carName": "Lola B2K00 Ford-Cosworth",
+        "carId": "lola_b2k00_ford-cosworth",
+        "path": "automobilista2/lola-b2k00-ford-cosworth.json"
+      },
+      {
+        "carName": "Lola B2K00 Mercedes-Benz",
+        "carId": "lola_b2k00_mercedes-benz",
+        "path": "automobilista2/lola-b2k00-mercedes-benz.json"
+      },
+      {
+        "carName": "Lola B2K00 Toyota",
+        "carId": "lola_b2k00_toyota",
+        "path": "automobilista2/lola-b2k00-toyota.json"
+      },
+      {
+        "carName": "MAN TGX",
+        "carId": "man_tgx",
+        "path": "automobilista2/man-tgx.json"
+      },
+      {
+        "carName": "McLaren 570S GT4",
+        "carId": "McLaren 570S GT4",
+        "path": "automobilista2/mclaren-570s-gt4.json"
+      },
+      {
+        "carName": "McLaren 720S GT3 Evo",
+        "carId": "McLaren 720S GT3 Evo",
+        "path": "automobilista2/mclaren-720s-gt3-evo.json"
+      },
+      {
+        "carName": "McLaren F1 GTR",
+        "carId": "mclaren_f1_gtr",
+        "path": "automobilista2/mclaren-f1-gtr.json"
+      },
+      {
+        "carName": "McLaren Mercedes MP4/12",
+        "carId": "mclaren_mercedes_mp4/12",
+        "path": "automobilista2/mclaren-mercedes-mp4-12.json"
+      },
+      {
+        "carName": "MCR S2000",
+        "carId": "mcr_s2000",
+        "path": "automobilista2/mcr-s2000.json"
+      },
+      {
+        "carName": "Mercedes-AMG GT3 Evo",
+        "carId": "Mercedes-AMG GT3 Evo",
+        "path": "automobilista2/mercedes-amg-gt3-evo.json"
+      },
+      {
+        "carName": "Mercedes-AMG GT4",
+        "carId": "Mercedes-AMG GT4",
+        "path": "automobilista2/mercedes-amg-gt4.json"
+      },
+      {
+        "carName": "Mercedes-Benz Actros",
+        "carId": "mercedes-benz_actros",
+        "path": "automobilista2/mercedes-benz-actros.json"
+      },
+      {
+        "carName": "Metalmoro AJR Chevrolet",
+        "carId": "metalmoro_ajr_chevrolet",
+        "path": "automobilista2/metalmoro-ajr-chevrolet.json"
+      },
+      {
+        "carName": "Metalmoro AJR Gen2 Chevrolet",
+        "carId": "metalmoro_ajr_gen2_chevrolet",
+        "path": "automobilista2/metalmoro-ajr-gen2-chevrolet.json"
+      },
+      {
+        "carName": "Metalmoro AJR Gen2 Honda",
+        "carId": "metalmoro_ajr_gen2_honda",
+        "path": "automobilista2/metalmoro-ajr-gen2-honda.json"
+      },
+      {
+        "carName": "Metalmoro AJR Gen2 Nissan",
+        "carId": "metalmoro_ajr_gen2_nissan",
+        "path": "automobilista2/metalmoro-ajr-gen2-nissan.json"
+      },
+      {
+        "carName": "Metalmoro AJR Honda",
+        "carId": "metalmoro_ajr_honda",
+        "path": "automobilista2/metalmoro-ajr-honda.json"
+      },
+      {
+        "carName": "Metalmoro AJR Nissan",
+        "carId": "metalmoro_ajr_nissan",
+        "path": "automobilista2/metalmoro-ajr-nissan.json"
+      },
+      {
+        "carName": "Metalmoro MRX Duratec Turbo P2",
+        "carId": "metalmoro_mrx_duratec_turbo_p2",
+        "path": "automobilista2/metalmoro-mrx-duratec-turbo-p2.json"
+      },
+      {
+        "carName": "Metalmoro MRX Duratec Turbo P3",
+        "carId": "metalmoro_mrx_duratec_turbo_p3",
+        "path": "automobilista2/metalmoro-mrx-duratec-turbo-p3.json"
+      },
+      {
+        "carName": "Metalmoro MRX Honda P3",
+        "carId": "metalmoro_mrx_honda_p3",
+        "path": "automobilista2/metalmoro-mrx-honda-p3.json"
+      },
+      {
+        "carName": "MINI Cooper JCW",
+        "carId": "MINI Cooper JCW",
+        "path": "automobilista2/mini-cooper-jcw.json"
+      },
+      {
+        "carName": "Mitsubishi Lancer Evo10 RX",
+        "carId": "mitsubishi_lancer_evo10_rx",
+        "path": "automobilista2/mitsubishi-lancer-evo10-rx.json"
+      },
+      {
+        "carName": "Mitsubishi Lancer R",
+        "carId": "mitsubishi_lancer_r",
+        "path": "automobilista2/mitsubishi-lancer-r.json"
+      },
+      {
+        "carName": "Mitsubishi Lancer RS",
+        "carId": "mitsubishi_lancer_rs",
+        "path": "automobilista2/mitsubishi-lancer-rs.json"
+      },
+      {
+        "carName": "Nissan GT-R Nismo GT3",
+        "carId": "nissan_gtr_nismo_gt3",
+        "path": "automobilista2/nissan-gtr-nismo-gt3.json"
+      },
+      {
+        "carName": "Oreca 07",
+        "carId": "Oreca 07",
+        "path": "automobilista2/oreca-07.json"
+      },
+      {
+        "carName": "Porsche 911 GT3 Cup 3.8",
+        "carId": "Porsche 911 GT3 Cup 3.8",
+        "path": "automobilista2/porsche-911-gt3-cup-3-8.json"
+      },
+      {
+        "carName": "Porsche 911 GT3 Cup 4.0",
+        "carId": "Porsche 911 GT3 Cup 4.0",
+        "path": "automobilista2/porsche-911-gt3-cup-4-0.json"
+      },
+      {
+        "carName": "Porsche 911 GT3 R",
+        "carId": "porsche_911_gt3_r",
+        "path": "automobilista2/porsche-911-gt3-r.json"
+      },
+      {
+        "carName": "Porsche 911 RSR GTE",
+        "carId": "porsche_911_rsr_gte",
+        "path": "automobilista2/porsche-911-rsr-gte.json"
+      },
+      {
+        "carName": "Porsche 963",
+        "carId": "Porsche 963",
+        "path": "automobilista2/porsche-963.json"
+      },
+      {
+        "carName": "Porsche 992 GT3 R",
+        "carId": "Porsche 992 GT3 R",
+        "path": "automobilista2/porsche-992-gt3-r.json"
+      },
+      {
+        "carName": "Reynard 2KI Ford-Cosworth",
+        "carId": "reynard_2ki_ford-cosworth",
+        "path": "automobilista2/reynard-2ki-ford-cosworth.json"
+      },
+      {
+        "carName": "Reynard 2KI Honda",
+        "carId": "reynard_2ki_Honda",
+        "path": "automobilista2/reynard-2ki-honda.json"
+      },
+      {
+        "carName": "Reynard 2KI Mercedes-Benz",
+        "carId": "reynard_2ki_Mercedes-Benz",
+        "path": "automobilista2/reynard-2ki-mercedes-benz.json"
+      },
+      {
+        "carName": "Reynard 2KI Toyota",
+        "carId": "reynard_2ki_toyota",
+        "path": "automobilista2/reynard-2ki-toyota.json"
+      },
+      {
+        "carName": "Roco 001",
+        "carId": "roco 001",
+        "path": "automobilista2/roco-001.json"
+      },
+      {
+        "carName": "Sigma P1 G5",
+        "carId": "sigma_p1_g5",
+        "path": "automobilista2/sigma-p1-g5.json"
+      },
+      {
+        "carName": "Sigma P1",
+        "carId": "sigma_p1",
+        "path": "automobilista2/sigma-p1.json"
+      },
+      {
+        "carName": "Sprint Race",
+        "carId": "sprint_race",
+        "path": "automobilista2/sprint-race.json"
+      },
+      {
+        "carName": "Super Trophy Trucks",
+        "carId": "super_trophy_trucks",
+        "path": "automobilista2/super-trophy-trucks.json"
+      },
+      {
+        "carName": "Superkart 250cc",
+        "carId": "superkart_250cc",
+        "path": "automobilista2/superkart-250cc.json"
+      },
+      {
+        "carName": "Swift 009c Ford-Cosworth",
+        "carId": "swift_009c_ford-cosworth",
+        "path": "automobilista2/swift-009c-ford-cosworth.json"
+      },
+      {
+        "carName": "Toyota Corolla Stock Car 2020",
+        "carId": "Toyota Corolla Stock Car 2020",
+        "path": "automobilista2/toyota-corolla-stock-car-2020.json"
+      },
+      {
+        "carName": "Toyota Corolla Stock Car 2021",
+        "carId": "Toyota Corolla Stock Car 2021",
+        "path": "automobilista2/toyota-corolla-stock-car-2021.json"
+      },
+      {
+        "carName": "Toyota Corolla Stock Car 2022",
+        "carId": "Toyota Corolla Stock Car 2022",
+        "path": "automobilista2/toyota-corolla-stock-car-2022.json"
+      },
+      {
+        "carName": "Toyota Corolla Stock Car 2023",
+        "carId": "Toyota Corolla Stock Car 2023",
+        "path": "automobilista2/toyota-corolla-stock-car-2023.json"
+      },
+      {
+        "carName": "Toyota Corolla Stock Car 2024",
+        "carId": "Toyota Corolla Stock Car 2024",
+        "path": "automobilista2/toyota-corolla-stock-car-2024.json"
+      },
+      {
+        "carName": "Volkswagen Constellation",
+        "carId": "volkswagen_constellation",
+        "path": "automobilista2/volkswagen-constellation.json"
+      },
+      {
+        "carName": "Vulkan Truck",
+        "carId": "vulkan_truck",
+        "path": "automobilista2/vulkan-truck.json"
+      }
+    ],
+    "f12024": [
+      {
+        "carName": "AIX Racing 24",
+        "carId": "AIX Racing 24",
+        "path": "f12024/aix-racing-24.json"
+      },
+      {
+        "carName": "Alpha Tauri",
+        "carId": "Alpha Tauri",
+        "path": "f12024/alpha-tauri.json"
+      },
+      {
+        "carName": "Alpine",
+        "carId": "Alpine",
+        "path": "f12024/alpine.json"
+      },
+      {
+        "carName": "Art GP ‘23",
+        "carId": "Art GP ‘23",
+        "path": "f12024/art-gp-23.json"
+      },
+      {
+        "carName": "ART Grand Prix 24",
+        "carId": "ART Grand Prix 24",
+        "path": "f12024/art-grand-prix-24.json"
+      },
+      {
+        "carName": "Aston Martin",
+        "carId": "Aston Martin",
+        "path": "f12024/aston-martin.json"
+      },
+      {
+        "carName": "Campos ‘23",
+        "carId": "Campos ‘23",
+        "path": "f12024/campos-23.json"
+      },
+      {
+        "carName": "Campos Racing 24",
+        "carId": "Campos Racing 24",
+        "path": "f12024/campos-racing-24.json"
+      },
+      {
+        "carName": "Carlin ‘23",
+        "carId": "Carlin ‘23",
+        "path": "f12024/carlin-23.json"
+      },
+      {
+        "carName": "Dams ‘23",
+        "carId": "Dams ‘23",
+        "path": "f12024/dams-23.json"
+      },
+      {
+        "carName": "DAMS 24",
+        "carId": "DAMS 24",
+        "path": "f12024/dams-24.json"
+      },
+      {
+        "carName": "F1 Custom Team",
+        "carId": "F1 Custom Team",
+        "path": "f12024/f1-custom-team.json"
+      },
+      {
+        "carName": "F1 Generic",
+        "carId": "F1 Generic",
+        "path": "f12024/f1-generic.json"
+      },
+      {
+        "carName": "Ferrari",
+        "carId": "Ferrari",
+        "path": "f12024/ferrari.json"
+      },
+      {
+        "carName": "Haas",
+        "carId": "Haas",
+        "path": "f12024/haas.json"
+      },
+      {
+        "carName": "Hitech ‘23",
+        "carId": "Hitech ‘23",
+        "path": "f12024/hitech-23.json"
+      },
+      {
+        "carName": "Hitech Grand Prix 24",
+        "carId": "Hitech Grand Prix 24",
+        "path": "f12024/hitech-grand-prix-24.json"
+      },
+      {
+        "carName": "Invicta 24",
+        "carId": "Invicta 24",
+        "path": "f12024/invicta-24.json"
+      },
+      {
+        "carName": "McLaren",
+        "carId": "McLaren",
+        "path": "f12024/mclaren.json"
+      },
+      {
+        "carName": "Mercedes",
+        "carId": "Mercedes",
+        "path": "f12024/mercedes.json"
+      },
+      {
+        "carName": "MP Motorsport ‘23",
+        "carId": "MP Motorsport ‘23",
+        "path": "f12024/mp-motorsport-23.json"
+      },
+      {
+        "carName": "MP Motorsport 24",
+        "carId": "MP Motorsport 24",
+        "path": "f12024/mp-motorsport-24.json"
+      },
+      {
+        "carName": "PHM ‘23",
+        "carId": "PHM ‘23",
+        "path": "f12024/phm-23.json"
+      },
+      {
+        "carName": "Prema ‘23",
+        "carId": "Prema ‘23",
+        "path": "f12024/prema-23.json"
+      },
+      {
+        "carName": "Prema Racing 24",
+        "carId": "Prema Racing 24",
+        "path": "f12024/prema-racing-24.json"
+      },
+      {
+        "carName": "RB",
+        "carId": "RB",
+        "path": "f12024/rb.json"
+      },
+      {
+        "carName": "Red Bull Racing",
+        "carId": "Red Bull Racing",
+        "path": "f12024/red-bull-racing.json"
+      },
+      {
+        "carName": "Rodin 24",
+        "carId": "Rodin 24",
+        "path": "f12024/rodin-24.json"
+      },
+      {
+        "carName": "Sauber",
+        "carId": "Sauber",
+        "path": "f12024/sauber.json"
+      },
+      {
+        "carName": "Trident ‘23",
+        "carId": "Trident ‘23",
+        "path": "f12024/trident-23.json"
+      },
+      {
+        "carName": "Trident 24",
+        "carId": "Trident 24",
+        "path": "f12024/trident-24.json"
+      },
+      {
+        "carName": "Van Amersfoort Racing ‘23",
+        "carId": "Van Amersfoort Racing ‘23",
+        "path": "f12024/van-amersfoort-racing-23.json"
+      },
+      {
+        "carName": "Van Amersfoort Racing 24",
+        "carId": "Van Amersfoort Racing 24",
+        "path": "f12024/van-amersfoort-racing-24.json"
+      },
+      {
+        "carName": "Virtuosi ‘23",
+        "carId": "Virtuosi ‘23",
+        "path": "f12024/virtuosi-23.json"
+      },
+      {
+        "carName": "Williams",
+        "carId": "Williams",
+        "path": "f12024/williams.json"
+      }
+    ],
+    "f12025": [
+      {
+        "carName": "AIX Racing 24",
+        "carId": "AIX Racing 24",
+        "path": "f12025/aix-racing-24.json"
+      },
+      {
+        "carName": "Alpha Tauri",
+        "carId": "Alpha Tauri",
+        "path": "f12025/alpha-tauri.json"
+      },
+      {
+        "carName": "Alpine",
+        "carId": "Alpine",
+        "path": "f12025/alpine.json"
+      },
+      {
+        "carName": "ART Grand Prix 24",
+        "carId": "ART Grand Prix 24",
+        "path": "f12025/art-grand-prix-24.json"
+      },
+      {
+        "carName": "Aston Martin",
+        "carId": "Aston Martin",
+        "path": "f12025/aston-martin.json"
+      },
+      {
+        "carName": "Campos Racing 24",
+        "carId": "Campos Racing 24",
+        "path": "f12025/campos-racing-24.json"
+      },
+      {
+        "carName": "DAMS 24",
+        "carId": "DAMS 24",
+        "path": "f12025/dams-24.json"
+      },
+      {
+        "carName": "F1 Custom Team",
+        "carId": "F1 Custom Team",
+        "path": "f12025/f1-custom-team.json"
+      },
+      {
+        "carName": "F1 Generic",
+        "carId": "F1 Generic",
+        "path": "f12025/f1-generic.json"
+      },
+      {
+        "carName": "Ferrari",
+        "carId": "Ferrari",
+        "path": "f12025/ferrari.json"
+      },
+      {
+        "carName": "Haas",
+        "carId": "Haas",
+        "path": "f12025/haas.json"
+      },
+      {
+        "carName": "Hitech Grand Prix 24",
+        "carId": "Hitech Grand Prix 24",
+        "path": "f12025/hitech-grand-prix-24.json"
+      },
+      {
+        "carName": "Invicta 24",
+        "carId": "Invicta 24",
+        "path": "f12025/invicta-24.json"
+      },
+      {
+        "carName": "McLaren",
+        "carId": "McLaren",
+        "path": "f12025/mclaren.json"
+      },
+      {
+        "carName": "Mercedes",
+        "carId": "Mercedes",
+        "path": "f12025/mercedes.json"
+      },
+      {
+        "carName": "MP Motorsport 24",
+        "carId": "MP Motorsport 24",
+        "path": "f12025/mp-motorsport-24.json"
+      },
+      {
+        "carName": "Prema Racing 24",
+        "carId": "Prema Racing 24",
+        "path": "f12025/prema-racing-24.json"
+      },
+      {
+        "carName": "RB",
+        "carId": "RB",
+        "path": "f12025/rb.json"
+      },
+      {
+        "carName": "Red Bull Racing",
+        "carId": "Red Bull Racing",
+        "path": "f12025/red-bull-racing.json"
+      },
+      {
+        "carName": "Rodin 24",
+        "carId": "Rodin 24",
+        "path": "f12025/rodin-24.json"
+      },
+      {
+        "carName": "Sauber",
+        "carId": "Sauber",
+        "path": "f12025/sauber.json"
+      },
+      {
+        "carName": "Trident 24",
+        "carId": "Trident 24",
+        "path": "f12025/trident-24.json"
+      },
+      {
+        "carName": "Van Amersfoort Racing 24",
+        "carId": "Van Amersfoort Racing 24",
+        "path": "f12025/van-amersfoort-racing-24.json"
+      },
+      {
+        "carName": "Williams",
+        "carId": "Williams",
+        "path": "f12025/williams.json"
+      }
+    ],
+    "iracing": [
+      {
+        "carName": "Acura ARX-06 GTP ",
+        "carId": "acuraarx06gtp",
+        "path": "iracing/acuraarx06gtp.json"
+      },
+      {
+        "carName": "Acura NSX GT3 EVO22",
+        "carId": "acuransxevo22gt3",
+        "path": "iracing/acuransxevo22gt3.json"
+      },
+      {
+        "carName": "AM Vantage EVO GT3",
+        "carId": "amvantageevogt3",
+        "path": "iracing/amvantageevogt3.json"
+      },
+      {
+        "carName": "AM Vantage GT4",
+        "carId": "amvantagegt4",
+        "path": "iracing/amvantagegt4.json"
+      },
+      {
+        "carName": "Audi R18",
+        "carId": "audir18",
+        "path": "iracing/audir18.json"
+      },
+      {
+        "carName": "Audi R8 LMS EVO2",
+        "carId": "audir8lmsevo2gt3",
+        "path": "iracing/audir8lmsevo2gt3.json"
+      },
+      {
+        "carName": "Audi RS3 LMS",
+        "carId": "audirs3lms",
+        "path": "iracing/audirs3lms.json"
+      },
+      {
+        "carName": "BMW M Hybrid V8",
+        "carId": "bmwlmdh",
+        "path": "iracing/bmwlmdh.json"
+      },
+      {
+        "carName": "BMW M2 CSR",
+        "carId": "bmwm2csr",
+        "path": "iracing/bmwm2csr.json"
+      },
+      {
+        "carName": "BMW M4 EVO GT4",
+        "carId": "bmwm4evogt4",
+        "path": "iracing/bmwm4evogt4.json"
+      },
+      {
+        "carName": "BMW M4 GT3",
+        "carId": "bmwm4gt3",
+        "path": "iracing/bmwm4gt3.json"
+      },
+      {
+        "carName": "BMW M4 GT4",
+        "carId": "bmwm4gt4",
+        "path": "iracing/bmwm4gt4.json"
+      },
+      {
+        "carName": "BMW M8 GTE",
+        "carId": "bmwm8gte",
+        "path": "iracing/bmwm8gte.json"
+      },
+      {
+        "carName": "Corvette C8 GTE",
+        "carId": "c8rvettegte",
+        "path": "iracing/c8rvettegte.json"
+      },
+      {
+        "carName": "Cadillac CTS-V",
+        "carId": "cadillacctsvr",
+        "path": "iracing/cadillacctsvr.json"
+      },
+      {
+        "carName": "Cadillac V-Series GTP",
+        "carId": "cadillacvseriesrgtp",
+        "path": "iracing/cadillacvseriesrgtp.json"
+      },
+      {
+        "carName": "Corvette Z06 GT3",
+        "carId": "chevyvettez06rgt3",
+        "path": "iracing/chevyvettez06rgt3.json"
+      },
+      {
+        "carName": "Dallara DW12",
+        "carId": "dallaradw12",
+        "path": "iracing/dallaradw12.json"
+      },
+      {
+        "carName": "Dallara F3",
+        "carId": "dallaraf3",
+        "path": "iracing/dallaraf3.json"
+      },
+      {
+        "carName": "Dallara IL15 Indy NXT",
+        "carId": "dallarail15",
+        "path": "iracing/dallarail15.json"
+      },
+      {
+        "carName": "Dallara iR01",
+        "carId": "dallarair01",
+        "path": "iracing/dallarair01.json"
+      },
+      {
+        "carName": "Dallara iR18",
+        "carId": "dallarair18",
+        "path": "iracing/dallarair18.json"
+      },
+      {
+        "carName": "Dallara P217",
+        "carId": "dallarap217",
+        "path": "iracing/dallarap217.json"
+      },
+      {
+        "carName": "Ferrari 296 Challenge",
+        "carId": "ferrari296challenge",
+        "path": "iracing/ferrari296challenge.json"
+      },
+      {
+        "carName": "Ferrari 296 GT3",
+        "carId": "ferrari296gt3",
+        "path": "iracing/ferrari296gt3.json"
+      },
+      {
+        "carName": "Ferrari 488 GTE",
+        "carId": "ferrari488gte",
+        "path": "iracing/ferrari488gte.json"
+      },
+      {
+        "carName": "Ferrari 499P",
+        "carId": "ferrari499p",
+        "path": "iracing/ferrari499p.json"
+      },
+      {
+        "carName": "Ford GT GTE",
+        "carId": "fordgt2017",
+        "path": "iracing/fordgt2017.json"
+      },
+      {
+        "carName": "Ford Mustang GT3",
+        "carId": "fordmustanggt3",
+        "path": "iracing/fordmustanggt3.json"
+      },
+      {
+        "carName": "Ford Mustang GT4",
+        "carId": "fordmustanggt4",
+        "path": "iracing/fordmustanggt4.json"
+      },
+      {
+        "carName": "Formula iR04",
+        "carId": "formulair04",
+        "path": "iracing/formulair04.json"
+      },
+      {
+        "carName": "Formula Renault 2.0",
+        "carId": "formularenault20",
+        "path": "iracing/formularenault20.json"
+      },
+      {
+        "carName": "Formula Renault 3.5",
+        "carId": "formularenault35",
+        "path": "iracing/formularenault35.json"
+      },
+      {
+        "carName": "Honda Civic Type R",
+        "carId": "hondacivictyper",
+        "path": "iracing/hondacivictyper.json"
+      },
+      {
+        "carName": "HPX ARX-01C",
+        "carId": "hpdarx01c",
+        "path": "iracing/hpdarx01c.json"
+      },
+      {
+        "carName": "Hyundai Elantra N",
+        "carId": "hyundaielantracn7",
+        "path": "iracing/hyundaielantracn7.json"
+      },
+      {
+        "carName": "Hyundai Veloster N",
+        "carId": "hyundaivelostern",
+        "path": "iracing/hyundaivelostern.json"
+      },
+      {
+        "carName": "Lamborghini Huracán EVO GT3",
+        "carId": "lamborghinievogt3",
+        "path": "iracing/lamborghinievogt3.json"
+      },
+      {
+        "carName": "Ligier JS P320",
+        "carId": "ligierjsp320",
+        "path": "iracing/ligierjsp320.json"
+      },
+      {
+        "carName": "McLaren 570S GT4",
+        "carId": "mclaren570sgt4",
+        "path": "iracing/mclaren570sgt4.json"
+      },
+      {
+        "carName": "McLaren 720S GT3",
+        "carId": "mclaren720sgt3",
+        "path": "iracing/mclaren720sgt3.json"
+      },
+      {
+        "carName": "McLaren MP4-12C",
+        "carId": "mclarenmp4",
+        "path": "iracing/mclarenmp4.json"
+      },
+      {
+        "carName": "Mercedes AMG EVO GT3",
+        "carId": "mercedesamgevogt3",
+        "path": "iracing/mercedesamgevogt3.json"
+      },
+      {
+        "carName": "Mercedes AMG GT4",
+        "carId": "mercedesamggt4",
+        "path": "iracing/mercedesamggt4.json"
+      },
+      {
+        "carName": "Mercedes W12",
+        "carId": "mercedesw12",
+        "path": "iracing/mercedesw12.json"
+      },
+      {
+        "carName": "Mercedes W13",
+        "carId": "mercedesw13",
+        "path": "iracing/mercedesw13.json"
+      },
+      {
+        "carName": "Mazda MX-5 Cup",
+        "carId": "mx5 mx52016",
+        "path": "iracing/mx5-mx52016.json"
+      },
+      {
+        "carName": "Porsche 718 GT4",
+        "carId": "porsche718gt4",
+        "path": "iracing/porsche718gt4.json"
+      },
+      {
+        "carName": "Porsche 919",
+        "carId": "porsche919",
+        "path": "iracing/porsche919.json"
+      },
+      {
+        "carName": "Porsche 963",
+        "carId": "porsche963gtp",
+        "path": "iracing/porsche963gtp.json"
+      },
+      {
+        "carName": "Porsche 991RSR",
+        "carId": "porsche991rsr",
+        "path": "iracing/porsche991rsr.json"
+      },
+      {
+        "carName": "Porsche 911 Cup (992.2)",
+        "carId": "porsche9922cup",
+        "path": "iracing/porsche9922cup.json"
+      },
+      {
+        "carName": "Porsche 992 Cup",
+        "carId": "porsche992cup",
+        "path": "iracing/porsche992cup.json"
+      },
+      {
+        "carName": "Porsche 992R GT3",
+        "carId": "porsche992rgt3",
+        "path": "iracing/porsche992rgt3.json"
+      },
+      {
+        "carName": "Radical SR8",
+        "carId": "radical sr8",
+        "path": "iracing/radical-sr8.json"
+      },
+      {
+        "carName": "Radical SR10",
+        "carId": "radicalsr10",
+        "path": "iracing/radicalsr10.json"
+      },
+      {
+        "carName": "Ray FF1600",
+        "carId": "raygr22",
+        "path": "iracing/raygr22.json"
+      },
+      {
+        "carName": "Renault Clio Cup",
+        "carId": "renaultcliocup",
+        "path": "iracing/renaultcliocup.json"
+      },
+      {
+        "carName": "SCCA Spec Racer Ford",
+        "carId": "specracer",
+        "path": "iracing/specracer.json"
+      },
+      {
+        "carName": "Chevrolet Camaro Gen3 Supercar",
+        "carId": "supercars chevycamarogen3",
+        "path": "iracing/supercars-chevycamarogen3.json"
+      },
+      {
+        "carName": "Ford Mustang Gen3 Supercar",
+        "carId": "supercars fordmustanggen3",
+        "path": "iracing/supercars-fordmustanggen3.json"
+      },
+      {
+        "carName": "Super Formula Lights",
+        "carId": "superformulalights324",
+        "path": "iracing/superformulalights324.json"
+      },
+      {
+        "carName": "Super Formula - Honda",
+        "carId": "superformulasf23 honda",
+        "path": "iracing/superformulasf23-honda.json"
+      },
+      {
+        "carName": "Super Formula - Toyota",
+        "carId": "superformulasf23 toyota",
+        "path": "iracing/superformulasf23-toyota.json"
+      },
+      {
+        "carName": "Toyota GR86",
+        "carId": "toyotagr86",
+        "path": "iracing/toyotagr86.json"
+      },
+      {
+        "carName": "USF2000",
+        "carId": "usf2000usf17",
+        "path": "iracing/usf2000usf17.json"
+      }
+    ],
+    "lmu": [
+      {
+        "carName": "Action Express Racing",
+        "carId": "Action Express Racing",
+        "path": "lmu/action-express-racing.json"
+      },
+      {
+        "carName": "AF Corse 2024",
+        "carId": "AF Corse 2024",
+        "path": "lmu/af-corse-2024.json"
+      },
+      {
+        "carName": "AF Corse GTE",
+        "carId": "AF Corse GTE",
+        "path": "lmu/af-corse-gte.json"
+      },
+      {
+        "carName": "AF Corse",
+        "carId": "AF Corse",
+        "path": "lmu/af-corse.json"
+      },
+      {
+        "carName": "Algarve Pro Racing 2024",
+        "carId": "Algarve Pro Racing 2024",
+        "path": "lmu/algarve-pro-racing-2024.json"
+      },
+      {
+        "carName": "Algarve Pro Racing",
+        "carId": "Algarve Pro Racing",
+        "path": "lmu/algarve-pro-racing.json"
+      },
+      {
+        "carName": "Alpine Elf Team 2024",
+        "carId": "Alpine Elf Team 2024",
+        "path": "lmu/alpine-elf-team-2024.json"
+      },
+      {
+        "carName": "Alpine Elf Team",
+        "carId": "Alpine Elf Team",
+        "path": "lmu/alpine-elf-team.json"
+      },
+      {
+        "carName": "Alpine Endurance Team 2024",
+        "carId": "Alpine Endurance Team 2024",
+        "path": "lmu/alpine-endurance-team-2024.json"
+      },
+      {
+        "carName": "AO by TF 2024",
+        "carId": "AO by TF 2024",
+        "path": "lmu/ao-by-tf-2024.json"
+      },
+      {
+        "carName": "BMW M Team WRT 2024",
+        "carId": "BMW M Team WRT 2024",
+        "path": "lmu/bmw-m-team-wrt-2024.json"
+      },
+      {
+        "carName": "Cadillac Racing 2024",
+        "carId": "Cadillac Racing 2024",
+        "path": "lmu/cadillac-racing-2024.json"
+      },
+      {
+        "carName": "Cadillac Racing",
+        "carId": "Cadillac Racing",
+        "path": "lmu/cadillac-racing.json"
+      },
+      {
+        "carName": "Cool Racing 2024",
+        "carId": "Cool Racing 2024",
+        "path": "lmu/cool-racing-2024.json"
+      },
+      {
+        "carName": "Cool Racing",
+        "carId": "Cool Racing",
+        "path": "lmu/cool-racing.json"
+      },
+      {
+        "carName": "Corvette Racing",
+        "carId": "Corvette Racing",
+        "path": "lmu/corvette-racing.json"
+      },
+      {
+        "carName": "Crowdstrike Racing by APR 2024",
+        "carId": "Crowdstrike Racing by APR 2024",
+        "path": "lmu/crowdstrike-racing-by-apr-2024.json"
+      },
+      {
+        "carName": "D'station Racing",
+        "carId": "D'station Racing",
+        "path": "lmu/d-station-racing.json"
+      },
+      {
+        "carName": "Dempsey-Proton Racing",
+        "carId": "Dempsey-Proton Racing",
+        "path": "lmu/dempsey-proton-racing.json"
+      },
+      {
+        "carName": "DKR Engineering 2024",
+        "carId": "DKR Engineering 2024",
+        "path": "lmu/dkr-engineering-2024.json"
+      },
+      {
+        "carName": "DKR Engineering",
+        "carId": "DKR Engineering",
+        "path": "lmu/dkr-engineering.json"
+      },
+      {
+        "carName": "Duqueine Team 2024",
+        "carId": "Duqueine Team 2024",
+        "path": "lmu/duqueine-team-2024.json"
+      },
+      {
+        "carName": "Duqueine Team",
+        "carId": "Duqueine Team",
+        "path": "lmu/duqueine-team.json"
+      },
+      {
+        "carName": "Ferrari AF Corse 2024",
+        "carId": "Ferrari AF Corse 2024",
+        "path": "lmu/ferrari-af-corse-2024.json"
+      },
+      {
+        "carName": "Ferrari AF Corse",
+        "carId": "Ferrari AF Corse",
+        "path": "lmu/ferrari-af-corse.json"
+      },
+      {
+        "carName": "Floyd Vanwall Racing Team",
+        "carId": "Floyd Vanwall Racing Team",
+        "path": "lmu/floyd-vanwall-racing-team.json"
+      },
+      {
+        "carName": "Glickenhaus Racing",
+        "carId": "Glickenhaus Racing",
+        "path": "lmu/glickenhaus-racing.json"
+      },
+      {
+        "carName": "GMB Motorsport",
+        "carId": "GMB Motorsport",
+        "path": "lmu/gmb-motorsport.json"
+      },
+      {
+        "carName": "GR Racing 2024",
+        "carId": "GR Racing 2024",
+        "path": "lmu/gr-racing-2024.json"
+      },
+      {
+        "carName": "GR Racing",
+        "carId": "GR Racing",
+        "path": "lmu/gr-racing.json"
+      },
+      {
+        "carName": "Graff Racing 2024",
+        "carId": "Graff Racing 2024",
+        "path": "lmu/graff-racing-2024.json"
+      },
+      {
+        "carName": "Graff Racing",
+        "carId": "Graff Racing",
+        "path": "lmu/graff-racing.json"
+      },
+      {
+        "carName": "GT3_296GT3 Custom Team 2024",
+        "carId": "GT3_296GT3 Custom Team 2024",
+        "path": "lmu/gt3-296gt3-custom-team-2024.json"
+      },
+      {
+        "carName": "GT3_296GT3 Custom Team 2025",
+        "carId": "GT3_296GT3 Custom Team 2025",
+        "path": "lmu/gt3-296gt3-custom-team-2025.json"
+      },
+      {
+        "carName": "GT3_911GT3R Custom Team 2024",
+        "carId": "GT3_911GT3R Custom Team 2024",
+        "path": "lmu/gt3-911gt3r-custom-team-2024.json"
+      },
+      {
+        "carName": "GT3_911GT3R Custom Team 2025",
+        "carId": "GT3_911GT3R Custom Team 2025",
+        "path": "lmu/gt3-911gt3r-custom-team-2025.json"
+      },
+      {
+        "carName": "AF Corse 2025",
+        "carId": "GT3_AF Corse 2025",
+        "path": "lmu/gt3-af-corse-2025.json"
+      },
+      {
+        "carName": "GT3_Akkodis ASP Team 2024",
+        "carId": "GT3_Akkodis ASP Team 2024",
+        "path": "lmu/gt3-akkodis-asp-team-2024.json"
+      },
+      {
+        "carName": "GT3_Akkodis ASP Team 2025",
+        "carId": "GT3_Akkodis ASP Team 2025",
+        "path": "lmu/gt3-akkodis-asp-team-2025.json"
+      },
+      {
+        "carName": "GT3_AMR GT3 Custom Team 2025",
+        "carId": "GT3_AMR GT3 Custom Team 2025",
+        "path": "lmu/gt3-amr-gt3-custom-team-2025.json"
+      },
+      {
+        "carName": "GT3_AMR GT3 Custom Team",
+        "carId": "GT3_AMR GT3 Custom Team",
+        "path": "lmu/gt3-amr-gt3-custom-team.json"
+      },
+      {
+        "carName": "GT3_AWA Racing 2025",
+        "carId": "GT3_AWA Racing 2025",
+        "path": "lmu/gt3-awa-racing-2025.json"
+      },
+      {
+        "carName": "GT3_BMW GT3 Custom Team 2025",
+        "carId": "GT3_BMW GT3 Custom Team 2025",
+        "path": "lmu/gt3-bmw-gt3-custom-team-2025.json"
+      },
+      {
+        "carName": "GT3_BMW GT3 Custom Team",
+        "carId": "GT3_BMW GT3 Custom Team",
+        "path": "lmu/gt3-bmw-gt3-custom-team.json"
+      },
+      {
+        "carName": "GT3_D'Station Racing 2024",
+        "carId": "GT3_D'Station Racing 2024",
+        "path": "lmu/gt3-d-station-racing-2024.json"
+      },
+      {
+        "carName": "GR Racing 2025",
+        "carId": "GT3_GR Racing 2025",
+        "path": "lmu/gt3-gr-racing-2025.json"
+      },
+      {
+        "carName": "GT3_Heart of Racing Team 2024",
+        "carId": "GT3_Heart of Racing Team 2024",
+        "path": "lmu/gt3-heart-of-racing-team-2024.json"
+      },
+      {
+        "carName": "GT3_Heart of Racing Team 2025",
+        "carId": "GT3_Heart of Racing Team 2025",
+        "path": "lmu/gt3-heart-of-racing-team-2025.json"
+      },
+      {
+        "carName": "GT3_Huracan Custom Team 2024",
+        "carId": "GT3_Huracan Custom Team 2024",
+        "path": "lmu/gt3-huracan-custom-team-2024.json"
+      },
+      {
+        "carName": "GT3_Iron Dames 2024",
+        "carId": "GT3_Iron Dames 2024",
+        "path": "lmu/gt3-iron-dames-2024.json"
+      },
+      {
+        "carName": "GT3_Iron Dames 2025",
+        "carId": "GT3_Iron Dames 2025",
+        "path": "lmu/gt3-iron-dames-2025.json"
+      },
+      {
+        "carName": "GT3_Iron Lynx 2024",
+        "carId": "GT3_Iron Lynx 2024",
+        "path": "lmu/gt3-iron-lynx-2024.json"
+      },
+      {
+        "carName": "Mercedes AMG LMGT3",
+        "carId": "GT3_Iron Lynx 2025",
+        "path": "lmu/gt3-iron-lynx-2025.json"
+      },
+      {
+        "carName": "JMW Motorsport 2025",
+        "carId": "GT3_JMW Motorsport 2025",
+        "path": "lmu/gt3-jmw-motorsport-2025.json"
+      },
+      {
+        "carName": "GT3_Kessel Racing 2025",
+        "carId": "GT3_Kessel Racing 2025",
+        "path": "lmu/gt3-kessel-racing-2025.json"
+      },
+      {
+        "carName": "GT3_Lexus Custom Team 2024",
+        "carId": "GT3_Lexus Custom Team 2024",
+        "path": "lmu/gt3-lexus-custom-team-2024.json"
+      },
+      {
+        "carName": "GT3_Lexus Custom Team 2025",
+        "carId": "GT3_Lexus Custom Team 2025",
+        "path": "lmu/gt3-lexus-custom-team-2025.json"
+      },
+      {
+        "carName": "GT3_Manthey 1st Phorm 2025",
+        "carId": "GT3_Manthey 1st Phorm 2025",
+        "path": "lmu/gt3-manthey-1st-phorm-2025.json"
+      },
+      {
+        "carName": "GT3_Manthey 2025",
+        "carId": "GT3_Manthey 2025",
+        "path": "lmu/gt3-manthey-2025.json"
+      },
+      {
+        "carName": "GT3_Manthey Ema 2024",
+        "carId": "GT3_Manthey Ema 2024",
+        "path": "lmu/gt3-manthey-ema-2024.json"
+      },
+      {
+        "carName": "GT3_Manthey PureRxcing 2024",
+        "carId": "GT3_Manthey PureRxcing 2024",
+        "path": "lmu/gt3-manthey-purerxcing-2024.json"
+      },
+      {
+        "carName": "GT3_McLaren Custom Team 2024",
+        "carId": "GT3_McLaren Custom Team 2024",
+        "path": "lmu/gt3-mclaren-custom-team-2024.json"
+      },
+      {
+        "carName": "GT3_McLaren Custom Team 2025",
+        "carId": "GT3_McLaren Custom Team 2025",
+        "path": "lmu/gt3-mclaren-custom-team-2025.json"
+      },
+      {
+        "carName": "Mercedes AMG LMGT3",
+        "carId": "GT3_Mercedes AMG Custom Team 2025",
+        "path": "lmu/gt3-mercedes-amg-custom-team-2025.json"
+      },
+      {
+        "carName": "GT3_Mustang Custom Team 2024",
+        "carId": "GT3_Mustang Custom Team 2024",
+        "path": "lmu/gt3-mustang-custom-team-2024.json"
+      },
+      {
+        "carName": "GT3_Mustang Custom Team 2025",
+        "carId": "GT3_Mustang Custom Team 2025",
+        "path": "lmu/gt3-mustang-custom-team-2025.json"
+      },
+      {
+        "carName": "GT3_Proton Competition 2025",
+        "carId": "GT3_Proton Competition 2025",
+        "path": "lmu/gt3-proton-competition-2025.json"
+      },
+      {
+        "carName": "GT3_Proton Racing 2024",
+        "carId": "GT3_Proton Racing 2024",
+        "path": "lmu/gt3-proton-racing-2024.json"
+      },
+      {
+        "carName": "GT3_Racing Spirit of Léman 2025",
+        "carId": "GT3_Racing Spirit of Léman 2025",
+        "path": "lmu/gt3-racing-spirit-of-leman-2025.json"
+      },
+      {
+        "carName": "GT3_Richard Mille AF Corse 2025",
+        "carId": "GT3_Richard Mille AF Corse 2025",
+        "path": "lmu/gt3-richard-mille-af-corse-2025.json"
+      },
+      {
+        "carName": "Spirit of Race 2025",
+        "carId": "GT3_Spirit of Race 2025",
+        "path": "lmu/gt3-spirit-of-race-2025.json"
+      },
+      {
+        "carName": "GT3_Team WRT 2025",
+        "carId": "GT3_Team WRT 2025",
+        "path": "lmu/gt3-team-wrt-2025.json"
+      },
+      {
+        "carName": "GT3_TF Sport 2025",
+        "carId": "GT3_TF Sport 2025",
+        "path": "lmu/gt3-tf-sport-2025.json"
+      },
+      {
+        "carName": "GT3_TF Sport",
+        "carId": "GT3_TF Sport",
+        "path": "lmu/gt3-tf-sport.json"
+      },
+      {
+        "carName": "GT3_The Bend Team WRT 2025",
+        "carId": "GT3_The Bend Team WRT 2025",
+        "path": "lmu/gt3-the-bend-team-wrt-2025.json"
+      },
+      {
+        "carName": "GT3_United Autosports 2024",
+        "carId": "GT3_United Autosports 2024",
+        "path": "lmu/gt3-united-autosports-2024.json"
+      },
+      {
+        "carName": "GT3_United Autosports 2025",
+        "carId": "GT3_United Autosports 2025",
+        "path": "lmu/gt3-united-autosports-2025.json"
+      },
+      {
+        "carName": "GT3_Vista AF Corse 2025",
+        "carId": "GT3_Vista AF Corse 2025",
+        "path": "lmu/gt3-vista-af-corse-2025.json"
+      },
+      {
+        "carName": "GT3_Z06GT3R Custom Team 2025",
+        "carId": "GT3_Z06GT3R Custom Team 2025",
+        "path": "lmu/gt3-z06gt3r-custom-team-2025.json"
+      },
+      {
+        "carName": "GT3_Z06GT3R Custom Team",
+        "carId": "GT3_Z06GT3R Custom Team",
+        "path": "lmu/gt3-z06gt3r-custom-team.json"
+      },
+      {
+        "carName": "GT3_Ziggo Sport Tempesta 2025",
+        "carId": "GT3_Ziggo Sport Tempesta 2025",
+        "path": "lmu/gt3-ziggo-sport-tempesta-2025.json"
+      },
+      {
+        "carName": "GTE_488GTE Custom Team 2023",
+        "carId": "GTE_488GTE Custom Team 2023",
+        "path": "lmu/gte-488gte-custom-team-2023.json"
+      },
+      {
+        "carName": "GTE_911GTE Custom Team 2023",
+        "carId": "GTE_911GTE Custom Team 2023",
+        "path": "lmu/gte-911gte-custom-team-2023.json"
+      },
+      {
+        "carName": "GTE_AMV Custom Team 2023",
+        "carId": "GTE_AMV Custom Team 2023",
+        "path": "lmu/gte-amv-custom-team-2023.json"
+      },
+      {
+        "carName": "GTE_C8RGTE Custom Team 2023",
+        "carId": "GTE_C8RGTE Custom Team 2023",
+        "path": "lmu/gte-c8rgte-custom-team-2023.json"
+      },
+      {
+        "carName": "GTE_Northwest AMR",
+        "carId": "GTE_Northwest AMR",
+        "path": "lmu/gte-northwest-amr.json"
+      },
+      {
+        "carName": "Hertz Team Jota 2024",
+        "carId": "Hertz Team Jota 2024",
+        "path": "lmu/hertz-team-jota-2024.json"
+      },
+      {
+        "carName": "Hertz Team Jota",
+        "carId": "Hertz Team Jota",
+        "path": "lmu/hertz-team-jota.json"
+      },
+      {
+        "carName": "Hyper_499P Custom Team 2023",
+        "carId": "Hyper_499P Custom Team 2023",
+        "path": "lmu/hyper-499p-custom-team-2023.json"
+      },
+      {
+        "carName": "Hyper_499P Custom Team 2024",
+        "carId": "Hyper_499P Custom Team 2024",
+        "path": "lmu/hyper-499p-custom-team-2024.json"
+      },
+      {
+        "carName": "Hyper_499P Custom Team 2025",
+        "carId": "Hyper_499P Custom Team 2025",
+        "path": "lmu/hyper-499p-custom-team-2025.json"
+      },
+      {
+        "carName": "Hyper_9x8 Wing Custom Team 2024",
+        "carId": "Hyper_9x8 Wing Custom Team 2024",
+        "path": "lmu/hyper-9x8-wing-custom-team-2024.json"
+      },
+      {
+        "carName": "Hyper_9x8 Wing Custom Team 2025",
+        "carId": "Hyper_9x8 Wing Custom Team 2025",
+        "path": "lmu/hyper-9x8-wing-custom-team-2025.json"
+      },
+      {
+        "carName": "Hyper_AF Corse 2025",
+        "carId": "Hyper_AF Corse 2025",
+        "path": "lmu/hyper-af-corse-2025.json"
+      },
+      {
+        "carName": "Hyper_Alpine Custom Team 2024",
+        "carId": "Hyper_Alpine Custom Team 2024",
+        "path": "lmu/hyper-alpine-custom-team-2024.json"
+      },
+      {
+        "carName": "Hyper_Alpine Custom Team 2025",
+        "carId": "Hyper_Alpine Custom Team 2025",
+        "path": "lmu/hyper-alpine-custom-team-2025.json"
+      },
+      {
+        "carName": "Hyper_Alpine Endurance Team 2025",
+        "carId": "Hyper_Alpine Endurance Team 2025",
+        "path": "lmu/hyper-alpine-endurance-team-2025.json"
+      },
+      {
+        "carName": "AM Valkyrie Custom Team 2025",
+        "carId": "Hyper_AM Valkyrie Custom Team 2025",
+        "path": "lmu/hyper-am-valkyrie-custom-team-2025.json"
+      },
+      {
+        "carName": "Aston Martin THOR Team 2025",
+        "carId": "Hyper_Aston Martin THOR Team 2025",
+        "path": "lmu/hyper-aston-martin-thor-team-2025.json"
+      },
+      {
+        "carName": "Hyper_BMW M Team WRT 2025",
+        "carId": "Hyper_BMW M Team WRT 2025",
+        "path": "lmu/hyper-bmw-m-team-wrt-2025.json"
+      },
+      {
+        "carName": "Hyper_BMWMH Custom Team 2024",
+        "carId": "Hyper_BMWMH Custom Team 2024",
+        "path": "lmu/hyper-bmwmh-custom-team-2024.json"
+      },
+      {
+        "carName": "Hyper_BMWMH Custom Team 2025",
+        "carId": "Hyper_BMWMH Custom Team 2025_397",
+        "path": "lmu/hyper-bmwmh-custom-team-2025-397.json"
+      },
+      {
+        "carName": "Hyper_BMWMH Custom Team 2025",
+        "carId": "Hyper_BMWMH Custom Team 2025",
+        "path": "lmu/hyper-bmwmh-custom-team-2025.json"
+      },
+      {
+        "carName": "Hyper_Cadillac Hertz Team Jota 2025",
+        "carId": "Hyper_Cadillac Hertz Team Jota 2025",
+        "path": "lmu/hyper-cadillac-hertz-team-jota-2025.json"
+      },
+      {
+        "carName": "Hyper_Cadillac Whelen 2025",
+        "carId": "Hyper_Cadillac Whelen 2025",
+        "path": "lmu/hyper-cadillac-whelen-2025.json"
+      },
+      {
+        "carName": "Hyper_Cadillac WTR 2025",
+        "carId": "Hyper_Cadillac WTR 2025",
+        "path": "lmu/hyper-cadillac-wtr-2025.json"
+      },
+      {
+        "carName": "Hyper_Ferrari AF Corse 2025",
+        "carId": "Hyper_Ferrari AF Corse 2025",
+        "path": "lmu/hyper-ferrari-af-corse-2025.json"
+      },
+      {
+        "carName": "Hyper_Glickenhaus Custom Team 2023",
+        "carId": "Hyper_Glickenhaus Custom Team 2023",
+        "path": "lmu/hyper-glickenhaus-custom-team-2023.json"
+      },
+      {
+        "carName": "Hyper_Isotta Fraschini Custom Team 2024",
+        "carId": "Hyper_Isotta Fraschini Custom Team 2024",
+        "path": "lmu/hyper-isotta-fraschini-custom-team-2024.json"
+      },
+      {
+        "carName": "Hyper_Peugeot 9x8 Custom Team 2023",
+        "carId": "Hyper_Peugeot 9x8 Custom Team 2023",
+        "path": "lmu/hyper-peugeot-9x8-custom-team-2023.json"
+      },
+      {
+        "carName": "Hyper_Peugeot TotalEnergies 2025",
+        "carId": "Hyper_Peugeot TotalEnergies 2025",
+        "path": "lmu/hyper-peugeot-totalenergies-2025.json"
+      },
+      {
+        "carName": "Hyper_Porsche 963 Custom Team 2023",
+        "carId": "Hyper_Porsche 963 Custom Team 2023",
+        "path": "lmu/hyper-porsche-963-custom-team-2023.json"
+      },
+      {
+        "carName": "Hyper_Porsche 963 Custom Team 2024",
+        "carId": "Hyper_Porsche 963 Custom Team 2024",
+        "path": "lmu/hyper-porsche-963-custom-team-2024.json"
+      },
+      {
+        "carName": "Hyper_Porsche 963 Custom Team 2025",
+        "carId": "Hyper_Porsche 963 Custom Team 2025",
+        "path": "lmu/hyper-porsche-963-custom-team-2025.json"
+      },
+      {
+        "carName": "Hyper_Porsche Penske Motorsport 2025",
+        "carId": "Hyper_Porsche Penske Motorsport 2025",
+        "path": "lmu/hyper-porsche-penske-motorsport-2025.json"
+      },
+      {
+        "carName": "Hyper_Proton Competition 2025",
+        "carId": "Hyper_Proton Competition 2025",
+        "path": "lmu/hyper-proton-competition-2025.json"
+      },
+      {
+        "carName": "Hyper_SC63 Custom Team 2024",
+        "carId": "Hyper_SC63 Custom Team 2024",
+        "path": "lmu/hyper-sc63-custom-team-2024.json"
+      },
+      {
+        "carName": "Hyper_Toyota Gazoo Racing 2025",
+        "carId": "Hyper_Toyota Gazoo Racing 2025",
+        "path": "lmu/hyper-toyota-gazoo-racing-2025.json"
+      },
+      {
+        "carName": "Hyper_Toyota GR010 Custom Team 2023",
+        "carId": "Hyper_Toyota GR010 Custom Team 2023",
+        "path": "lmu/hyper-toyota-gr010-custom-team-2023.json"
+      },
+      {
+        "carName": "Hyper_Toyota GR010 Custom Team 2024",
+        "carId": "Hyper_Toyota GR010 Custom Team 2024",
+        "path": "lmu/hyper-toyota-gr010-custom-team-2024.json"
+      },
+      {
+        "carName": "Hyper_Toyota GR010 Custom Team 2025",
+        "carId": "Hyper_Toyota GR010 Custom Team 2025",
+        "path": "lmu/hyper-toyota-gr010-custom-team-2025.json"
+      },
+      {
+        "carName": "Hyper_Vanwall Custom Team 2023",
+        "carId": "Hyper_Vanwall Custom Team 2023",
+        "path": "lmu/hyper-vanwall-custom-team-2023.json"
+      },
+      {
+        "carName": "Hyper_VLMDH Custom Team 2023",
+        "carId": "Hyper_VLMDH Custom Team 2023",
+        "path": "lmu/hyper-vlmdh-custom-team-2023.json"
+      },
+      {
+        "carName": "Hyper_VLMDH Custom Team 2024",
+        "carId": "Hyper_VLMDH Custom Team 2024",
+        "path": "lmu/hyper-vlmdh-custom-team-2024.json"
+      },
+      {
+        "carName": "Hyper_VLMDH Custom Team 2025",
+        "carId": "Hyper_VLMDH Custom Team 2025",
+        "path": "lmu/hyper-vlmdh-custom-team-2025.json"
+      },
+      {
+        "carName": "IDEC Sport 2024",
+        "carId": "IDEC Sport 2024",
+        "path": "lmu/idec-sport-2024.json"
+      },
+      {
+        "carName": "IDEC Sport",
+        "carId": "IDEC Sport",
+        "path": "lmu/idec-sport.json"
+      },
+      {
+        "carName": "Inception Racing 2024",
+        "carId": "Inception Racing 2024",
+        "path": "lmu/inception-racing-2024.json"
+      },
+      {
+        "carName": "Inter Europol Competition 2024",
+        "carId": "Inter Europol Competition 2024",
+        "path": "lmu/inter-europol-competition-2024.json"
+      },
+      {
+        "carName": "Inter Europol Competition",
+        "carId": "Inter Europol Competition",
+        "path": "lmu/inter-europol-competition.json"
+      },
+      {
+        "carName": "Iron Dames",
+        "carId": "Iron Dames",
+        "path": "lmu/iron-dames.json"
+      },
+      {
+        "carName": "Iron Lynx",
+        "carId": "Iron Lynx",
+        "path": "lmu/iron-lynx.json"
+      },
+      {
+        "carName": "Isotta TIPO6 2024",
+        "carId": "Isotta TIPO6 2024",
+        "path": "lmu/isotta-tipo6-2024.json"
+      },
+      {
+        "carName": "JMW Motorsport 2024 2024",
+        "carId": "JMW Motorsport 2024 2024",
+        "path": "lmu/jmw-motorsport-2024-2024.json"
+      },
+      {
+        "carName": "JMW Motorsport",
+        "carId": "JMW Motorsport",
+        "path": "lmu/jmw-motorsport.json"
+      },
+      {
+        "carName": "JOTA 2024",
+        "carId": "JOTA 2024",
+        "path": "lmu/jota-2024.json"
+      },
+      {
+        "carName": "JOTA",
+        "carId": "JOTA",
+        "path": "lmu/jota.json"
+      },
+      {
+        "carName": "Kessel Racing",
+        "carId": "Kessel Racing",
+        "path": "lmu/kessel-racing.json"
+      },
+      {
+        "carName": "Lamborghini Iron Lynx 2024",
+        "carId": "Lamborghini Iron Lynx 2024",
+        "path": "lmu/lamborghini-iron-lynx-2024.json"
+      },
+      {
+        "carName": "LMP2_AF Corse 2024",
+        "carId": "LMP2_AF Corse 2024",
+        "path": "lmu/lmp2-af-corse-2024.json"
+      },
+      {
+        "carName": "AF Corse 2025",
+        "carId": "LMP2_AF Corse 2025_183",
+        "path": "lmu/lmp2-af-corse-2025-183.json"
+      },
+      {
+        "carName": "Algarve Pro Racing 2025",
+        "carId": "LMP2_Algarve Pro Racing 2025_25",
+        "path": "lmu/lmp2-algarve-pro-racing-2025-25.json"
+      },
+      {
+        "carName": "Algarve Pro Racing 2025",
+        "carId": "LMP2_Algarve Pro Racing 2025_45",
+        "path": "lmu/lmp2-algarve-pro-racing-2025-45.json"
+      },
+      {
+        "carName": "AO by TF 2025",
+        "carId": "LMP2_AO by TF 2025_199",
+        "path": "lmu/lmp2-ao-by-tf-2025-199.json"
+      },
+      {
+        "carName": "CLX - Pure Rxcing 2025",
+        "carId": "LMP2_CLX - Pure Rxcing 2025_37",
+        "path": "lmu/lmp2-clx-pure-rxcing-2025-37.json"
+      },
+      {
+        "carName": "AF Corse",
+        "carId": "LMP2_ELMS_AF Corse",
+        "path": "lmu/lmp2-elms-af-corse.json"
+      },
+      {
+        "carName": "Algarve Pro Racing",
+        "carId": "LMP2_ELMS_Algarve Pro Racing",
+        "path": "lmu/lmp2-elms-algarve-pro-racing.json"
+      },
+      {
+        "carName": "Ao by TF",
+        "carId": "LMP2_ELMS_AO by TF",
+        "path": "lmu/lmp2-elms-ao-by-tf.json"
+      },
+      {
+        "carName": "CLX Motorsport",
+        "carId": "LMP2_ELMS_CLX Motorsport",
+        "path": "lmu/lmp2-elms-clx-motorsport.json"
+      },
+      {
+        "carName": "CLX - Pure Rxcing",
+        "carId": "LMP2_ELMS_CLX - Pure Rxcing",
+        "path": "lmu/lmp2-elms-clx-pure-rxcing.json"
+      },
+      {
+        "carName": "DKR Engineering",
+        "carId": "LMP2_ELMS_DKR Engineering",
+        "path": "lmu/lmp2-elms-dkr-engineering.json"
+      },
+      {
+        "carName": "Duqueine Team",
+        "carId": "LMP2_ELMS_Duqueine Team",
+        "path": "lmu/lmp2-elms-duqueine-team.json"
+      },
+      {
+        "carName": "IDEC Sport",
+        "carId": "LMP2_ELMS_IDEC Sport",
+        "path": "lmu/lmp2-elms-idec-sport.json"
+      },
+      {
+        "carName": "Inter Europol Competition",
+        "carId": "LMP2_ELMS_Inter Europol Competition",
+        "path": "lmu/lmp2-elms-inter-europol-competition.json"
+      },
+      {
+        "carName": "Iron Lynx - Proton",
+        "carId": "LMP2_ELMS_Iron Lynx - Proton",
+        "path": "lmu/lmp2-elms-iron-lynx-proton.json"
+      },
+      {
+        "carName": "Nielsen Racing",
+        "carId": "LMP2_ELMS_Nielsen Racing",
+        "path": "lmu/lmp2-elms-nielsen-racing.json"
+      },
+      {
+        "carName": "United Autosports",
+        "carId": "LMP2_ELMS_United Autosports",
+        "path": "lmu/lmp2-elms-oreca-07-elms-custom-team-2025.json"
+      },
+      {
+        "carName": "Proton Competition",
+        "carId": "LMP2_ELMS_Proton Competition",
+        "path": "lmu/lmp2-elms-proton-competition.json"
+      },
+      {
+        "carName": "TDS Racing",
+        "carId": "LMP2_ELMS_TDS Racing",
+        "path": "lmu/lmp2-elms-tds-racing.json"
+      },
+      {
+        "carName": "United Autosports",
+        "carId": "LMP2_ELMS_United Autosports",
+        "path": "lmu/lmp2-elms-united-autosports.json"
+      },
+      {
+        "carName": "VDS Panis Racing",
+        "carId": "LMP2_ELMS_VDS Panis Racing",
+        "path": "lmu/lmp2-elms-vds-panis-racing.json"
+      },
+      {
+        "carName": "Vector Sport",
+        "carId": "LMP2_ELMS_Vector Sport",
+        "path": "lmu/lmp2-elms-vector-sport.json"
+      },
+      {
+        "carName": "IDEC Sport 2025",
+        "carId": "LMP2_IDEC Sport 2025_18",
+        "path": "lmu/lmp2-idec-sport-2025-18.json"
+      },
+      {
+        "carName": "IDEC Sport 2025",
+        "carId": "LMP2_IDEC Sport 2025_28",
+        "path": "lmu/lmp2-idec-sport-2025-28.json"
+      },
+      {
+        "carName": "Inter Europol Competition 2025",
+        "carId": "LMP2_Inter Europol Competition 2025_34",
+        "path": "lmu/lmp2-inter-europol-competition-2025-34.json"
+      },
+      {
+        "carName": "Inter Europol Competition 2025",
+        "carId": "LMP2_Inter Europol Competition 2025_43",
+        "path": "lmu/lmp2-inter-europol-competition-2025-43.json"
+      },
+      {
+        "carName": "Iron Lynx - Proton 2025",
+        "carId": "LMP2_Iron Lynx - Proton 2025_9",
+        "path": "lmu/lmp2-iron-lynx-proton-2025-9.json"
+      },
+      {
+        "carName": "Nielsen Racing 2025",
+        "carId": "LMP2_Nielsen Racing 2025_24",
+        "path": "lmu/lmp2-nielsen-racing-2025-24.json"
+      },
+      {
+        "carName": "LMP2_Oreca 07 Custom Team 2023",
+        "carId": "LMP2_Oreca 07 Custom Team 2023",
+        "path": "lmu/lmp2-oreca-07-custom-team-2023.json"
+      },
+      {
+        "carName": "LMP2_Oreca 07 Custom Team 2024",
+        "carId": "LMP2_Oreca 07 Custom Team 2024",
+        "path": "lmu/lmp2-oreca-07-custom-team-2024.json"
+      },
+      {
+        "carName": "LMP2_Oreca 07 Custom Team 2024",
+        "carId": "LMP2_Oreca 07 Custom Team 2024",
+        "path": "lmu/lmp2-oreca-07-custom-team-2025.json"
+      },
+      {
+        "carName": "LMP2_Proton Competition 2024",
+        "carId": "LMP2_Proton Competition 2024",
+        "path": "lmu/lmp2-proton-competition-2024.json"
+      },
+      {
+        "carName": "Proton Competition 2025",
+        "carId": "LMP2_Proton Competition 2025_11",
+        "path": "lmu/lmp2-proton-competition-2025-11.json"
+      },
+      {
+        "carName": "RLR MSport 2025",
+        "carId": "LMP2_RLR MSport 2025_16",
+        "path": "lmu/lmp2-rlr-msport-2025-16.json"
+      },
+      {
+        "carName": "TDS Racing 2025",
+        "carId": "LMP2_TDS Racing 2025_29",
+        "path": "lmu/lmp2-tds-racing-2025-29.json"
+      },
+      {
+        "carName": "United Autosports 2025",
+        "carId": "LMP2_United Autosports 2025_22",
+        "path": "lmu/lmp2-united-autosports-2025-22.json"
+      },
+      {
+        "carName": "United Autosports 2025",
+        "carId": "LMP2_United Autosports 2025_23",
+        "path": "lmu/lmp2-united-autosports-2025-23.json"
+      },
+      {
+        "carName": "VDS Panis Racing 2025",
+        "carId": "LMP2_VDS Panis Racing 2025_48",
+        "path": "lmu/lmp2-vds-panis-racing-2025-48.json"
+      },
+      {
+        "carName": "LMP3 Team Virage",
+        "carId": "LMP3_Team Virage",
+        "path": "lmu/lmp3-clx-motorsport.json"
+      },
+      {
+        "carName": "DKR Engineering_4",
+        "carId": "LMP3_DKR Engineering_4",
+        "path": "lmu/lmp3-dkr-engineering-4.json"
+      },
+      {
+        "carName": "LMP3 Team Virage",
+        "carId": "LMP3_Team Virage",
+        "path": "lmu/lmp3-eurointernational.json"
+      },
+      {
+        "carName": "Ginetta G61-LT-P3 Custom Team",
+        "carId": "LMP3_Ginetta G61-LT-P3 Custom Team_397",
+        "path": "lmu/lmp3-ginetta-g61-lt-p3-custom-team-397.json"
+      },
+      {
+        "carName": "LMP3 Team Virage",
+        "carId": "LMP3_Team Virage",
+        "path": "lmu/lmp3-inter-europol-competition.json"
+      },
+      {
+        "carName": "LMP3 Team Virage",
+        "carId": "LMP3_Team Virage",
+        "path": "lmu/lmp3-ligier-js-p325-custom-team-2025.json"
+      },
+      {
+        "carName": "LMP3 Team Virage",
+        "carId": "LMP3_Team Virage",
+        "path": "lmu/lmp3-m-racing.json"
+      },
+      {
+        "carName": "LMP3 Team Virage",
+        "carId": "LMP3_Team Virage",
+        "path": "lmu/lmp3-racing-spirit-of-leman.json"
+      },
+      {
+        "carName": "LMP3 Team Virage",
+        "carId": "LMP3_Team Virage",
+        "path": "lmu/lmp3-rlr-msport.json"
+      },
+      {
+        "carName": "LMP3 Team Virage",
+        "carId": "LMP3_Team Virage",
+        "path": "lmu/lmp3-team-virage.json"
+      },
+      {
+        "carName": "LMP3 Team Virage",
+        "carId": "LMP3_Team Virage",
+        "path": "lmu/lmp3-ultimate.json"
+      },
+      {
+        "carName": "Nielsen Racing 2024",
+        "carId": "Nielsen Racing 2024",
+        "path": "lmu/nielsen-racing-2024.json"
+      },
+      {
+        "carName": "Nielsen Racing",
+        "carId": "Nielsen Racing",
+        "path": "lmu/nielsen-racing.json"
+      },
+      {
+        "carName": "Northwest AMR",
+        "carId": "Northwest AMR",
+        "path": "lmu/northwest-amr.json"
+      },
+      {
+        "carName": "ORT by TF",
+        "carId": "ORT by TF",
+        "path": "lmu/ort-by-tf.json"
+      },
+      {
+        "carName": "Panis Racing 2024",
+        "carId": "Panis Racing 2024",
+        "path": "lmu/panis-racing-2024.json"
+      },
+      {
+        "carName": "Panis Racing",
+        "carId": "Panis Racing",
+        "path": "lmu/panis-racing.json"
+      },
+      {
+        "carName": "Peugeot Sport 2024",
+        "carId": "Peugeot Sport 2024",
+        "path": "lmu/peugeot-sport-2024.json"
+      },
+      {
+        "carName": "Peugeot Sport",
+        "carId": "Peugeot Sport",
+        "path": "lmu/peugeot-sport.json"
+      },
+      {
+        "carName": "Peugeot TotalEnergies 2024",
+        "carId": "Peugeot TotalEnergies 2024",
+        "path": "lmu/peugeot-totalenergies-2024.json"
+      },
+      {
+        "carName": "Peugeot TotalEnergies",
+        "carId": "Peugeot TotalEnergies",
+        "path": "lmu/peugeot-totalenergies.json"
+      },
+      {
+        "carName": "Porsche Penske Motorsport 2024",
+        "carId": "Porsche Penske Motorsport 2024",
+        "path": "lmu/porsche-penske-motorsport-2024.json"
+      },
+      {
+        "carName": "Porsche Penske Motorsport",
+        "carId": "Porsche Penske Motorsport",
+        "path": "lmu/porsche-penske-motorsport.json"
+      },
+      {
+        "carName": "Prema Racing 2024",
+        "carId": "Prema Racing 2024",
+        "path": "lmu/prema-racing-2024.json"
+      },
+      {
+        "carName": "Prema Racing",
+        "carId": "Prema Racing",
+        "path": "lmu/prema-racing.json"
+      },
+      {
+        "carName": "Project 1 - AO",
+        "carId": "Project 1 - AO",
+        "path": "lmu/project-1-ao.json"
+      },
+      {
+        "carName": "Proton Competition 2024",
+        "carId": "Proton Competition 2024",
+        "path": "lmu/proton-competition-2024.json"
+      },
+      {
+        "carName": "Proton Competition GTE",
+        "carId": "Proton Competition GTE",
+        "path": "lmu/proton-competition-gte.json"
+      },
+      {
+        "carName": "Proton Competition",
+        "carId": "Proton Competition",
+        "path": "lmu/proton-competition.json"
+      },
+      {
+        "carName": "Racing Team Turkey 2024",
+        "carId": "Racing Team Turkey 2024",
+        "path": "lmu/racing-team-turkey-2024.json"
+      },
+      {
+        "carName": "Racing Team Turkey",
+        "carId": "Racing Team Turkey",
+        "path": "lmu/racing-team-turkey.json"
+      },
+      {
+        "carName": "Spirit Of Race 2024",
+        "carId": "Spirit Of Race 2024",
+        "path": "lmu/spirit-of-race-2024.json"
+      },
+      {
+        "carName": "Team WRT 2024",
+        "carId": "Team WRT 2024",
+        "path": "lmu/team-wrt-2024.json"
+      },
+      {
+        "carName": "Team WRT",
+        "carId": "Team WRT",
+        "path": "lmu/team-wrt.json"
+      },
+      {
+        "carName": "TF Sport",
+        "carId": "TF Sport",
+        "path": "lmu/tf-sport.json"
+      },
+      {
+        "carName": "The Heart of Racing",
+        "carId": "The Heart of Racing",
+        "path": "lmu/the-heart-of-racing.json"
+      },
+      {
+        "carName": "Tower Motorsports 2024",
+        "carId": "Tower Motorsports 2024",
+        "path": "lmu/tower-motorsports-2024.json"
+      },
+      {
+        "carName": "Tower Motorsports",
+        "carId": "Tower Motorsports",
+        "path": "lmu/tower-motorsports.json"
+      },
+      {
+        "carName": "Toyota Gazoo Racing 2024",
+        "carId": "Toyota Gazoo Racing 2024",
+        "path": "lmu/toyota-gazoo-racing-2024.json"
+      },
+      {
+        "carName": "Toyota Gazoo Racing",
+        "carId": "Toyota Gazoo Racing",
+        "path": "lmu/toyota-gazoo-racing.json"
+      },
+      {
+        "carName": "United Autosports 2024",
+        "carId": "United Autosports 2024",
+        "path": "lmu/united-autosports-2024.json"
+      },
+      {
+        "carName": "United Autosports USA 2024",
+        "carId": "United Autosports USA 2024",
+        "path": "lmu/united-autosports-usa-2024.json"
+      },
+      {
+        "carName": "United Autosports",
+        "carId": "United Autosports",
+        "path": "lmu/united-autosports.json"
+      },
+      {
+        "carName": "Vector Sport 2024",
+        "carId": "Vector Sport 2024",
+        "path": "lmu/vector-sport-2024.json"
+      },
+      {
+        "carName": "Vector Sport",
+        "carId": "Vector Sport",
+        "path": "lmu/vector-sport.json"
+      },
+      {
+        "carName": "Vista AF Corse 2024",
+        "carId": "Vista AF Corse 2024",
+        "path": "lmu/vista-af-corse-2024.json"
+      },
+      {
+        "carName": "Walkenhorst Motorsport",
+        "carId": "Walkenhorst Motorsport",
+        "path": "lmu/walkenhorst-motorsport.json"
+      },
+      {
+        "carName": "Whelen Cadillac Racing 2024",
+        "carId": "Whelen Cadillac Racing 2024",
+        "path": "lmu/whelen-cadillac-racing-2024.json"
+      }
+    ],
+    "rrre": [
+      {
+        "carName": "Honda Civic TCR",
+        "carId": "11320,Honda Civic TCR",
+        "path": "rrre/11320-honda-civic-tcr.json"
+      }
+    ]
+  }
+}
