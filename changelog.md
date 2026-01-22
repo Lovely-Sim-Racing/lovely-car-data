@@ -8,6 +8,9 @@
 
 ## Changelog
 
+#### v2.0.0
+1. New File Format
+
 #### v1.2.0
 1. Added `carId`
 2. Renamed `name` to `carName`
