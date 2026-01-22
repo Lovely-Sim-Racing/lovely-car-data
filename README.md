@@ -26,6 +26,25 @@ Fetch the data by retrieving the url:
 * `{simId}` is the Simhub game id `DataCorePlugin.CurrentGame`
 * `{carId}` is the Simhub car id `DataCorePlugin.CarId`
 
+### Manifest
+A single root manifest at `data/manifest.json` lists all cars, grouped by game.
+
+Structure:
+```
+{
+  "cars": {
+    "{simId}": [
+      { "carName": "...", "carId": "...", "path": "{simId}/...json" }
+    ]
+  }
+}
+```
+
+- Filter by game using the `{simId}` key in `cars`.
+- `path` is relative to `data/` and includes the game folder.
+
+See [scripts/MANIFEST_GENERATOR.md](scripts/MANIFEST_GENERATOR.md) for details on regenerating manifests.
+
 ### Name Format
 
 Both `{SimId}` and `{carId}` must adhere to the following naming format:
