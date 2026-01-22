@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
-"""Tests for generate_manifests.py"""
+"""Tests for generate_manifest.py"""
 
 import json
 import tempfile
 import unittest
 from pathlib import Path
 
-import generate_manifests
+import generate_manifest
 
 
-class TestGenerateManifests(unittest.TestCase):
-    """Test suite for manifest generation."""
+class TestGenerateManifest(unittest.TestCase):
+    """Test suite for single root manifest generation."""
     
     def setUp(self):
         """Create temporary test directory structure."""
@@ -39,7 +39,7 @@ class TestGenerateManifests(unittest.TestCase):
             "ledNumber": 5
         })
         
-        result = generate_manifests.load_car_data(car_file)
+        result = generate_manifest.load_car_data(car_file)
         
         self.assertEqual(result["carName"], "Test Car")
         self.assertEqual(result["carId"], "test_car")
@@ -51,7 +51,7 @@ class TestGenerateManifests(unittest.TestCase):
             "carId": "test_car"
         })
         
-        result = generate_manifests.load_car_data(car_file)
+        result = generate_manifest.load_car_data(car_file)
         
         self.assertEqual(result["carName"], "")
         self.assertEqual(result["carId"], "test_car")
@@ -63,7 +63,7 @@ class TestGenerateManifests(unittest.TestCase):
         })
         
         with self.assertRaises(ValueError):
-            generate_manifests.load_car_data(car_file)
+            generate_manifest.load_car_data(car_file)
     
     def test_load_car_data_unicode(self):
         """Test loading car data with unicode characters."""
@@ -72,120 +72,110 @@ class TestGenerateManifests(unittest.TestCase):
             "carId": "lamborghini_huracan_evo"
         })
         
-        result = generate_manifests.load_car_data(car_file)
+        result = generate_manifest.load_car_data(car_file)
         
         self.assertEqual(result["carName"], "Lamborghini Huracán EVO")
     
     def test_generate_manifest_single_car(self):
-        """Test generating manifest with single car."""
+        """Generate single root manifest with one car in one sim."""
         self.create_car_file("TestSim", "car1.json", {
             "carName": "Car 1",
             "carId": "car_1"
         })
-        
-        sim_dir = self.data_dir / "TestSim"
-        count = generate_manifests.generate_manifest(sim_dir)
-        
+
+        count = generate_manifest.generate_manifest(self.data_dir)
+
         self.assertEqual(count, 1)
-        
-        manifest_file = sim_dir / "manifest.json"
+
+        manifest_file = self.data_dir / "manifest.json"
         self.assertTrue(manifest_file.exists())
-        
+
         with open(manifest_file, 'r', encoding='utf-8') as f:
             manifest = json.load(f)
-        
-        self.assertEqual(len(manifest["cars"]), 1)
-        self.assertEqual(manifest["cars"][0]["carName"], "Car 1")
+
+        self.assertIn("TestSim", manifest["cars"])
+        self.assertEqual(len(manifest["cars"]["TestSim"]), 1)
+        self.assertEqual(manifest["cars"]["TestSim"][0]["carName"], "Car 1")
+        self.assertEqual(manifest["cars"]["TestSim"][0]["path"], "TestSim/car1.json")
     
-    def test_generate_manifest_multiple_cars(self):
-        """Test generating manifest with multiple cars."""
-        self.create_car_file("TestSim", "car1.json", {
-            "carName": "Car 1",
-            "carId": "car_1"
-        })
-        self.create_car_file("TestSim", "car2.json", {
+    def test_generate_manifest_multiple_cars_across_sims(self):
+        """Generate root manifest with multiple cars across sims and sorted."""
+        self.create_car_file("TestSimA", "car2.json", {
             "carName": "Car 2",
             "carId": "car_2"
         })
-        
-        sim_dir = self.data_dir / "TestSim"
-        count = generate_manifests.generate_manifest(sim_dir)
-        
-        self.assertEqual(count, 2)
-        
-        with open(sim_dir / "manifest.json", 'r', encoding='utf-8') as f:
-            manifest = json.load(f)
-        
-        self.assertEqual(len(manifest["cars"]), 2)
-        self.assertEqual(manifest["cars"][0]["carId"], "car_1")
-        self.assertEqual(manifest["cars"][1]["carId"], "car_2")
-    
-    def test_generate_manifest_sorted_order(self):
-        """Test that cars are sorted alphabetically by filename."""
-        self.create_car_file("TestSim", "zebra.json", {
-            "carName": "Zebra",
-            "carId": "zebra"
-        })
-        self.create_car_file("TestSim", "alpha.json", {
-            "carName": "Alpha",
-            "carId": "alpha"
-        })
-        
-        sim_dir = self.data_dir / "TestSim"
-        generate_manifests.generate_manifest(sim_dir)
-        
-        with open(sim_dir / "manifest.json", 'r', encoding='utf-8') as f:
-            manifest = json.load(f)
-        
-        self.assertEqual(manifest["cars"][0]["carId"], "alpha")
-        self.assertEqual(manifest["cars"][1]["carId"], "zebra")
-    
-    def test_generate_manifest_skips_invalid_files(self):
-        """Test that invalid files are skipped with error reporting."""
-        self.create_car_file("TestSim", "valid.json", {
-            "carName": "Valid",
-            "carId": "valid"
-        })
-        self.create_car_file("TestSim", "invalid.json", {
-            "carName": "Invalid"
-            # Missing carId
-        })
-        
-        sim_dir = self.data_dir / "TestSim"
-        count = generate_manifests.generate_manifest(sim_dir)
-        
-        self.assertEqual(count, 1)
-        
-        with open(sim_dir / "manifest.json", 'r', encoding='utf-8') as f:
-            manifest = json.load(f)
-        
-        self.assertEqual(len(manifest["cars"]), 1)
-        self.assertEqual(manifest["cars"][0]["carId"], "valid")
-    
-    def test_generate_manifest_empty_folder(self):
-        """Test generating manifest for empty folder."""
-        sim_dir = self.data_dir / "EmptySim"
-        sim_dir.mkdir()
-        
-        count = generate_manifests.generate_manifest(sim_dir)
-        
-        self.assertEqual(count, 0)
-        self.assertFalse((sim_dir / "manifest.json").exists())
-    
-    def test_generate_manifest_ignores_existing_manifest(self):
-        """Test that existing manifest.json is not processed as a car file."""
-        self.create_car_file("TestSim", "car1.json", {
+        self.create_car_file("TestSimA", "car1.json", {
             "carName": "Car 1",
             "carId": "car_1"
         })
-        
-        # Create an existing manifest
+        self.create_car_file("TestSimB", "alpha.json", {
+            "carName": "Alpha",
+            "carId": "alpha"
+        })
+
+        count = generate_manifest.generate_manifest(self.data_dir)
+        self.assertEqual(count, 3)
+
+        with open(self.data_dir / "manifest.json", 'r', encoding='utf-8') as f:
+            manifest = json.load(f)
+
+        cars = manifest["cars"]
+        self.assertIn("TestSimA", cars)
+        self.assertIn("TestSimB", cars)
+        self.assertEqual([c["path"] for c in cars["TestSimA"]], ["TestSimA/car1.json", "TestSimA/car2.json"])
+        self.assertEqual([c["path"] for c in cars["TestSimB"]], ["TestSimB/alpha.json"])
+    
+    def test_generate_manifest_sorted_order_within_sims(self):
+        """Cars are sorted alphabetically by filename within each sim and sims are sorted."""
+        self.create_car_file("SimZ", "zebra.json", {"carName": "Zebra", "carId": "zebra"})
+        self.create_car_file("SimZ", "alpha.json", {"carName": "Alpha", "carId": "alpha"})
+        self.create_car_file("SimA", "beta.json", {"carName": "Beta", "carId": "beta"})
+
+        generate_manifest.generate_manifest(self.data_dir)
+
+        with open(self.data_dir / "manifest.json", 'r', encoding='utf-8') as f:
+            manifest = json.load(f)
+
+        cars = manifest["cars"]
+        self.assertIn("SimA", cars)
+        self.assertIn("SimZ", cars)
+        self.assertEqual([c["path"] for c in cars["SimA"]], ["SimA/beta.json"]) 
+        self.assertEqual([c["path"] for c in cars["SimZ"]], ["SimZ/alpha.json", "SimZ/zebra.json"]) 
+    
+    def test_generate_manifest_skips_invalid_files(self):
+        """Invalid files are skipped and only valid cars are output."""
+        self.create_car_file("TestSim", "valid.json", {"carName": "Valid", "carId": "valid"})
+        self.create_car_file("TestSim", "invalid.json", {"carName": "Invalid"})
+
+        count = generate_manifest.generate_manifest(self.data_dir)
+
+        self.assertEqual(count, 1)
+
+        with open(self.data_dir / "manifest.json", 'r', encoding='utf-8') as f:
+            manifest = json.load(f)
+
+        self.assertIn("TestSim", manifest["cars"])
+        self.assertEqual(len(manifest["cars"]["TestSim"]), 1)
+        self.assertEqual(manifest["cars"]["TestSim"][0]["carId"], "valid")
+    
+    def test_generate_manifest_empty_data_dir(self):
+        """No manifest is created when there are no cars across sims."""
+        (self.data_dir / "EmptySim").mkdir()
+
+        count = generate_manifest.generate_manifest(self.data_dir)
+
+        self.assertEqual(count, 0)
+        self.assertFalse((self.data_dir / "manifest.json").exists())
+    
+    def test_generate_manifest_ignores_existing_per_sim_manifest(self):
+        """Existing per-sim manifest files are ignored during aggregation."""
+        self.create_car_file("TestSim", "car1.json", {"carName": "Car 1", "carId": "car_1"})
+
         sim_dir = self.data_dir / "TestSim"
         with open(sim_dir / "manifest.json", 'w') as f:
             json.dump({"cars": []}, f)
-        
-        count = generate_manifests.generate_manifest(sim_dir)
-        
+
+        count = generate_manifest.generate_manifest(self.data_dir)
         self.assertEqual(count, 1)
 
 
