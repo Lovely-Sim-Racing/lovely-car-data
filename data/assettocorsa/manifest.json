@@ -1,9 +1,0 @@
-{
-  "cars": [
-    {
-      "carName": "RSS Formula Hybrid 2023",
-      "carId": "rss_formula_hybrid_2023_AC",
-      "path": "rss-formula-hybrid-2023.json"
-    }
-  ]
-}
