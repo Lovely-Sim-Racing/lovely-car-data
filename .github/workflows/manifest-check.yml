@@ -1,6 +1,6 @@
 name: Manifest Check
 
-on:
+"on":
   pull_request:
     paths:
       - 'scripts/**'
