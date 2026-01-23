@@ -5,11 +5,13 @@ name: Manifest Check
     paths:
       - 'scripts/**'
       - 'data/**'
+      - '.github/workflows/manifest-check.yml'
   push:
     branches: [ main ]
     paths:
       - 'scripts/**'
       - 'data/**'
+      - '.github/workflows/manifest-check.yml'
 
 jobs:
   check:
