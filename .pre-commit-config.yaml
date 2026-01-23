@@ -9,3 +9,11 @@ repos:
     args: ['--autofix', '--no-sort-keys']
     types: [file]  # override `types: [json]`
     files: \.(json)$
+ - repo: local
+   hooks:
+   - id: generate-manifest
+     name: Generate data/manifest.json
+     language: system
+     entry: 'bash -lc "python3 scripts/generate_manifest.py && if [[ -n $(git status --porcelain -- data/manifest.json) ]]; then git add data/manifest.json; fi"'
+     pass_filenames: false
+     always_run: true
