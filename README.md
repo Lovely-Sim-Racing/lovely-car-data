@@ -128,6 +128,13 @@ To preserve consistency among LED profiles, you can use any of the offical **HTM
 ## Contributing
 To maintain properly formatted files, I've implemented - and require - a `pre-commit` script, that will prettify the JSON files and thus properly track changes to them.
 
+### 0. Prerequisite: Python
+The manifest generator runs via Python. Ensure you have Python 3.x available locally (`python3 --version` should work). On macOS you can install it with:
+
+```
+brew install python
+```
+
 ### 1. Install Pre-Commit Hook
 Before you can run hooks, you need to have the pre-commit package manager installed. You can do so by following the instructions on the [official pre-commit website](https://pre-commit.com/#installation), or just install it using the following command:
 
@@ -149,12 +156,13 @@ pre-commit install
 ### 3. Test & Finish
 You're all set as far as tooling is concerned. Every time you make a commit, the `pre-commit` script will make sure the files are properly formatted and are prettified. 
 
-It's usually a good idea to run the hooks against all of the files when adding new hooks (usually pre-commit will only run on the changed files during git hooks). Running `pre-commit run --all-files` will have a pass at everythig, and if all is well, you should see somthing like the below. 
+It's usually a good idea to run the hooks against all of the files when adding new hooks (usually pre-commit will only run on the changed files during git hooks). One of the hooks runs the manifest generator, so you will also see it in the output. Running `pre-commit run --all-files` will have a pass at everything, and if all is well, you should see something like:
 
 ```
 $ pre-commit run --all-files
 check json...............................................................Passed
 pretty format json.......................................................Passed
+Generate data/manifest.json..............................................Passed
 ```
 
 ---
