@@ -1,7 +1,7 @@
 {
   "carName": "Formula Ultimate Hybrid Gen2 - Low Downforce",
   "carId": "Formula Ultimate Hybrid Gen2 - Low Downforce",
-  "carClass": "Manual input needed",
+  "carClass": "F-U",
   "ledNumber": 15,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#00000000","#00000000","#00000000","#00000000","#00000000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF"],
