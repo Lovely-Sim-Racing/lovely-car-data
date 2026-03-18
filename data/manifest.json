@@ -282,13 +282,28 @@
       },
       {
         "carName": "Alpine A424",
+        "carId": "Alpine A424 - Low Downforce",
+        "path": "automobilista2/alpine-a424-low-downforce.json"
+      },
+      {
+        "carName": "Alpine A424",
         "carId": "Alpine A424",
         "path": "automobilista2/alpine-a424.json"
       },
       {
         "carName": "Aston Martin Valkyrie Hypercar",
+        "carId": "Aston Martin Valkyrie Hypercar - Low Downforce",
+        "path": "automobilista2/aston-martin-valkyrie-hypercar-low-downforce.json"
+      },
+      {
+        "carName": "Aston Martin Valkyrie Hypercar",
         "carId": "aston_martin_valkyrie_hypercar",
         "path": "automobilista2/aston-martin-valkyrie-hypercar.json"
+      },
+      {
+        "carName": "Aston Martin Vantage GT3 Evo",
+        "carId": "Aston Martin Vantage GT3 Evo - Low Downforce",
+        "path": "automobilista2/aston-martin-vantage-gt3-evo-low-downforce.json"
       },
       {
         "carName": "Aston Martin Vantage GT3 Evo",
@@ -302,8 +317,18 @@
       },
       {
         "carName": "Aston Martin Vantage GTE",
+        "carId": "Aston Martin Vantage GTE - Low Downforce",
+        "path": "automobilista2/aston-martin-vantage-gte-low-downforce.json"
+      },
+      {
+        "carName": "Aston Martin Vantage GTE",
         "carId": "aston_martin_vantage_gte",
         "path": "automobilista2/aston-martin-vantage-gte.json"
+      },
+      {
+        "carName": "Audi R8 LMS GT3 evo II",
+        "carId": "Audi R8 LMS GT3 evo II - Low Downforce",
+        "path": "automobilista2/audi-r8-lms-gt3-evo-ii-low-downforce.json"
       },
       {
         "carName": "Audi R8 LMS GT3 evo II",
@@ -317,8 +342,18 @@
       },
       {
         "carName": "BMW M Hybrid V8",
+        "carId": "BMW M Hybrid V8 - Low Downforce",
+        "path": "automobilista2/bmw-m-hybrid-v8-low-downforce.json"
+      },
+      {
+        "carName": "BMW M Hybrid V8",
         "carId": "BMW M Hybrid V8",
         "path": "automobilista2/bmw-m-hybrid-v8.json"
+      },
+      {
+        "carName": "BMW M4 GT3",
+        "carId": "BMW M4 GT3 - Low Downforce",
+        "path": "automobilista2/bmw-m4-gt3-low-downforce.json"
       },
       {
         "carName": "BMW M4 GT3",
@@ -337,6 +372,11 @@
       },
       {
         "carName": "BMW M8 GTE",
+        "carId": "BMW M8 GTE - Low Downforce",
+        "path": "automobilista2/bmw-m8-gte-low-downforce.json"
+      },
+      {
+        "carName": "BMW M8 GTE",
         "carId": "bmw_m8_gte",
         "path": "automobilista2/bmw-m8-gte.json"
       },
@@ -344,6 +384,11 @@
         "carName": "Cadillac dpi-vr",
         "carId": "cadillac_dpi-vr",
         "path": "automobilista2/cadillac-dpi-vr.json"
+      },
+      {
+        "carName": "Cadillac V-Series.R",
+        "carId": "Cadillac V-Series.R - Low Downforce",
+        "path": "automobilista2/cadillac-v-series-r-low-downforce.json"
       },
       {
         "carName": "Cadillac V-Series.R",
@@ -364,6 +409,11 @@
         "carName": "Chevrolet Corvette C8.R",
         "carId": "chevrolet_corvette_c8.r",
         "path": "automobilista2/chevrolet-corvette-c8r.json"
+      },
+      {
+        "carName": "Chevrolet Corvette Z06 GT3.R",
+        "carId": "Chevrolet Corvette Z06 GT3.R - Low Downforce",
+        "path": "automobilista2/chevrolet-corvette-z06-gt3-r-low-downforce.json"
       },
       {
         "carName": "Chevrolet Corvette Z06 GT3.R",
@@ -542,8 +592,18 @@
       },
       {
         "carName": "Lamborghini Huracan GT3 EVO2",
+        "carId": "Lamborghini Huracan GT3 EVO2 - Low Downforce",
+        "path": "automobilista2/lamborghini-huracan-gt3-evo2-low-downforce.json"
+      },
+      {
+        "carName": "Lamborghini Huracan GT3 EVO2",
         "carId": "Lamborghini Huracan GT3 EVO2",
         "path": "automobilista2/lamborghini-huracan-gt3-evo2.json"
+      },
+      {
+        "carName": "Lamborghini Huracan Super Trofeo Evo2",
+        "carId": "Lamborghini Huracan Super Trofeo Evo2 - Low Downforce",
+        "path": "automobilista2/lamborghini-huracan-super-trofeo-evo2-low-downforce.json"
       },
       {
         "carName": "Lamborghini Huracan Super Trofeo Evo2",
@@ -552,8 +612,18 @@
       },
       {
         "carName": "Lamborghini SC63",
+        "carId": "Lamborghini SC63 - Low Downforce",
+        "path": "automobilista2/lamborghini-sc63-low-downforce.json"
+      },
+      {
+        "carName": "Lamborghini SC63",
         "carId": "lamborghini_sc63",
         "path": "automobilista2/lamborghini-sc63.json"
+      },
+      {
+        "carName": "Ligier JS P217",
+        "carId": "Ligier JS P217 - Low Downforce",
+        "path": "automobilista2/ligier-js-p217-low-downforce.json"
       },
       {
         "carName": "Ligier JS P217",
@@ -597,6 +667,11 @@
       },
       {
         "carName": "McLaren 720S GT3 Evo",
+        "carId": "McLaren 720S GT3 Evo - Low Downforce",
+        "path": "automobilista2/mclaren-720s-gt3-evo-low-downforce.json"
+      },
+      {
+        "carName": "McLaren 720S GT3 Evo",
         "carId": "McLaren 720S GT3 Evo",
         "path": "automobilista2/mclaren-720s-gt3-evo.json"
       },
@@ -614,6 +689,11 @@
         "carName": "MCR S2000",
         "carId": "mcr_s2000",
         "path": "automobilista2/mcr-s2000.json"
+      },
+      {
+        "carName": "Mercedes-AMG GT3 Evo",
+        "carId": "Mercedes-AMG GT3 Evo - Low Downforce",
+        "path": "automobilista2/mercedes-amg-gt3-evo-low-downforce.json"
       },
       {
         "carName": "Mercedes-AMG GT3 Evo",
@@ -702,6 +782,11 @@
       },
       {
         "carName": "Oreca 07",
+        "carId": "Oreca 07 - Low Downforce",
+        "path": "automobilista2/oreca-07-low-downforce.json"
+      },
+      {
+        "carName": "Oreca 07",
         "carId": "Oreca 07",
         "path": "automobilista2/oreca-07.json"
       },
@@ -722,13 +807,28 @@
       },
       {
         "carName": "Porsche 911 RSR GTE",
+        "carId": "Porsche 911 RSR GTE - Low Downforce",
+        "path": "automobilista2/porsche-911-rsr-gte-low-downforce.json"
+      },
+      {
+        "carName": "Porsche 911 RSR GTE",
         "carId": "porsche_911_rsr_gte",
         "path": "automobilista2/porsche-911-rsr-gte.json"
       },
       {
         "carName": "Porsche 963",
+        "carId": "Porsche 963 - Low Downforce",
+        "path": "automobilista2/porsche-963-low-downforce.json"
+      },
+      {
+        "carName": "Porsche 963",
         "carId": "Porsche 963",
         "path": "automobilista2/porsche-963.json"
+      },
+      {
+        "carName": "Porsche 992 GT3 R",
+        "carId": "Porsche 992 GT3 R- Low Downforce",
+        "path": "automobilista2/porsche-992-gt3-r-low-downforce.json"
       },
       {
         "carName": "Porsche 992 GT3 R",
@@ -1160,6 +1260,11 @@
         "carName": "Audi RS3 LMS",
         "carId": "audirs3lms",
         "path": "iracing/audirs3lms.json"
+      },
+      {
+        "carName": "Audi RS3 LMS Gen2",
+        "carId": "audirs3lmsgen2",
+        "path": "iracing/audirs3lmsgen2.json"
       },
       {
         "carName": "BMW M Hybrid V8",
@@ -1704,7 +1809,7 @@
         "path": "lmu/gt3-huracan-custom-team-2024.json"
       },
       {
-        "carName": "GT3_Iron Dames 2024",
+        "carName": "Iron Dames 2024",
         "carId": "GT3_Iron Dames 2024",
         "path": "lmu/gt3-iron-dames-2024.json"
       },
@@ -2044,22 +2149,22 @@
         "path": "lmu/hyper-sc63-custom-team-2024.json"
       },
       {
-        "carName": "Hyper_Toyota Gazoo Racing 2025",
+        "carName": "Toyota Gazoo Racing",
         "carId": "Hyper_Toyota Gazoo Racing 2025",
         "path": "lmu/hyper-toyota-gazoo-racing-2025.json"
       },
       {
-        "carName": "Hyper_Toyota GR010 Custom Team 2023",
+        "carName": "Toyota Gazoo Racing",
         "carId": "Hyper_Toyota GR010 Custom Team 2023",
         "path": "lmu/hyper-toyota-gr010-custom-team-2023.json"
       },
       {
-        "carName": "Hyper_Toyota GR010 Custom Team 2024",
+        "carName": "Toyota Gazoo Racing",
         "carId": "Hyper_Toyota GR010 Custom Team 2024",
         "path": "lmu/hyper-toyota-gr010-custom-team-2024.json"
       },
       {
-        "carName": "Hyper_Toyota GR010 Custom Team 2025",
+        "carName": "Toyota Gazoo Racing",
         "carId": "Hyper_Toyota GR010 Custom Team 2025",
         "path": "lmu/hyper-toyota-gr010-custom-team-2025.json"
       },
@@ -2539,7 +2644,7 @@
         "path": "lmu/tower-motorsports.json"
       },
       {
-        "carName": "Toyota Gazoo Racing 2024",
+        "carName": "Toyota Gazoo Racing",
         "carId": "Toyota Gazoo Racing 2024",
         "path": "lmu/toyota-gazoo-racing-2024.json"
       },
