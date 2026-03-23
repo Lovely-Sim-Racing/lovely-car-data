@@ -1,6 +1,6 @@
 {
   "carName": "NASCAR O'Reilly Ford Mustang",
-  "carId": "nascar oreilly ford mustang",
+  "carId": "nascar-oreilly-ford-mustang",
   "carClass": "ORE",
   "ledNumber": 1,
   "redlineBlinkInterval": 0,
@@ -10,22 +10,22 @@
   "ledRpm": [
     {
       "R": [
-        7700
+        8400
       ],
       "N": [
-        7700
+        8400
       ],
       "1": [
-        7700
+        8400
       ],
       "2": [
-        7700
+        8400
       ],
       "3": [
-        7700
+        8400
       ],
       "4": [
-        7700
+        8400
       ]
     }
   ]
