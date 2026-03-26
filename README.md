@@ -103,14 +103,16 @@ Every file is formatted as follows:
 # ledNumber             (Int)    - The car's in game number of telemetry LED's
 # redlineBlinkInterval  (Int)    - The Speed at which the redline blinks in ms
 # ledColor                         An array of the led color
-  # redline(:Value)     (String) - A color name or HEX value for the red line
+  # redline1(:Value)    (String) - (Optional) Stage 1 color name or HEX value for the red line
+  # redlineN(:Value)    (String) - (Optional) Stage N color name or HEX value for the red line
   # led1color(:Value)   (String) - A color name or HEX value for LED 1
   # led2color(:Value)   (String) - A color name or HEX value for LED 2
   # led3color(:Value)   (String) - A color name or HEX value for LED 3
   # ledNcolor(:Value)   (String) - A color name or HEX value for LED N
 # ledRpm                           An array of all the RPM data per gear
   # gear(:Key)          (String) - The gear number
-    # redline(:Value)   (Int)    - The RPM red line value per gear
+    # redline1(:Value)  (Int)    - (Optional) Stage 1 RPM red line value per gear
+    # redlineN(:Value)  (Int)    - (Optional) Stage N RPM red line value per gear
     # led1rpm(:Value)   (Int)    - The RPM value for LED 1
     # led2rpm(:Value)   (Int)    - The RPM value for LED 2
     # led3rpm(:Value)   (Int)    - The RPM value for LED 3
