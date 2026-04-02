@@ -1894,6 +1894,11 @@
         "path": "lmu/gt3-mustang-custom-team-2025.json"
       },
       {
+        "carName": "Proton Competition #60",
+        "carId": "GT3_Proton Competition 2025_60",
+        "path": "lmu/gt3-proton-competition-2025-60.json"
+      },
+      {
         "carName": "GT3_Proton Competition 2025",
         "carId": "GT3_Proton Competition 2025",
         "path": "lmu/gt3-proton-competition-2025.json"
@@ -2464,6 +2469,11 @@
         "path": "lmu/lmp3-dkr-engineering-4.json"
       },
       {
+        "carName": "Duqueine D09 Custom Team",
+        "carId": "LMP3_Duqueine D09 P3 Custom Team 2025_397",
+        "path": "lmu/lmp3-duqueine-d09-p3-custom-team-2025-397.json"
+      },
+      {
         "carName": "LMP3 Team Virage",
         "carId": "LMP3_Team Virage",
         "path": "lmu/lmp3-eurointernational.json"
@@ -2507,6 +2517,11 @@
         "carName": "LMP3 Team Virage",
         "carId": "LMP3_Team Virage",
         "path": "lmu/lmp3-ultimate.json"
+      },
+      {
+        "carName": "WTM by Rinaldi Racing",
+        "carId": "LMP3_WTM by Rinaldi Racing 2025_12",
+        "path": "lmu/lmp3-wtm-by-rinaldi-racing-2025-12.json"
       },
       {
         "carName": "Nielsen Racing 2024",
