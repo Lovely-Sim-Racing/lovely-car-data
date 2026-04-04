@@ -101,7 +101,7 @@ Every file is formatted as follows:
 # carId                 (String) - The carId property as it appears in SimHub
 # carClass              (String) - The car's 3-5 letter class shorthand
 # ledNumber             (Int)    - The car's in game number of telemetry LED's
-# redlineBlinkInterval  (Int)    - The Speed at which the redline blinks in ms
+# redlineBlinkInterval  (Int|Array) - The speed at which the redline blinks in ms. If an array, it matches the redline stages.
 # ledColor                         An array of the led color
   # redline1(:Value)    (String) - (Optional) Stage 1 color name or HEX value for the red line
   # redlineN(:Value)    (String) - (Optional) Stage N color name or HEX value for the red line
