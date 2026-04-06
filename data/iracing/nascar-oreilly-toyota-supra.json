@@ -1,0 +1,32 @@
+{
+  "carName": "NASCAR O'Reilly Toyota Supra",
+  "carId": "nascar-oreilly-toyota-supra",
+  "carClass": "ORE",
+  "ledNumber": 1,
+  "redlineBlinkInterval": 0,
+  "ledColor": [
+    "#FFFF0000"
+  ],
+  "ledRpm": [
+    {
+      "R": [
+        8400
+      ],
+      "N": [
+        8400
+      ],
+      "1": [
+        8400
+      ],
+      "2": [
+        8400
+      ],
+      "3": [
+        8400
+      ],
+      "4": [
+        8400
+      ]
+    }
+  ]
+}
