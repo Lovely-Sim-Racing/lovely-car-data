@@ -159,12 +159,12 @@
         "path": "assettocorsacompetizione/lamborghini-huracan-gt3.json"
       },
       {
-        "carName": "LAMBORGHINI HURAC\u00c1N ST EVO2 2021",
+        "carName": "LAMBORGHINI HURACÁN ST EVO2 2021",
         "carId": "lamborghini_huracan_st_evo2",
         "path": "assettocorsacompetizione/lamborghini-huracan-st-evo2.json"
       },
       {
-        "carName": "LAMBORGHINI HURAC\u00c1N ST 2015",
+        "carName": "LAMBORGHINI HURACÁN ST 2015",
         "carId": "lamborghini_huracan_st",
         "path": "assettocorsacompetizione/lamborghini-huracan-st.json"
       },
@@ -943,8 +943,8 @@
         "path": "f12024/alpine.json"
       },
       {
-        "carName": "Art GP \u201823",
-        "carId": "Art GP \u201823",
+        "carName": "Art GP ‘23",
+        "carId": "Art GP ‘23",
         "path": "f12024/art-gp-23.json"
       },
       {
@@ -958,8 +958,8 @@
         "path": "f12024/aston-martin.json"
       },
       {
-        "carName": "Campos \u201823",
-        "carId": "Campos \u201823",
+        "carName": "Campos ‘23",
+        "carId": "Campos ‘23",
         "path": "f12024/campos-23.json"
       },
       {
@@ -968,13 +968,13 @@
         "path": "f12024/campos-racing-24.json"
       },
       {
-        "carName": "Carlin \u201823",
-        "carId": "Carlin \u201823",
+        "carName": "Carlin ‘23",
+        "carId": "Carlin ‘23",
         "path": "f12024/carlin-23.json"
       },
       {
-        "carName": "Dams \u201823",
-        "carId": "Dams \u201823",
+        "carName": "Dams ‘23",
+        "carId": "Dams ‘23",
         "path": "f12024/dams-23.json"
       },
       {
@@ -1003,8 +1003,8 @@
         "path": "f12024/haas.json"
       },
       {
-        "carName": "Hitech \u201823",
-        "carId": "Hitech \u201823",
+        "carName": "Hitech ‘23",
+        "carId": "Hitech ‘23",
         "path": "f12024/hitech-23.json"
       },
       {
@@ -1028,8 +1028,8 @@
         "path": "f12024/mercedes.json"
       },
       {
-        "carName": "MP Motorsport \u201823",
-        "carId": "MP Motorsport \u201823",
+        "carName": "MP Motorsport ‘23",
+        "carId": "MP Motorsport ‘23",
         "path": "f12024/mp-motorsport-23.json"
       },
       {
@@ -1038,13 +1038,13 @@
         "path": "f12024/mp-motorsport-24.json"
       },
       {
-        "carName": "PHM \u201823",
-        "carId": "PHM \u201823",
+        "carName": "PHM ‘23",
+        "carId": "PHM ‘23",
         "path": "f12024/phm-23.json"
       },
       {
-        "carName": "Prema \u201823",
-        "carId": "Prema \u201823",
+        "carName": "Prema ‘23",
+        "carId": "Prema ‘23",
         "path": "f12024/prema-23.json"
       },
       {
@@ -1073,8 +1073,8 @@
         "path": "f12024/sauber.json"
       },
       {
-        "carName": "Trident \u201823",
-        "carId": "Trident \u201823",
+        "carName": "Trident ‘23",
+        "carId": "Trident ‘23",
         "path": "f12024/trident-23.json"
       },
       {
@@ -1083,8 +1083,8 @@
         "path": "f12024/trident-24.json"
       },
       {
-        "carName": "Van Amersfoort Racing \u201823",
-        "carId": "Van Amersfoort Racing \u201823",
+        "carName": "Van Amersfoort Racing ‘23",
+        "carId": "Van Amersfoort Racing ‘23",
         "path": "f12024/van-amersfoort-racing-23.json"
       },
       {
@@ -1093,8 +1093,8 @@
         "path": "f12024/van-amersfoort-racing-24.json"
       },
       {
-        "carName": "Virtuosi \u201823",
-        "carId": "Virtuosi \u201823",
+        "carName": "Virtuosi ‘23",
+        "carId": "Virtuosi ‘23",
         "path": "f12024/virtuosi-23.json"
       },
       {
@@ -1417,7 +1417,7 @@
         "path": "iracing/hyundaivelostern.json"
       },
       {
-        "carName": "Lamborghini Hurac\u00e1n EVO GT3",
+        "carName": "Lamborghini Huracán EVO GT3",
         "carId": "lamborghinievogt3",
         "path": "iracing/lamborghinievogt3.json"
       },
@@ -1949,8 +1949,8 @@
         "path": "lmu/gt3-proton-racing-2024.json"
       },
       {
-        "carName": "GT3_Racing Spirit of L\u00e9man 2025",
-        "carId": "GT3_Racing Spirit of L\u00e9man 2025",
+        "carName": "GT3_Racing Spirit of Léman 2025",
+        "carId": "GT3_Racing Spirit of Léman 2025",
         "path": "lmu/gt3-racing-spirit-of-leman-2025.json"
       },
       {
