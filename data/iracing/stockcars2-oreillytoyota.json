@@ -1,6 +1,6 @@
 {
-  "carName": "NASCAR O'Reilly Chevrolet Camaro",
-  "carId": "nascar-oreilly-chevrolet-camaro",
+  "carName": "NASCAR O'Reilly Toyota Supra",
+  "carId": "stockcars2-oreillytoyota",
   "carClass": "ORE",
   "ledNumber": 1,
   "redlineBlinkInterval": 0,

@@ -1,6 +1,6 @@
 {
-  "carName": "NASCAR Toyota Camry Next Gen",
-  "carId": "nascar-toyota-camry-nextgen",
+  "carName": "NASCAR Cup Next Gen Chevrolet Camaro ZL1",
+  "carId": "stockcars-nascarnextgenchevrolet",
   "carClass": "NXG",
   "ledNumber": 9,
   "redlineBlinkInterval": 0,
