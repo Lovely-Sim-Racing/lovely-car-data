@@ -159,12 +159,12 @@
         "path": "assettocorsacompetizione/lamborghini-huracan-gt3.json"
       },
       {
-        "carName": "LAMBORGHINI HURACÁN ST EVO2 2021",
+        "carName": "LAMBORGHINI HURAC\u00c1N ST EVO2 2021",
         "carId": "lamborghini_huracan_st_evo2",
         "path": "assettocorsacompetizione/lamborghini-huracan-st-evo2.json"
       },
       {
-        "carName": "LAMBORGHINI HURACÁN ST 2015",
+        "carName": "LAMBORGHINI HURAC\u00c1N ST 2015",
         "carId": "lamborghini_huracan_st",
         "path": "assettocorsacompetizione/lamborghini-huracan-st.json"
       },
@@ -943,8 +943,8 @@
         "path": "f12024/alpine.json"
       },
       {
-        "carName": "Art GP ‘23",
-        "carId": "Art GP ‘23",
+        "carName": "Art GP \u201823",
+        "carId": "Art GP \u201823",
         "path": "f12024/art-gp-23.json"
       },
       {
@@ -958,8 +958,8 @@
         "path": "f12024/aston-martin.json"
       },
       {
-        "carName": "Campos ‘23",
-        "carId": "Campos ‘23",
+        "carName": "Campos \u201823",
+        "carId": "Campos \u201823",
         "path": "f12024/campos-23.json"
       },
       {
@@ -968,13 +968,13 @@
         "path": "f12024/campos-racing-24.json"
       },
       {
-        "carName": "Carlin ‘23",
-        "carId": "Carlin ‘23",
+        "carName": "Carlin \u201823",
+        "carId": "Carlin \u201823",
         "path": "f12024/carlin-23.json"
       },
       {
-        "carName": "Dams ‘23",
-        "carId": "Dams ‘23",
+        "carName": "Dams \u201823",
+        "carId": "Dams \u201823",
         "path": "f12024/dams-23.json"
       },
       {
@@ -1003,8 +1003,8 @@
         "path": "f12024/haas.json"
       },
       {
-        "carName": "Hitech ‘23",
-        "carId": "Hitech ‘23",
+        "carName": "Hitech \u201823",
+        "carId": "Hitech \u201823",
         "path": "f12024/hitech-23.json"
       },
       {
@@ -1028,8 +1028,8 @@
         "path": "f12024/mercedes.json"
       },
       {
-        "carName": "MP Motorsport ‘23",
-        "carId": "MP Motorsport ‘23",
+        "carName": "MP Motorsport \u201823",
+        "carId": "MP Motorsport \u201823",
         "path": "f12024/mp-motorsport-23.json"
       },
       {
@@ -1038,13 +1038,13 @@
         "path": "f12024/mp-motorsport-24.json"
       },
       {
-        "carName": "PHM ‘23",
-        "carId": "PHM ‘23",
+        "carName": "PHM \u201823",
+        "carId": "PHM \u201823",
         "path": "f12024/phm-23.json"
       },
       {
-        "carName": "Prema ‘23",
-        "carId": "Prema ‘23",
+        "carName": "Prema \u201823",
+        "carId": "Prema \u201823",
         "path": "f12024/prema-23.json"
       },
       {
@@ -1073,8 +1073,8 @@
         "path": "f12024/sauber.json"
       },
       {
-        "carName": "Trident ‘23",
-        "carId": "Trident ‘23",
+        "carName": "Trident \u201823",
+        "carId": "Trident \u201823",
         "path": "f12024/trident-23.json"
       },
       {
@@ -1083,8 +1083,8 @@
         "path": "f12024/trident-24.json"
       },
       {
-        "carName": "Van Amersfoort Racing ‘23",
-        "carId": "Van Amersfoort Racing ‘23",
+        "carName": "Van Amersfoort Racing \u201823",
+        "carId": "Van Amersfoort Racing \u201823",
         "path": "f12024/van-amersfoort-racing-23.json"
       },
       {
@@ -1093,8 +1093,8 @@
         "path": "f12024/van-amersfoort-racing-24.json"
       },
       {
-        "carName": "Virtuosi ‘23",
-        "carId": "Virtuosi ‘23",
+        "carName": "Virtuosi \u201823",
+        "carId": "Virtuosi \u201823",
         "path": "f12024/virtuosi-23.json"
       },
       {
@@ -1417,7 +1417,7 @@
         "path": "iracing/hyundaivelostern.json"
       },
       {
-        "carName": "Lamborghini Huracán EVO GT3",
+        "carName": "Lamborghini Hurac\u00e1n EVO GT3",
         "carId": "lamborghinievogt3",
         "path": "iracing/lamborghinievogt3.json"
       },
@@ -1467,44 +1467,44 @@
         "path": "iracing/mx5-mx52016.json"
       },
       {
-        "carName": "NASCAR Chevrolet Camaro Next Gen",
-        "carId": "nascar-chevrolet-camaro-nextgen",
-        "path": "iracing/nascar-chevrolet-camaro-nextgen.json"
+        "carName": "NASCAR Cup Next Gen Chevrolet Camaro ZL1",
+        "carId": "stockcars-nascarnextgenchevrolet",
+        "path": "iracing/stockcars-nascarnextgenchevrolet.json"
       },
       {
-        "carName": "Gen 4 Chevrolet Monte Carlo - 2003",
-        "carId": "nascar-chevrolet-montecarlo-gen4-2003",
-        "path": "iracing/nascar-chevrolet-montecarlo-gen4-2003.json"
+        "carName": "NASCAR Gen 4 Chevrolet Monte Carlo (2003)",
+        "carId": "stockcars-chevymontecarlo03",
+        "path": "iracing/stockcars-chevymontecarlo03.json"
       },
       {
-        "carName": "NASCAR Ford Mustang Next Gen",
-        "carId": "nascar-ford-mustang-nextgen",
-        "path": "iracing/nascar-ford-mustang-nextgen.json"
+        "carName": "NASCAR Cup Next Gen Ford Mustang Dark Horse",
+        "carId": "stockcars-nascarnextgenford",
+        "path": "iracing/stockcars-nascarnextgenford.json"
       },
       {
-        "carName": "Gen 4 Ford Taurus - 2003",
-        "carId": "nascar-ford-taurus-gen4-2003",
-        "path": "iracing/nascar-ford-taurus-gen4-2003.json"
+        "carName": "NASCAR Gen 4 Ford Taurus (2003)",
+        "carId": "stockcars-fordtaurus03",
+        "path": "iracing/stockcars-fordtaurus03.json"
       },
       {
         "carName": "NASCAR O'Reilly Chevrolet Camaro",
-        "carId": "nascar-oreilly-chevrolet-camaro",
-        "path": "iracing/nascar-oreilly-chevrolet-camaro.json"
+        "carId": "stockcars2-oreillychevy",
+        "path": "iracing/stockcars2-oreillychevy.json"
       },
       {
         "carName": "NASCAR O'Reilly Ford Mustang",
-        "carId": "nascar-oreilly-ford-mustang",
-        "path": "iracing/nascar-oreilly-ford-mustang.json"
+        "carId": "stockcars2-oreillyford",
+        "path": "iracing/stockcars2-oreillyford.json"
       },
       {
         "carName": "NASCAR O'Reilly Toyota Supra",
-        "carId": "nascar-oreilly-toyota-supra",
-        "path": "iracing/nascar-oreilly-toyota-supra.json"
+        "carId": "stockcars2-oreillytoyota",
+        "path": "iracing/stockcars2-oreillytoyota.json"
       },
       {
-        "carName": "NASCAR Toyota Camry Next Gen",
-        "carId": "nascar-toyota-camry-nextgen",
-        "path": "iracing/nascar-toyota-camry-nextgen.json"
+        "carName": "NASCAR Cup Next Gen Toyota Camry",
+        "carId": "stockcars-nascarnextgentoyota",
+        "path": "iracing/stockcars-nascarnextgentoyota.json"
       },
       {
         "carName": "Porsche 718 GT4",
@@ -1949,8 +1949,8 @@
         "path": "lmu/gt3-proton-racing-2024.json"
       },
       {
-        "carName": "GT3_Racing Spirit of Léman 2025",
-        "carId": "GT3_Racing Spirit of Léman 2025",
+        "carName": "GT3_Racing Spirit of L\u00e9man 2025",
+        "carId": "GT3_Racing Spirit of L\u00e9man 2025",
         "path": "lmu/gt3-racing-spirit-of-leman-2025.json"
       },
       {
