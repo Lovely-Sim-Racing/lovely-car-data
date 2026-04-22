@@ -1,31 +1,31 @@
 {
-  "carName": "NASCAR O'Reilly Ford Mustang",
-  "carId": "nascar-oreilly-ford-mustang",
-  "carClass": "ORE",
+  "carName": "NASCAR Gen 4 Chevrolet Monte Carlo (2003)",
+  "carId": "stockcars chevy monte carlo 03",
+  "carClass": "Gen4",
   "ledNumber": 1,
   "redlineBlinkInterval": 0,
   "ledColor": [
-    "#FFFF0000"
+    "#FFFFFF00"
   ],
   "ledRpm": [
     {
       "R": [
-        8400
+        7700
       ],
       "N": [
-        8400
+        7700
       ],
       "1": [
-        8400
+        7700
       ],
       "2": [
-        8400
+        7700
       ],
       "3": [
-        8400
+        7700
       ],
       "4": [
-        8400
+        7700
       ]
     }
   ]
