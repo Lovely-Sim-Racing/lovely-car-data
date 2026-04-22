@@ -274,6 +274,108 @@
         "path": "assettocorsacompetizione/porsche-992-gt3-r.json"
       }
     ],
+    "assettocorsaevo": [
+      {
+        "carName": "Audi R8 LMS GT4 Evo",
+        "carId": "Audi R8 LMS GT4 Evo",
+        "path": "assettocorsaevo/audi-r8-lms-gt4-evo.json"
+      },
+      {
+        "carName": "BMW M2 CS Racing",
+        "carId": "BMW M2 CS Racing",
+        "path": "assettocorsaevo/bmw-m2-cs-racing.json"
+      },
+      {
+        "carName": "BMW M4 GT3 Evo",
+        "carId": "BMW M4 GT3 Evo",
+        "path": "assettocorsaevo/bmw-m4-gt3-evo.json"
+      },
+      {
+        "carName": "Dallara EXP",
+        "carId": "Dallara EXP",
+        "path": "assettocorsaevo/dallara-exp.json"
+      },
+      {
+        "carName": "Dallara Stradale",
+        "carId": "Dallara Stradale",
+        "path": "assettocorsaevo/dallara-stradale.json"
+      },
+      {
+        "carName": "Ferrari 296 GT3",
+        "carId": "Ferrari 296 GT3",
+        "path": "assettocorsaevo/ferrari-296-gt3.json"
+      },
+      {
+        "carName": "Ferrari 296 GTB",
+        "carId": "Ferrari 296 GTB",
+        "path": "assettocorsaevo/ferrari-296-gtb.json"
+      },
+      {
+        "carName": "Ferrari 488 Challenge EVO",
+        "carId": "ks_ferrari_488_challenge_evo",
+        "path": "assettocorsaevo/ferrari-488-challenge-evo.json"
+      },
+      {
+        "carName": "Ferrari Daytona SP3",
+        "carId": "Ferrari Daytona SP3",
+        "path": "assettocorsaevo/ferrari-daytona-sp3.json"
+      },
+      {
+        "carName": "Ferrari F2004",
+        "carId": "Ferrari F2004",
+        "path": "assettocorsaevo/ferrari-f2004.json"
+      },
+      {
+        "carName": "Ferrari SF25",
+        "carId": "Ferrari SF25",
+        "path": "assettocorsaevo/ferrari-sf25.json"
+      },
+      {
+        "carName": "Ford Mustang GT3",
+        "carId": "Ford Mustang GT3",
+        "path": "assettocorsaevo/ford-mustang-gt3.json"
+      },
+      {
+        "carName": "Lammborghini Huracan ST EVO2",
+        "carId": "Lamborghini Huracan ST EVO2",
+        "path": "assettocorsaevo/lamborghini-huracan-st-evo2.json"
+      },
+      {
+        "carName": "Lammborghini Huracan STO",
+        "carId": "Lamborghini Huracan STO",
+        "path": "assettocorsaevo/lamborghini-huracan-sto.json"
+      },
+      {
+        "carName": "Maserati GT2",
+        "carId": "Maserati GT2",
+        "path": "assettocorsaevo/maserati-gt2.json"
+      },
+      {
+        "carName": "Mazda MX-5 ND Cup",
+        "carId": "Mazda MX-5 ND Cup",
+        "path": "assettocorsaevo/mazda-mx-5-nd-cup.json"
+      },
+      {
+        "carName": "Mercedes-AMG GT2",
+        "carId": "Mercedes-AMG GT2",
+        "path": "assettocorsaevo/mercedes-amg-gt2.json"
+      },
+      {
+        "carName": "Porsche 718 Cayman GT4 Clubsport",
+        "carId": "Porsche 718 Cayman GT4 Clubsport",
+        "path": "assettocorsaevo/porsche-718-cayman-gt4-clubsport.json"
+      },
+      {
+        "carName": "Porsche 911 GT3 Cup (992)",
+        "carId": "Porsche 911 GT3 Cup (992)",
+        "path": "assettocorsaevo/porsche-911-gt3-cup-992.json"
+      },
+      {
+        "carName": "Porsche 992 GT3 R Rennsport",
+        "carId": "Porsche 992 GT3 R Rennsport",
+        "path": "assettocorsaevo/porsche-992-gt3-r-rennsport.json"
+      }
+    ],
     "automobilista2": [
       {
         "carName": "Alpine A110 GT4 evo",
@@ -496,6 +598,26 @@
         "path": "automobilista2/formula-ultimate-gen2.json"
       },
       {
+        "carName": "Formula Ultimate Hybrid Gen1",
+        "carId": "Formula Ultimate Hybrid Gen1 - High Downforce",
+        "path": "automobilista2/formula-ultimate-hybrid-gen1-high-downforce.json"
+      },
+      {
+        "carName": "Formula Ultimate Hybrid Gen1",
+        "carId": "Formula Ultimate Hybrid Gen1 - Low Downforce",
+        "path": "automobilista2/formula-ultimate-hybrid-gen1-low-downforce.json"
+      },
+      {
+        "carName": "Formula Ultimate Hybrid Gen1",
+        "carId": "Formula Ultimate Hybrid Gen1",
+        "path": "automobilista2/formula-ultimate-hybrid-gen1.json"
+      },
+      {
+        "carName": "Formula Ultimate Hybrid Gen2",
+        "carId": "Formula Ultimate Hybrid Gen2 - High Downforce",
+        "path": "automobilista2/formula-ultimate-hybrid-gen2-high-downforce.json"
+      },
+      {
         "carName": "Formula Ultimate Hybrid Gen2 - Low Downforce",
         "carId": "Formula Ultimate Hybrid Gen2 - Low Downforce",
         "path": "automobilista2/formula-ultimate-hybrid-gen2-low-downforce.json"
@@ -504,6 +626,11 @@
         "carName": "Formula Ultimate Hybrid Gen2",
         "carId": "Formula Ultimate Hybrid Gen2",
         "path": "automobilista2/formula-ultimate-hybrid-gen2.json"
+      },
+      {
+        "carName": "Formula Ultimate Hybrid Gen3 - Low Downforce",
+        "carId": "Formula Ultimate Hybrid Gen3 - Low Downforce",
+        "path": "automobilista2/formula-ultimate-hybrid-gen3-high-downforce.json"
       },
       {
         "carName": "Formula Ultimate Hybrid Gen3 - Low Downforce",
@@ -521,6 +648,11 @@
         "path": "automobilista2/formula-usa-2023.json"
       },
       {
+        "carName": "Formula V10 Gen2",
+        "carId": "Formula V10 Gen2 - High Downforce",
+        "path": "automobilista2/formula-v10-gen2-high-downforce.json"
+      },
+      {
         "carName": "Formula V10 Gen2 - Low Downforce",
         "carId": "Formula V10 Gen2 - Low Downforce",
         "path": "automobilista2/formula-v10-gen2-low-downforce.json"
@@ -529,6 +661,11 @@
         "carName": "Formula V10 gen2",
         "carId": "formula_v10_gen2",
         "path": "automobilista2/formula-v10-gen2.json"
+      },
+      {
+        "carName": "Formula V8 Gen3",
+        "carId": "Formula V8 Gen3 - High Downforce",
+        "path": "automobilista2/formula-v8-gen3-high-downforce.json"
       },
       {
         "carName": "Formula V8 Gen3 - Low Downforce",
@@ -2094,16 +2231,6 @@
         "path": "lmu/hyper-alpine-endurance-team-2025.json"
       },
       {
-        "carName": "Hyper_Genesis Custom Team 2026",
-        "carId": "Hyper_Genesis Custom Team 2026_397",
-        "path": "lmu/hyper-genesis-custom-team-2026-397.json"
-      },
-      {
-        "carName": "Genesis Magma Racing 2026",
-        "carId": "Hyper_Genesis Magma Racing 2026_17",
-        "path": "lmu/hyper-genesis-magma-racing-2026-17.json"
-      },
-      {
         "carName": "AM Valkyrie Custom Team 2025",
         "carId": "Hyper_AM Valkyrie Custom Team 2025",
         "path": "lmu/hyper-am-valkyrie-custom-team-2025.json"
@@ -2152,6 +2279,16 @@
         "carName": "Hyper_Ferrari AF Corse 2025",
         "carId": "Hyper_Ferrari AF Corse 2025",
         "path": "lmu/hyper-ferrari-af-corse-2025.json"
+      },
+      {
+        "carName": "Hyper_Genesis Custom Team 2026",
+        "carId": "Hyper_Genesis Custom Team 2026_397",
+        "path": "lmu/hyper-genesis-custom-team-2026-397.json"
+      },
+      {
+        "carName": "Genesis Magma Racing 2026",
+        "carId": "Hyper_Genesis Magma Racing 2026_17",
+        "path": "lmu/hyper-genesis-magma-racing-2026-17.json"
       },
       {
         "carName": "Hyper_Glickenhaus Custom Team 2023",
@@ -2399,8 +2536,13 @@
         "path": "lmu/lmp2-elms-nielsen-racing.json"
       },
       {
-        "carName": "United Autosports",
-        "carId": "LMP2_ELMS_United Autosports",
+        "carName": "Oreca 07 Custom Team",
+        "carId": "LMP2_ELMS_Oreca 07 ELMS Custom Team 2025_397",
+        "path": "lmu/lmp2-elms-oreca-07-elms-custom-team-2025-397.json"
+      },
+      {
+        "carName": "Oreca 07 Custom Team",
+        "carId": "LMP2_ELMS_Oreca 07 ELMS Custom Team 2025",
         "path": "lmu/lmp2-elms-oreca-07-elms-custom-team-2025.json"
       },
       {
