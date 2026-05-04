@@ -2281,14 +2281,19 @@
         "path": "lmu/hyper-ferrari-af-corse-2025.json"
       },
       {
-        "carName": "Hyper_Genesis Custom Team 2026",
-        "carId": "Hyper_Genesis Custom Team 2026_397",
-        "path": "lmu/hyper-genesis-custom-team-2026-397.json"
-      },
-      {
         "carName": "Genesis Magma Racing 2026",
         "carId": "Hyper_Genesis Magma Racing 2026_17",
         "path": "lmu/hyper-genesis-magma-racing-2026-17.json"
+      },
+      {
+        "carName": "Genesis Magma Racing 2026",
+        "carId": "Hyper_Genesis Magma Racing 2026_19",
+        "path": "lmu/hyper-genesis-magma-racing-2026-19.json"
+      },
+      {
+        "carName": "Hyper_Genesis Custom Team 2026",
+        "carId": "Hyper_Genesis Custom Team 2026_397",
+        "path": "lmu/hyper-genesis-custom-team-2026-397.json"
       },
       {
         "carName": "Hyper_Glickenhaus Custom Team 2023",
