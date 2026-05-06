@@ -1,6 +1,6 @@
 {
   "carName": "NASCAR Gen 4 Chevrolet Monte Carlo (2003)",
-  "carId": "stockcars chevy monte carlo 03",
+  "carId": "stockcars\\chevymontecarlo03",
   "carClass": "Gen4",
   "ledNumber": 1,
   "redlineBlinkInterval": 0,

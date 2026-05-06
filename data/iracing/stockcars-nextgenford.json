@@ -1,6 +1,6 @@
 {
   "carName": "NASCAR Cup Next Gen Ford Mustang Dark Horse",
-  "carId": "stockcars fordmustang2022",
+  "carId": "stockcars\\fordmustang2022",
   "carClass": "NXG",
   "ledNumber": 9,
   "redlineBlinkInterval": 0,
