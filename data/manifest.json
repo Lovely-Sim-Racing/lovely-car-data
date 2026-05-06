@@ -1467,46 +1467,6 @@
         "path": "iracing/mx5-mx52016.json"
       },
       {
-        "carName": "NASCAR Cup Next Gen Chevrolet Camaro ZL1",
-        "carId": "stockcars chevroletcamaro2022",
-        "path": "iracing/stockcars-nextgenchevrolet.json"
-      },
-      {
-        "carName": "NASCAR Gen 4 Chevrolet Monte Carlo (2003)",
-        "carId": "stockcars chevy monte carlo 03",
-        "path": "iracing/stockcars-gen4-chevymontecarlo03.json"
-      },
-      {
-        "carName": "NASCAR Cup Next Gen Ford Mustang Dark Horse",
-        "carId": "stockcars fordmustang2022",
-        "path": "iracing/stockcars-nextgenford.json"
-      },
-      {
-        "carName": "NASCAR Gen 4 Ford Taurus (2003)",
-        "carId": "stockcars ford taurus 03",
-        "path": "iracing/stockcars-gen4-fordtaurus03.json"
-      },
-      {
-        "carName": "NASCAR O'Reilly Chevrolet Camaro",
-        "carId": "stockcars2 camaro2019",
-        "path": "iracing/stockcars-oreillychevy.json"
-      },
-      {
-        "carName": "NASCAR O'Reilly Ford Mustang",
-        "carId": "stockcars2 mustang2019",
-        "path": "iracing/stockcars-oreillyford.json"
-      },
-      {
-        "carName": "NASCAR O'Reilly Toyota Supra",
-        "carId": "stockcars2 supra2019",
-        "path": "iracing/stockcars-oreillytoyota.json"
-      },
-      {
-        "carName": "NASCAR Cup Next Gen Toyota Camry",
-        "carId": "stockcars toyotacamry2022",
-        "path": "iracing/stockcars-nextgentoyota.json"
-      },
-      {
         "carName": "Porsche 718 GT4",
         "carId": "porsche718gt4",
         "path": "iracing/porsche718gt4.json"
@@ -1565,6 +1525,46 @@
         "carName": "SCCA Spec Racer Ford",
         "carId": "specracer",
         "path": "iracing/specracer.json"
+      },
+      {
+        "carName": "NASCAR Gen 4 Chevrolet Monte Carlo (2003)",
+        "carId": "stockcars\\chevymontecarlo03",
+        "path": "iracing/stockcars-gen4-chevymontecarlo03.json"
+      },
+      {
+        "carName": "NASCAR Gen 4 Ford Taurus (2003)",
+        "carId": "stockcars\\fordtaurus03",
+        "path": "iracing/stockcars-gen4-fordtaurus03.json"
+      },
+      {
+        "carName": "NASCAR Cup Next Gen Chevrolet Camaro ZL1",
+        "carId": "stockcars\\chevroletcamaro2022",
+        "path": "iracing/stockcars-nextgenchevrolet.json"
+      },
+      {
+        "carName": "NASCAR Cup Next Gen Ford Mustang Dark Horse",
+        "carId": "stockcars\\fordmustang2022",
+        "path": "iracing/stockcars-nextgenford.json"
+      },
+      {
+        "carName": "NASCAR Cup Next Gen Toyota Camry",
+        "carId": "stockcars\\toyotacamry2022",
+        "path": "iracing/stockcars-nextgentoyota.json"
+      },
+      {
+        "carName": "NASCAR O'Reilly Chevrolet Camaro",
+        "carId": "stockcars2\\camaro2019",
+        "path": "iracing/stockcars-oreillychevy.json"
+      },
+      {
+        "carName": "NASCAR O'Reilly Ford Mustang",
+        "carId": "stockcars2\\mustang2019",
+        "path": "iracing/stockcars-oreillyford.json"
+      },
+      {
+        "carName": "NASCAR O'Reilly Toyota Supra",
+        "carId": "stockcars2\\supra2019",
+        "path": "iracing/stockcars-oreillytoyota.json"
       },
       {
         "carName": "Chevrolet Camaro Gen3 Supercar",
