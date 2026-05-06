@@ -1,6 +1,6 @@
 {
   "carName": "NASCAR O'Reilly Toyota Supra",
-  "carId": "stockcars2 supra2019",
+  "carId": "stockcars2\\supra2019",
   "carClass": "ORE",
   "ledNumber": 1,
   "redlineBlinkInterval": 0,
