@@ -2026,6 +2026,66 @@
         "path": "lmu/gt3-lexus-custom-team-2025.json"
       },
       {
+        "carName": "McLaren 720S GT3",
+        "carId": "GT3_Logitech G Challenge_1",
+        "path": "lmu/gt3-logitech-g-challenge-1.json"
+      },
+      {
+        "carName": "McLaren 720S GT3",
+        "carId": "GT3_Logitech G Challenge_10",
+        "path": "lmu/gt3-logitech-g-challenge-10.json"
+      },
+      {
+        "carName": "McLaren 720S GT3",
+        "carId": "GT3_Logitech G Challenge_11",
+        "path": "lmu/gt3-logitech-g-challenge-11.json"
+      },
+      {
+        "carName": "McLaren 720S GT3",
+        "carId": "GT3_Logitech G Challenge_12",
+        "path": "lmu/gt3-logitech-g-challenge-12.json"
+      },
+      {
+        "carName": "McLaren 720S GT3",
+        "carId": "GT3_Logitech G Challenge_2",
+        "path": "lmu/gt3-logitech-g-challenge-2.json"
+      },
+      {
+        "carName": "McLaren 720S GT3",
+        "carId": "GT3_Logitech G Challenge_3",
+        "path": "lmu/gt3-logitech-g-challenge-3.json"
+      },
+      {
+        "carName": "McLaren 720S GT3",
+        "carId": "GT3_Logitech G Challenge_4",
+        "path": "lmu/gt3-logitech-g-challenge-4.json"
+      },
+      {
+        "carName": "McLaren 720S GT3",
+        "carId": "GT3_Logitech G Challenge_5",
+        "path": "lmu/gt3-logitech-g-challenge-5.json"
+      },
+      {
+        "carName": "McLaren 720S GT3",
+        "carId": "GT3_Logitech G Challenge_6",
+        "path": "lmu/gt3-logitech-g-challenge-6.json"
+      },
+      {
+        "carName": "McLaren 720S GT3",
+        "carId": "GT3_Logitech G Challenge_7",
+        "path": "lmu/gt3-logitech-g-challenge-7.json"
+      },
+      {
+        "carName": "McLaren 720S GT3",
+        "carId": "GT3_Logitech G Challenge_8",
+        "path": "lmu/gt3-logitech-g-challenge-8.json"
+      },
+      {
+        "carName": "McLaren 720S GT3",
+        "carId": "GT3_Logitech G Challenge_9",
+        "path": "lmu/gt3-logitech-g-challenge-9.json"
+      },
+      {
         "carName": "GT3_Manthey 1st Phorm 2025",
         "carId": "GT3_Manthey 1st Phorm 2025",
         "path": "lmu/gt3-manthey-1st-phorm-2025.json"
@@ -2281,6 +2341,11 @@
         "path": "lmu/hyper-ferrari-af-corse-2025.json"
       },
       {
+        "carName": "Hyper_Genesis Custom Team 2026",
+        "carId": "Hyper_Genesis Custom Team 2026_397",
+        "path": "lmu/hyper-genesis-custom-team-2026-397.json"
+      },
+      {
         "carName": "Genesis Magma Racing 2026",
         "carId": "Hyper_Genesis Magma Racing 2026_17",
         "path": "lmu/hyper-genesis-magma-racing-2026-17.json"
@@ -2289,11 +2354,6 @@
         "carName": "Genesis Magma Racing 2026",
         "carId": "Hyper_Genesis Magma Racing 2026_19",
         "path": "lmu/hyper-genesis-magma-racing-2026-19.json"
-      },
-      {
-        "carName": "Hyper_Genesis Custom Team 2026",
-        "carId": "Hyper_Genesis Custom Team 2026_397",
-        "path": "lmu/hyper-genesis-custom-team-2026-397.json"
       },
       {
         "carName": "Hyper_Glickenhaus Custom Team 2023",
