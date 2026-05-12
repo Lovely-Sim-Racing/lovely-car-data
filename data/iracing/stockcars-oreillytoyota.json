@@ -1,6 +1,6 @@
 {
-  "carName": "NASCAR O'Reilly Ford Mustang",
-  "carId": "nascar-oreilly-ford-mustang",
+  "carName": "NASCAR O'Reilly Toyota Supra",
+  "carId": "stockcars2\\supra2019",
   "carClass": "ORE",
   "ledNumber": 1,
   "redlineBlinkInterval": 0,
