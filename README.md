@@ -101,16 +101,18 @@ Every file is formatted as follows:
 # carId                 (String) - The carId property as it appears in SimHub
 # carClass              (String) - The car's 3-5 letter class shorthand
 # ledNumber             (Int)    - The car's in game number of telemetry LED's
-# redlineBlinkInterval  (Int)    - The Speed at which the redline blinks in ms
+# redlineBlinkInterval  (Int|Array) - The speed at which the redline blinks in ms. If an array, it matches the redline stages.
 # ledColor                         An array of the led color
-  # redline(:Value)     (String) - A color name or HEX value for the red line
+  # redline1(:Value)    (String) - (Optional) Stage 1 color name or HEX value for the red line
+  # redlineN(:Value)    (String) - (Optional) Stage N color name or HEX value for the red line
   # led1color(:Value)   (String) - A color name or HEX value for LED 1
   # led2color(:Value)   (String) - A color name or HEX value for LED 2
   # led3color(:Value)   (String) - A color name or HEX value for LED 3
   # ledNcolor(:Value)   (String) - A color name or HEX value for LED N
 # ledRpm                           An array of all the RPM data per gear
   # gear(:Key)          (String) - The gear number
-    # redline(:Value)   (Int)    - The RPM red line value per gear
+    # redline1(:Value)  (Int)    - (Optional) Stage 1 RPM red line value per gear
+    # redlineN(:Value)  (Int)    - (Optional) Stage N RPM red line value per gear
     # led1rpm(:Value)   (Int)    - The RPM value for LED 1
     # led2rpm(:Value)   (Int)    - The RPM value for LED 2
     # led3rpm(:Value)   (Int)    - The RPM value for LED 3
@@ -149,7 +151,7 @@ pre-commit install
 ### 3. Test & Finish
 You're all set as far as tooling is concerned. Every time you make a commit, the `pre-commit` script will make sure the files are properly formatted and are prettified. 
 
-It's usually a good idea to run the hooks against all of the files when adding new hooks (usually pre-commit will only run on the changed files during git hooks). Running `pre-commit run --all-files` will have a pass at everythig, and if all is well, you should see somthing like the below. 
+It's usually a good idea to run the hooks against all of the files when adding new hooks (usually pre-commit will only run on the changed files during git hooks). Running `pre-commit run --all-files` will have a pass at everything, and if all is well, you should see something like the below. 
 
 ```
 $ pre-commit run --all-files
