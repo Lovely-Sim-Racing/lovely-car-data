@@ -22,8 +22,9 @@ def build_profiles(src_base_dir, out_base_dir):
     
     generated_files = []
     
+    # Process all JSONC files in the source directory
     for filename in os.listdir(src_dir):
-        if not filename.endswith('.json'):
+        if not filename.endswith('.jsonc'):
             continue
             
         filepath = os.path.join(src_dir, filename)

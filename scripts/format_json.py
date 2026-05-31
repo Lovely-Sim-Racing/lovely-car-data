@@ -39,23 +39,23 @@ def format_car_profile(data):
 
 if __name__ == "__main__":
     import sys
-    import os
     import glob
+    import json
     
-    files = []
-    for pattern in sys.argv[1:]:
-        files.extend(glob.glob(pattern))
-        
-    for filepath in files:
-        if not os.path.exists(filepath):
-            continue
+    def load_jsonc_data(filepath):
         with open(filepath, 'r', encoding='utf-8') as f:
+            content = f.read()
+        content = re.sub(r'^\s*//.*$', '', content, flags=re.MULTILINE)
+        return json.loads(content)
+
+    for arg in sys.argv[1:]:
+        for filepath in glob.glob(arg):
             try:
-                data = json.load(f)
+                data = load_jsonc_data(filepath)
             except Exception as e:
                 print(f"Error parsing {filepath}: {e}")
                 continue
                 
-        formatted = format_car_profile(data)
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(formatted)
+            json_str = format_car_profile(data)
+            with open(filepath, 'w', encoding='utf-8') as f:
+                f.write(json_str)

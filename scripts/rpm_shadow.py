@@ -113,7 +113,7 @@ def main():
         mode = "remove"
         
     src_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "src_data", "lmu")
-    files = glob.glob(os.path.join(src_dir, "*.json"))
+    files = glob.glob(os.path.join(src_dir, "*.jsonc"))
     
     modified_count = 0
     for filepath in files:
