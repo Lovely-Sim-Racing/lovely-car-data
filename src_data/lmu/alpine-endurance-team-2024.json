@@ -1,4 +1,11 @@
 {
+  "variants": [
+    {
+      "carName": "Alpine Endurance Team 2024",
+      "carId": "Alpine Endurance Team 2024",
+      "fileName": "alpine-endurance-team-2024.json"
+    }
+  ],
   "carClass": "Manual input needed",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
@@ -147,13 +154,6 @@
         8420,
         8580
       ]
-    }
-  ],
-  "variants": [
-    {
-      "carName": "Alpine Endurance Team 2024",
-      "carId": "Alpine Endurance Team 2024",
-      "fileName": "alpine-endurance-team-2024.json"
     }
   ]
 }

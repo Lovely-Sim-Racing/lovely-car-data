@@ -1,4 +1,16 @@
 {
+  "variants": [
+    {
+      "carName": "Mercedes AMG LMGT3",
+      "carId": "GT3_Iron Lynx 2025",
+      "fileName": "gt3-iron-lynx-2025.json"
+    },
+    {
+      "carName": "Mercedes AMG LMGT3",
+      "carId": "GT3_Mercedes AMG Custom Team 2025",
+      "fileName": "gt3-mercedes-amg-custom-team-2025.json"
+    }
+  ],
   "carClass": "GT3",
   "ledNumber": 12,
   "redlineBlinkInterval": 0,
@@ -139,18 +151,6 @@
         6000,
         5668
       ]
-    }
-  ],
-  "variants": [
-    {
-      "carName": "Mercedes AMG LMGT3",
-      "carId": "GT3_Iron Lynx 2025",
-      "fileName": "gt3-iron-lynx-2025.json"
-    },
-    {
-      "carName": "Mercedes AMG LMGT3",
-      "carId": "GT3_Mercedes AMG Custom Team 2025",
-      "fileName": "gt3-mercedes-amg-custom-team-2025.json"
     }
   ]
 }

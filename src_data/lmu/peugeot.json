@@ -1,4 +1,26 @@
 {
+  "variants": [
+    {
+      "carName": "Peugeot Sport 2024",
+      "carId": "Peugeot Sport 2024",
+      "fileName": "peugeot-sport-2024.json"
+    },
+    {
+      "carName": "Peugeot Sport",
+      "carId": "Peugeot Sport",
+      "fileName": "peugeot-sport.json"
+    },
+    {
+      "carName": "Peugeot TotalEnergies 2024",
+      "carId": "Peugeot TotalEnergies 2024",
+      "fileName": "peugeot-totalenergies-2024.json"
+    },
+    {
+      "carName": "Peugeot TotalEnergies",
+      "carId": "Peugeot TotalEnergies",
+      "fileName": "peugeot-totalenergies.json"
+    }
+  ],
   "carClass": "Manual input needed",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
@@ -147,28 +169,6 @@
         8400,
         8400
       ]
-    }
-  ],
-  "variants": [
-    {
-      "carName": "Peugeot Sport 2024",
-      "carId": "Peugeot Sport 2024",
-      "fileName": "peugeot-sport-2024.json"
-    },
-    {
-      "carName": "Peugeot Sport",
-      "carId": "Peugeot Sport",
-      "fileName": "peugeot-sport.json"
-    },
-    {
-      "carName": "Peugeot TotalEnergies 2024",
-      "carId": "Peugeot TotalEnergies 2024",
-      "fileName": "peugeot-totalenergies-2024.json"
-    },
-    {
-      "carName": "Peugeot TotalEnergies",
-      "carId": "Peugeot TotalEnergies",
-      "fileName": "peugeot-totalenergies.json"
     }
   ]
 }

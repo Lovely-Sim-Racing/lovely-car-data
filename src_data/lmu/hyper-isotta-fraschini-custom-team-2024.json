@@ -1,4 +1,11 @@
 {
+  "variants": [
+    {
+      "carName": "Hyper_Isotta Fraschini Custom Team 2024",
+      "carId": "Hyper_Isotta Fraschini Custom Team 2024",
+      "fileName": "hyper-isotta-fraschini-custom-team-2024.json"
+    }
+  ],
   "carClass": "HYP",
   "ledNumber": 15,
   "redlineBlinkInterval": 0,
@@ -202,13 +209,6 @@
         7910,
         8043
       ]
-    }
-  ],
-  "variants": [
-    {
-      "carName": "Hyper_Isotta Fraschini Custom Team 2024",
-      "carId": "Hyper_Isotta Fraschini Custom Team 2024",
-      "fileName": "hyper-isotta-fraschini-custom-team-2024.json"
     }
   ]
 }

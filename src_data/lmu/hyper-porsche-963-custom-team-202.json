@@ -1,4 +1,16 @@
 {
+  "variants": [
+    {
+      "carName": "Hyper_Porsche 963 Custom Team 2023",
+      "carId": "Hyper_Porsche 963 Custom Team 2023",
+      "fileName": "hyper-porsche-963-custom-team-2023.json"
+    },
+    {
+      "carName": "Hyper_Porsche 963 Custom Team 2024",
+      "carId": "Hyper_Porsche 963 Custom Team 2024",
+      "fileName": "hyper-porsche-963-custom-team-2024.json"
+    }
+  ],
   "carClass": "HYP",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
@@ -147,18 +159,6 @@
         6940,
         6680
       ]
-    }
-  ],
-  "variants": [
-    {
-      "carName": "Hyper_Porsche 963 Custom Team 2023",
-      "carId": "Hyper_Porsche 963 Custom Team 2023",
-      "fileName": "hyper-porsche-963-custom-team-2023.json"
-    },
-    {
-      "carName": "Hyper_Porsche 963 Custom Team 2024",
-      "carId": "Hyper_Porsche 963 Custom Team 2024",
-      "fileName": "hyper-porsche-963-custom-team-2024.json"
     }
   ]
 }

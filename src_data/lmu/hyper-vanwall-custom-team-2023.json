@@ -1,4 +1,11 @@
 {
+  "variants": [
+    {
+      "carName": "Hyper_Vanwall Custom Team 2023",
+      "carId": "Hyper_Vanwall Custom Team 2023",
+      "fileName": "hyper-vanwall-custom-team-2023.json"
+    }
+  ],
   "carClass": "HYP",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
@@ -147,13 +154,6 @@
         8620,
         8765
       ]
-    }
-  ],
-  "variants": [
-    {
-      "carName": "Hyper_Vanwall Custom Team 2023",
-      "carId": "Hyper_Vanwall Custom Team 2023",
-      "fileName": "hyper-vanwall-custom-team-2023.json"
     }
   ]
 }

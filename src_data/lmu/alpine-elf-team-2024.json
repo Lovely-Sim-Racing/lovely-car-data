@@ -1,4 +1,36 @@
 {
+  "variants": [
+    {
+      "carName": "Alpine Elf Team 2024",
+      "carId": "Alpine Elf Team 2024",
+      "fileName": "alpine-elf-team-2024.json"
+    },
+    {
+      "carName": "Graff Racing 2024",
+      "carId": "Graff Racing 2024",
+      "fileName": "graff-racing-2024.json"
+    },
+    {
+      "carName": "JOTA 2024",
+      "carId": "JOTA 2024",
+      "fileName": "jota-2024.json"
+    },
+    {
+      "carName": "Racing Team Turkey 2024",
+      "carId": "Racing Team Turkey 2024",
+      "fileName": "racing-team-turkey-2024.json"
+    },
+    {
+      "carName": "Racing Team Turkey",
+      "carId": "Racing Team Turkey",
+      "fileName": "racing-team-turkey.json"
+    },
+    {
+      "carName": "Tower Motorsports 2024",
+      "carId": "Tower Motorsports 2024",
+      "fileName": "tower-motorsports-2024.json"
+    }
+  ],
   "carClass": "Manual input needed",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
@@ -121,38 +153,6 @@
         8150,
         8285
       ]
-    }
-  ],
-  "variants": [
-    {
-      "carName": "Alpine Elf Team 2024",
-      "carId": "Alpine Elf Team 2024",
-      "fileName": "alpine-elf-team-2024.json"
-    },
-    {
-      "carName": "Graff Racing 2024",
-      "carId": "Graff Racing 2024",
-      "fileName": "graff-racing-2024.json"
-    },
-    {
-      "carName": "JOTA 2024",
-      "carId": "JOTA 2024",
-      "fileName": "jota-2024.json"
-    },
-    {
-      "carName": "Racing Team Turkey 2024",
-      "carId": "Racing Team Turkey 2024",
-      "fileName": "racing-team-turkey-2024.json"
-    },
-    {
-      "carName": "Racing Team Turkey",
-      "carId": "Racing Team Turkey",
-      "fileName": "racing-team-turkey.json"
-    },
-    {
-      "carName": "Tower Motorsports 2024",
-      "carId": "Tower Motorsports 2024",
-      "fileName": "tower-motorsports-2024.json"
     }
   ]
 }

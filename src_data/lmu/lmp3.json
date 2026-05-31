@@ -1,4 +1,56 @@
 {
+  "variants": [
+    {
+      "carName": "LMP3 Team Virage",
+      "carId": "LMP3_Team Virage",
+      "fileName": "lmp3-clx-motorsport.json"
+    },
+    {
+      "carName": "LMP3 Team Virage",
+      "carId": "LMP3_Team Virage",
+      "fileName": "lmp3-eurointernational.json"
+    },
+    {
+      "carName": "LMP3 Team Virage",
+      "carId": "LMP3_Team Virage",
+      "fileName": "lmp3-inter-europol-competition.json"
+    },
+    {
+      "carName": "LMP3 Team Virage",
+      "carId": "LMP3_Team Virage",
+      "fileName": "lmp3-ligier-js-p325-custom-team-2025.json"
+    },
+    {
+      "carName": "LMP3 Team Virage",
+      "carId": "LMP3_Team Virage",
+      "fileName": "lmp3-m-racing.json"
+    },
+    {
+      "carName": "LMP3 Team Virage",
+      "carId": "LMP3_Team Virage",
+      "fileName": "lmp3-racing-spirit-of-leman.json"
+    },
+    {
+      "carName": "LMP3 Team Virage",
+      "carId": "LMP3_Team Virage",
+      "fileName": "lmp3-rlr-msport.json"
+    },
+    {
+      "carName": "LMP3 Team Virage",
+      "carId": "LMP3_Team Virage",
+      "fileName": "lmp3-team-virage.json"
+    },
+    {
+      "carName": "LMP3 Team Virage",
+      "carId": "LMP3_Team Virage",
+      "fileName": "lmp3-ultimate.json"
+    },
+    {
+      "carName": "WTM by Rinaldi Racing",
+      "carId": "LMP3_WTM by Rinaldi Racing 2025_12",
+      "fileName": "lmp3-wtm-by-rinaldi-racing-2025-12.json"
+    }
+  ],
   "carClass": "LMP3",
   "ledNumber": 10,
   "redlineBlinkInterval": 100,
@@ -121,58 +173,6 @@
         6060,
         6060
       ]
-    }
-  ],
-  "variants": [
-    {
-      "carName": "LMP3 Team Virage",
-      "carId": "LMP3_Team Virage",
-      "fileName": "lmp3-clx-motorsport.json"
-    },
-    {
-      "carName": "LMP3 Team Virage",
-      "carId": "LMP3_Team Virage",
-      "fileName": "lmp3-eurointernational.json"
-    },
-    {
-      "carName": "LMP3 Team Virage",
-      "carId": "LMP3_Team Virage",
-      "fileName": "lmp3-inter-europol-competition.json"
-    },
-    {
-      "carName": "LMP3 Team Virage",
-      "carId": "LMP3_Team Virage",
-      "fileName": "lmp3-ligier-js-p325-custom-team-2025.json"
-    },
-    {
-      "carName": "LMP3 Team Virage",
-      "carId": "LMP3_Team Virage",
-      "fileName": "lmp3-m-racing.json"
-    },
-    {
-      "carName": "LMP3 Team Virage",
-      "carId": "LMP3_Team Virage",
-      "fileName": "lmp3-racing-spirit-of-leman.json"
-    },
-    {
-      "carName": "LMP3 Team Virage",
-      "carId": "LMP3_Team Virage",
-      "fileName": "lmp3-rlr-msport.json"
-    },
-    {
-      "carName": "LMP3 Team Virage",
-      "carId": "LMP3_Team Virage",
-      "fileName": "lmp3-team-virage.json"
-    },
-    {
-      "carName": "LMP3 Team Virage",
-      "carId": "LMP3_Team Virage",
-      "fileName": "lmp3-ultimate.json"
-    },
-    {
-      "carName": "WTM by Rinaldi Racing",
-      "carId": "LMP3_WTM by Rinaldi Racing 2025_12",
-      "fileName": "lmp3-wtm-by-rinaldi-racing-2025-12.json"
     }
   ]
 }

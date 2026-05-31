@@ -1,4 +1,11 @@
 {
+  "variants": [
+    {
+      "carName": "Oreca 07 Custom Team",
+      "carId": "LMP2_ELMS_Oreca 07 ELMS Custom Team 2025_397",
+      "fileName": "lmp2-elms-oreca-07-elms-custom-team-2025-397.json"
+    }
+  ],
   "carClass": "LMP2_ELMS",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
@@ -121,13 +128,6 @@
         8390,
         8585
       ]
-    }
-  ],
-  "variants": [
-    {
-      "carName": "Oreca 07 Custom Team",
-      "carId": "LMP2_ELMS_Oreca 07 ELMS Custom Team 2025_397",
-      "fileName": "lmp2-elms-oreca-07-elms-custom-team-2025-397.json"
     }
   ]
 }

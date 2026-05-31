@@ -1,4 +1,21 @@
 {
+  "variants": [
+    {
+      "carName": "Hyper_BMW M Team WRT 2025",
+      "carId": "Hyper_BMW M Team WRT 2025",
+      "fileName": "hyper-bmw-m-team-wrt-2025.json"
+    },
+    {
+      "carName": "Hyper_BMWMH Custom Team 2025",
+      "carId": "Hyper_BMWMH Custom Team 2025_397",
+      "fileName": "hyper-bmwmh-custom-team-2025-397.json"
+    },
+    {
+      "carName": "Hyper_BMWMH Custom Team 2025",
+      "carId": "Hyper_BMWMH Custom Team 2025",
+      "fileName": "hyper-bmwmh-custom-team-2025.json"
+    }
+  ],
   "carClass": "HYP",
   "ledNumber": 15,
   "redlineBlinkInterval": 0,
@@ -202,23 +219,6 @@
         6600,
         6600
       ]
-    }
-  ],
-  "variants": [
-    {
-      "carName": "Hyper_BMW M Team WRT 2025",
-      "carId": "Hyper_BMW M Team WRT 2025",
-      "fileName": "hyper-bmw-m-team-wrt-2025.json"
-    },
-    {
-      "carName": "Hyper_BMWMH Custom Team 2025",
-      "carId": "Hyper_BMWMH Custom Team 2025_397",
-      "fileName": "hyper-bmwmh-custom-team-2025-397.json"
-    },
-    {
-      "carName": "Hyper_BMWMH Custom Team 2025",
-      "carId": "Hyper_BMWMH Custom Team 2025",
-      "fileName": "hyper-bmwmh-custom-team-2025.json"
     }
   ]
 }

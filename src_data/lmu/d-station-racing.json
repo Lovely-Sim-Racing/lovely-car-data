@@ -1,4 +1,46 @@
 {
+  "variants": [
+    {
+      "carName": "D'station Racing",
+      "carId": "D'station Racing",
+      "fileName": "d-station-racing.json"
+    },
+    {
+      "carName": "GMB Motorsport",
+      "carId": "GMB Motorsport",
+      "fileName": "gmb-motorsport.json"
+    },
+    {
+      "carName": "GTE_AMV Custom Team 2023",
+      "carId": "GTE_AMV Custom Team 2023",
+      "fileName": "gte-amv-custom-team-2023.json"
+    },
+    {
+      "carName": "GTE_Northwest AMR",
+      "carId": "GTE_Northwest AMR",
+      "fileName": "gte-northwest-amr.json"
+    },
+    {
+      "carName": "Northwest AMR",
+      "carId": "Northwest AMR",
+      "fileName": "northwest-amr.json"
+    },
+    {
+      "carName": "ORT by TF",
+      "carId": "ORT by TF",
+      "fileName": "ort-by-tf.json"
+    },
+    {
+      "carName": "TF Sport",
+      "carId": "TF Sport",
+      "fileName": "tf-sport.json"
+    },
+    {
+      "carName": "The Heart of Racing",
+      "carId": "The Heart of Racing",
+      "fileName": "the-heart-of-racing.json"
+    }
+  ],
   "carClass": "Manual input needed",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
@@ -125,48 +167,6 @@
         6355,
         6690
       ]
-    }
-  ],
-  "variants": [
-    {
-      "carName": "D'station Racing",
-      "carId": "D'station Racing",
-      "fileName": "d-station-racing.json"
-    },
-    {
-      "carName": "GMB Motorsport",
-      "carId": "GMB Motorsport",
-      "fileName": "gmb-motorsport.json"
-    },
-    {
-      "carName": "GTE_AMV Custom Team 2023",
-      "carId": "GTE_AMV Custom Team 2023",
-      "fileName": "gte-amv-custom-team-2023.json"
-    },
-    {
-      "carName": "GTE_Northwest AMR",
-      "carId": "GTE_Northwest AMR",
-      "fileName": "gte-northwest-amr.json"
-    },
-    {
-      "carName": "Northwest AMR",
-      "carId": "Northwest AMR",
-      "fileName": "northwest-amr.json"
-    },
-    {
-      "carName": "ORT by TF",
-      "carId": "ORT by TF",
-      "fileName": "ort-by-tf.json"
-    },
-    {
-      "carName": "TF Sport",
-      "carId": "TF Sport",
-      "fileName": "tf-sport.json"
-    },
-    {
-      "carName": "The Heart of Racing",
-      "carId": "The Heart of Racing",
-      "fileName": "the-heart-of-racing.json"
     }
   ]
 }

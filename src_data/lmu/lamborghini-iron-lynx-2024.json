@@ -1,4 +1,11 @@
 {
+  "variants": [
+    {
+      "carName": "Lamborghini Iron Lynx 2024",
+      "carId": "Lamborghini Iron Lynx 2024",
+      "fileName": "lamborghini-iron-lynx-2024.json"
+    }
+  ],
   "carClass": "Manual input needed",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
@@ -134,13 +141,6 @@
         7920,
         7920
       ]
-    }
-  ],
-  "variants": [
-    {
-      "carName": "Lamborghini Iron Lynx 2024",
-      "carId": "Lamborghini Iron Lynx 2024",
-      "fileName": "lamborghini-iron-lynx-2024.json"
     }
   ]
 }

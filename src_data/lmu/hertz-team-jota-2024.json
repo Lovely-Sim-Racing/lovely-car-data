@@ -1,4 +1,36 @@
 {
+  "variants": [
+    {
+      "carName": "Hertz Team Jota 2024",
+      "carId": "Hertz Team Jota 2024",
+      "fileName": "hertz-team-jota-2024.json"
+    },
+    {
+      "carName": "Hertz Team Jota",
+      "carId": "Hertz Team Jota",
+      "fileName": "hertz-team-jota.json"
+    },
+    {
+      "carName": "Porsche Penske Motorsport 2024",
+      "carId": "Porsche Penske Motorsport 2024",
+      "fileName": "porsche-penske-motorsport-2024.json"
+    },
+    {
+      "carName": "Porsche Penske Motorsport",
+      "carId": "Porsche Penske Motorsport",
+      "fileName": "porsche-penske-motorsport.json"
+    },
+    {
+      "carName": "Proton Competition 2024",
+      "carId": "Proton Competition 2024",
+      "fileName": "proton-competition-2024.json"
+    },
+    {
+      "carName": "Proton Competition",
+      "carId": "Proton Competition",
+      "fileName": "proton-competition.json"
+    }
+  ],
   "carClass": "Manual input needed",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
@@ -147,38 +179,6 @@
         6940,
         6680
       ]
-    }
-  ],
-  "variants": [
-    {
-      "carName": "Hertz Team Jota 2024",
-      "carId": "Hertz Team Jota 2024",
-      "fileName": "hertz-team-jota-2024.json"
-    },
-    {
-      "carName": "Hertz Team Jota",
-      "carId": "Hertz Team Jota",
-      "fileName": "hertz-team-jota.json"
-    },
-    {
-      "carName": "Porsche Penske Motorsport 2024",
-      "carId": "Porsche Penske Motorsport 2024",
-      "fileName": "porsche-penske-motorsport-2024.json"
-    },
-    {
-      "carName": "Porsche Penske Motorsport",
-      "carId": "Porsche Penske Motorsport",
-      "fileName": "porsche-penske-motorsport.json"
-    },
-    {
-      "carName": "Proton Competition 2024",
-      "carId": "Proton Competition 2024",
-      "fileName": "proton-competition-2024.json"
-    },
-    {
-      "carName": "Proton Competition",
-      "carId": "Proton Competition",
-      "fileName": "proton-competition.json"
     }
   ]
 }
