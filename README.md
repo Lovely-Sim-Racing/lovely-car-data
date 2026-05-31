@@ -93,19 +93,13 @@ See [scripts/MANIFEST_GENERATOR.md](scripts/MANIFEST_GENERATOR.md) for details o
 ## Changelog
 Read the [changelog](changelog.md) to keep track of the format updates.
 
-## File Format
-Every file is formatted as follows:
+## Output Data Format
+Every compiled JSON file in the `data/` directory (which consumers interact with) is formatted as follows:
 
 ``` 
-# variants                         (Optional) An array of car variants (overrides base template)
-  # carName             (String) - The full human readable car name
-  # carId               (String) - The carId property as it appears in SimHub
-  # fileName            (String) - The target generated filename
-  # carClass            (String) - The car's 3-5 letter class shorthand
-  # ...                            Any other property to override for this variant
-# carName               (String) - The full human readable car name (if not using variants)
-# carId                 (String) - The carId property as it appears in SimHub (if not using variants)
-# carClass              (String) - The car's 3-5 letter class shorthand (if not using variants)
+# carName               (String) - The full human readable car name
+# carId                 (String) - The carId property as it appears in SimHub
+# carClass              (String) - The car's 3-5 letter class shorthand
 # ledNumber             (Int)    - The car's in game number of telemetry LED's
 # redlineBlinkInterval  (Int|Array) - The speed at which the redline blinks in ms. If an array, it matches the redline stages.
 # ledColor                         An array of the led color
@@ -133,9 +127,19 @@ Every file is formatted as follows:
 ## Templating and Scripts
 
 To reduce duplication, some games (like `lmu`) use a templating system. 
-Source data is maintained in `src_data/{simId}/` as `.jsonc` files. These files allow:
-1. **Comments**: using standard `//` JSONC syntax.
-2. **Variants**: A `variants` array can generate multiple `.json` profiles from a single template, allowing cars with identical RPM curves but different IDs (or colors) to share a single source of truth.
+Source data is maintained in `src_data/{simId}/` as `.jsonc` files. 
+
+### Source Template Format
+The `src_data` files use the same schema as above, but with the addition of a `variants` array and support for comments. 
+
+``` 
+# variants                         (Optional) An array of car variants. Each object will be compiled into its own file, inheriting and overriding properties from this base template.
+  # carName             (String) - The full human readable car name
+  # carId               (String) - The carId property as it appears in SimHub
+  # fileName            (String) - The target generated filename
+  # carClass            (String) - The car's 3-5 letter class shorthand
+  # ...                            Any other property to override for this variant
+```
 
 **Important:** Do not edit the generated files in `data/lmu/` directly. Always edit the `src_data/lmu/` templates.
 
