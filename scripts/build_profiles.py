@@ -49,13 +49,12 @@ def build_profiles(src_base_dir, out_base_dir):
                 
             out_filepath = os.path.join(out_dir, out_filename)
             
-            # The repo's pre-commit script uses pretty-format-json --no-sort-keys 
-            # which formats with indent=2, expands all arrays, and uses ensure_ascii=True.
-            # We use indent=2 and add a trailing newline to match it exactly.
-            json_str = json.dumps(final_data, indent=2)
+            # Use the custom formatter to keep ledColor and ledRpm inline
+            import format_json
+            json_str = format_json.format_car_profile(final_data)
             
             with open(out_filepath, 'w', encoding='utf-8') as f:
-                f.write(json_str + "\n")
+                f.write(json_str)
                 
             generated_files.append(out_filepath)
             

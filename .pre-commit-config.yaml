@@ -9,3 +9,4 @@ repos:
     args: ['--autofix', '--no-sort-keys']
     types: [file]  # override `types: [json]`
     files: \.(json)$
+    exclude: ^(data|src_data)/
