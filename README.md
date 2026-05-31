@@ -113,10 +113,10 @@ Every file is formatted as follows:
   # gear(:Key)          (String) - The gear number
     # redline1(:Value)  (Int)    - (Optional) Stage 1 RPM red line value per gear
     # redlineN(:Value)  (Int)    - (Optional) Stage N RPM red line value per gear
-    # led1rpm(:Value)   (Int)    - The RPM value for LED 1
-    # led2rpm(:Value)   (Int)    - The RPM value for LED 2
-    # led3rpm(:Value)   (Int)    - The RPM value for LED 3
-    # ledNrpm(:Value)   (Int)    - The RPM value for LED N
+    # led1rpm(:Value)   (Int|Str)- The RPM value (or value range) for LED 1
+    # led2rpm(:Value)   (Int|Str)- The RPM value (or value range) for LED 2
+    # led3rpm(:Value)   (Int|Str)- The RPM value (or value range) for LED 3
+    # ledNrpm(:Value)   (Int|Str)- The RPM value (or value range) for LED N
 # carSettings                      (Optional) An array of all the available Car Settings
   # property(:Simhub)   (String) - The SimHub Property Name
     # min               (Int)    - Lowest possible setting
