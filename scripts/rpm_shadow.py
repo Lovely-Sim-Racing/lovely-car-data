@@ -60,7 +60,7 @@ def process_file(filepath, mode):
                         shadow.append(str(val))
                     else:
                         pct = val / baseline
-                        shadow.append(f"{pct:.2f}")
+                        shadow.append(f"{pct:.4f}")
                 
                 new_gear_obj[comment_key] = shadow
                 modified = True
