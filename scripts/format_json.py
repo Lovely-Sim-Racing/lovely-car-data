@@ -13,15 +13,15 @@ def format_car_profile(data):
     
     json_str = re.sub(r'("ledColor":\s*)\[([^\]]*)\]', lambda m: compress_led_color(m), json_str)
     
-    # Compress ledRpm gear arrays
+    # Compress ledRpm gear arrays and shadow tables
     def compress_rpm(match):
-        prefix = match.group(1)
-        inner = match.group(2)
-        # Match both integers, negative integers, strings, and floats
-        values = re.findall(r'"[^"]*"|-?\d+', inner)
+        prefix = match.group(2)
+        inner = match.group(3)
+        # Match both integers, negative integers, strings, floats, and formatted string floats like "1.00"
+        values = re.findall(r'"[^"]*"|-?\d+\.?\d*', inner)
         return prefix + '[' + ','.join(values) + ']'
         
-    json_str = re.sub(r'("[R|N|1|2|3|4|5|6|7|8]":\s*)\[([^\]]*)\]', lambda m: compress_rpm(m), json_str)
+    json_str = re.sub(r'(^|\n)(\s*"(?://)?[R|N|1|2|3|4|5|6|7|8]":\s*)\[([^\]]*)\]', lambda m: m.group(1) + compress_rpm(m), json_str)
     
     return json_str + "\n"
 

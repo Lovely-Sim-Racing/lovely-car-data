@@ -39,6 +39,13 @@ def build_profiles(src_base_dir, out_base_dir):
                 if k != "fileName":
                     final_data[k] = v
                 
+            # Strip mock comment keys from ledRpm
+            if "ledRpm" in final_data:
+                for gear_obj in final_data["ledRpm"]:
+                    keys_to_remove = [k for k in gear_obj.keys() if k.startswith("//")]
+                    for k in keys_to_remove:
+                        del gear_obj[k]
+                
             out_filename = variant.get("fileName")
             if not out_filename:
                 continue
