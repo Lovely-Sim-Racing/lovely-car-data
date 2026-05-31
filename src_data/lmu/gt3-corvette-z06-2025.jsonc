@@ -1,24 +1,4 @@
 {
-  "variants": [
-    {
-      "carName": "GT3_AWA Racing 2025",
-      "carId": "GT3_AWA Racing 2025",
-      "fileName": "gt3-awa-racing-2025.json",
-      "carClass": "GT3"
-    },
-    {
-      "carName": "GT3_TF Sport 2025",
-      "carId": "GT3_TF Sport 2025",
-      "fileName": "gt3-tf-sport-2025.json",
-      "carClass": "GT3"
-    },
-    {
-      "carName": "GT3_Z06GT3R Custom Team 2025",
-      "carId": "GT3_Z06GT3R Custom Team 2025",
-      "fileName": "gt3-z06gt3r-custom-team-2025.json",
-      "carClass": "GT3"
-    }
-  ],
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF0000FF","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00"],
@@ -44,6 +24,26 @@
       // "6": ["1.0000","1.0279","0.8802","0.8952","0.9102","0.9253","0.9400","0.9549","0.9698","0.9851"],
       // "7": ["1.0000","1.0279","0.8802","0.8952","0.9102","0.9253","0.9400","0.9549","0.9698","0.9851"],
       // "8": ["1.0000","1.0279","0.8802","0.8952","0.9102","0.9253","0.9400","0.9549","0.9698","0.9851"]
+    }
+  ],
+  "variants": [
+    {
+      "carName": "GT3_AWA Racing 2025",
+      "carId": "GT3_AWA Racing 2025",
+      "fileName": "gt3-awa-racing-2025.json",
+      "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_TF Sport 2025",
+      "carId": "GT3_TF Sport 2025",
+      "fileName": "gt3-tf-sport-2025.json",
+      "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_Z06GT3R Custom Team 2025",
+      "carId": "GT3_Z06GT3R Custom Team 2025",
+      "fileName": "gt3-z06gt3r-custom-team-2025.json",
+      "carClass": "GT3"
     }
   ]
 }

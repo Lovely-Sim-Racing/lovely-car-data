@@ -1,30 +1,4 @@
 {
-  "variants": [
-    {
-      "carName": "GT3_Akkodis ASP Team 2024",
-      "carId": "GT3_Akkodis ASP Team 2024",
-      "fileName": "gt3-akkodis-asp-team-2024.json",
-      "carClass": "GT3"
-    },
-    {
-      "carName": "GT3_Akkodis ASP Team 2025",
-      "carId": "GT3_Akkodis ASP Team 2025",
-      "fileName": "gt3-akkodis-asp-team-2025.json",
-      "carClass": "GT3"
-    },
-    {
-      "carName": "GT3_Lexus Custom Team 2024",
-      "carId": "GT3_Lexus Custom Team 2024",
-      "fileName": "gt3-lexus-custom-team-2024.json",
-      "carClass": "GT3"
-    },
-    {
-      "carName": "GT3_Lexus Custom Team 2025",
-      "carId": "GT3_Lexus Custom Team 2025",
-      "fileName": "gt3-lexus-custom-team-2025.json",
-      "carClass": "GT3"
-    }
-  ],
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FF00FF00","#FFFF0000","#FFFF0000","#FFFF0000","#FF0000FF","#FF0000FF"],
@@ -50,6 +24,32 @@
       // "6": ["1.0000","0.9056","0.9191","0.9326","0.9461","0.9596","0.9730","0.9865","1.0000"],
       // "7": ["1.0000","0.9056","0.9191","0.9326","0.9461","0.9596","0.9730","0.9865","1.0000"],
       // "8": ["1.0000","0.9056","0.9191","0.9326","0.9461","0.9596","0.9730","0.9865","1.0000"]
+    }
+  ],
+  "variants": [
+    {
+      "carName": "GT3_Akkodis ASP Team 2024",
+      "carId": "GT3_Akkodis ASP Team 2024",
+      "fileName": "gt3-akkodis-asp-team-2024.json",
+      "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_Akkodis ASP Team 2025",
+      "carId": "GT3_Akkodis ASP Team 2025",
+      "fileName": "gt3-akkodis-asp-team-2025.json",
+      "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_Lexus Custom Team 2024",
+      "carId": "GT3_Lexus Custom Team 2024",
+      "fileName": "gt3-lexus-custom-team-2024.json",
+      "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_Lexus Custom Team 2025",
+      "carId": "GT3_Lexus Custom Team 2025",
+      "fileName": "gt3-lexus-custom-team-2025.json",
+      "carClass": "GT3"
     }
   ]
 }

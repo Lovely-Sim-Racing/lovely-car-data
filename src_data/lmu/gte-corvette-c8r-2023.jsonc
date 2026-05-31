@@ -1,18 +1,4 @@
 {
-  "variants": [
-    {
-      "carName": "Corvette Racing",
-      "carId": "Corvette Racing",
-      "fileName": "corvette-racing.json",
-      "carClass": "Manual input needed"
-    },
-    {
-      "carName": "GTE_C8RGTE Custom Team 2023",
-      "carId": "GTE_C8RGTE Custom Team 2023",
-      "fileName": "gte-c8rgte-custom-team-2023.json",
-      "carClass": "Manual input needed"
-    }
-  ],
   "ledNumber": 12,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#00000000","#FFFF0000","#FFFF0000"],
@@ -38,6 +24,20 @@
       // "6": ["1.0000","0.8376","0.8537","0.0000","0.8700","0.8861","0.9030","0.9184","0.9353","0.9515","0.0000","0.9677","0.9845"],
       // "7": ["1.0000","0.8376","0.8537","0.0000","0.8700","0.8861","0.9030","0.9184","0.9353","0.9515","0.0000","0.9677","0.9845"],
       // "8": ["1.0000","0.8376","0.8537","0.0000","0.8700","0.8861","0.9030","0.9184","0.9353","0.9515","0.0000","0.9677","0.9845"]
+    }
+  ],
+  "variants": [
+    {
+      "carName": "Corvette Racing",
+      "carId": "Corvette Racing",
+      "fileName": "corvette-racing.json",
+      "carClass": "Manual input needed"
+    },
+    {
+      "carName": "GTE_C8RGTE Custom Team 2023",
+      "carId": "GTE_C8RGTE Custom Team 2023",
+      "fileName": "gte-c8rgte-custom-team-2023.json",
+      "carClass": "Manual input needed"
     }
   ]
 }

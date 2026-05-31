@@ -1,18 +1,4 @@
 {
-  "variants": [
-    {
-      "carName": "Hyper_SC63 Custom Team 2024",
-      "carId": "Hyper_SC63 Custom Team 2024",
-      "fileName": "hyper-sc63-custom-team-2024.json",
-      "carClass": "HYP"
-    },
-    {
-      "carName": "Lamborghini Iron Lynx 2024",
-      "carId": "Lamborghini Iron Lynx 2024",
-      "fileName": "lamborghini-iron-lynx-2024.json",
-      "carClass": "Manual input needed"
-    }
-  ],
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000"],
@@ -36,6 +22,20 @@
       // "5": ["1.0000","0.7735","0.8050","0.8372","0.8707","0.9028","0.9338","0.9685","0.9994","0.9994","0.9994"],
       // "6": ["1.0000","0.7735","0.8050","0.8372","0.8707","0.9028","0.9338","0.9685","0.9994","0.9994","0.9994"],
       // "7": ["1.0000","0.7735","0.8050","0.8372","0.8707","0.9028","0.9338","0.9685","0.9994","0.9994","0.9994"]
+    }
+  ],
+  "variants": [
+    {
+      "carName": "Hyper_SC63 Custom Team 2024",
+      "carId": "Hyper_SC63 Custom Team 2024",
+      "fileName": "hyper-sc63-custom-team-2024.json",
+      "carClass": "HYP"
+    },
+    {
+      "carName": "Lamborghini Iron Lynx 2024",
+      "carId": "Lamborghini Iron Lynx 2024",
+      "fileName": "lamborghini-iron-lynx-2024.json",
+      "carClass": "Manual input needed"
     }
   ]
 }

@@ -1,18 +1,4 @@
 {
-  "variants": [
-    {
-      "carName": "Glickenhaus Racing",
-      "carId": "Glickenhaus Racing",
-      "fileName": "glickenhaus-racing.json",
-      "carClass": "Manual input needed"
-    },
-    {
-      "carName": "Hyper_Glickenhaus Custom Team 2023",
-      "carId": "Hyper_Glickenhaus Custom Team 2023",
-      "fileName": "hyper-glickenhaus-custom-team-2023.json",
-      "carClass": "HYP"
-    }
-  ],
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF0000FF","#FF0000FF","#FFFF0000","#FFFF0000","#FF0000FF","#FF0000FF","#FF00FF00","#FF00FF00"],
@@ -38,6 +24,20 @@
       // "6": ["1.0000","0.8652","0.8908","0.9163","0.9433","0.9716","0.9716","0.9433","0.9163","0.8908","0.8652"],
       // "7": ["1.0000","0.8652","0.8908","0.9163","0.9433","0.9716","0.9716","0.9433","0.9163","0.8908","0.8652"],
       // "8": ["1.0000","0.8652","0.8908","0.9163","0.9433","0.9716","0.9716","0.9433","0.9163","0.8908","0.8652"]
+    }
+  ],
+  "variants": [
+    {
+      "carName": "Glickenhaus Racing",
+      "carId": "Glickenhaus Racing",
+      "fileName": "glickenhaus-racing.json",
+      "carClass": "Manual input needed"
+    },
+    {
+      "carName": "Hyper_Glickenhaus Custom Team 2023",
+      "carId": "Hyper_Glickenhaus Custom Team 2023",
+      "fileName": "hyper-glickenhaus-custom-team-2023.json",
+      "carClass": "HYP"
     }
   ]
 }

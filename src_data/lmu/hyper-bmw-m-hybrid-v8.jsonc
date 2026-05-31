@@ -1,18 +1,4 @@
 {
-  "variants": [
-    {
-      "carName": "BMW M Team WRT 2024",
-      "carId": "BMW M Team WRT 2024",
-      "fileName": "bmw-m-team-wrt-2024.json",
-      "carClass": "Manual input needed"
-    },
-    {
-      "carName": "Hyper_BMWMH Custom Team 2024",
-      "carId": "Hyper_BMWMH Custom Team 2024",
-      "fileName": "hyper-bmwmh-custom-team-2024.json",
-      "carClass": "HYP"
-    }
-  ],
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],
@@ -38,6 +24,20 @@
       // "6": ["1.0000","0.8238","0.8587","0.8940","0.9300","0.9651","0.9651","0.9300","0.8940","0.8587","0.8238"],
       // "7": ["1.0000","0.8238","0.8587","0.8940","0.9300","0.9651","0.9651","0.9300","0.8940","0.8587","0.8238"],
       // "8": ["1.0000","0.8238","0.8587","0.8940","0.9300","0.9651","0.9651","0.9300","0.8940","0.8587","0.8238"]
+    }
+  ],
+  "variants": [
+    {
+      "carName": "BMW M Team WRT 2024",
+      "carId": "BMW M Team WRT 2024",
+      "fileName": "bmw-m-team-wrt-2024.json",
+      "carClass": "Manual input needed"
+    },
+    {
+      "carName": "Hyper_BMWMH Custom Team 2024",
+      "carId": "Hyper_BMWMH Custom Team 2024",
+      "fileName": "hyper-bmwmh-custom-team-2024.json",
+      "carClass": "HYP"
     }
   ]
 }

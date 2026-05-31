@@ -1,18 +1,4 @@
 {
-  "variants": [
-    {
-      "carName": "Hyper_Isotta Fraschini Custom Team 2024",
-      "carId": "Hyper_Isotta Fraschini Custom Team 2024",
-      "fileName": "hyper-isotta-fraschini-custom-team-2024.json",
-      "carClass": "HYP"
-    },
-    {
-      "carName": "Isotta TIPO6 2024",
-      "carId": "Isotta TIPO6 2024",
-      "fileName": "isotta-tipo6-2024.json",
-      "carClass": "Manual input needed"
-    }
-  ],
   "ledNumber": 15,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FFFF0000","#FFFF0000","#FFFF0000"],
@@ -38,6 +24,20 @@
       // "6": ["1.0000","0.7609","0.7789","0.7945","0.8125","0.8299","0.8461","0.8622","0.8803","0.8983","0.9145","0.9319","0.9493","0.9661","0.9835","1.0000"],
       // "7": ["1.0000","0.7609","0.7789","0.7945","0.8125","0.8299","0.8461","0.8622","0.8803","0.8983","0.9145","0.9319","0.9493","0.9661","0.9835","1.0000"],
       // "8": ["1.0000","0.7609","0.7789","0.7945","0.8125","0.8299","0.8461","0.8622","0.8803","0.8983","0.9145","0.9319","0.9493","0.9661","0.9835","1.0000"]
+    }
+  ],
+  "variants": [
+    {
+      "carName": "Hyper_Isotta Fraschini Custom Team 2024",
+      "carId": "Hyper_Isotta Fraschini Custom Team 2024",
+      "fileName": "hyper-isotta-fraschini-custom-team-2024.json",
+      "carClass": "HYP"
+    },
+    {
+      "carName": "Isotta TIPO6 2024",
+      "carId": "Isotta TIPO6 2024",
+      "fileName": "isotta-tipo6-2024.json",
+      "carClass": "Manual input needed"
     }
   ]
 }
