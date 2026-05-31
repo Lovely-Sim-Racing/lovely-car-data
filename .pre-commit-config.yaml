@@ -11,3 +11,12 @@ repos:
     types: [file]  # override `types: [json]`
     files: \.(json)$
     exclude: ^(data|src_data)[/\\]
+
+- repo: local
+  hooks:
+  - id: generate-manifest
+    name: Generate Manifest
+    entry: python scripts/generate_manifest.py
+    language: system
+    files: ^(data|src_data)[/\\]
+    pass_filenames: false
