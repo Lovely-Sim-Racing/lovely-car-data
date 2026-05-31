@@ -3,10 +3,10 @@
     {
       "carName": "Isotta TIPO6 2024",
       "carId": "Isotta TIPO6 2024",
-      "fileName": "isotta-tipo6-2024.json"
+      "fileName": "isotta-tipo6-2024.json",
+      "carClass": "Manual input needed"
     }
   ],
-  "carClass": "Manual input needed",
   "ledNumber": 15,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FFFF0000","#FFFF0000","#FFFF0000"],

@@ -29,19 +29,15 @@ def build_profiles(src_base_dir, out_base_dir):
         variants = template_data.pop('variants', [])
         
         for variant in variants:
-            # Create a copy of the template data
-            profile_data = template_data.copy()
-            
-            # Inject variant specific fields
             final_data = {}
-            if "carName" in variant:
-                final_data["carName"] = variant["carName"]
-            if "carId" in variant:
-                final_data["carId"] = variant["carId"]
-                
-            # Copy all other fields from template
-            for k, v in profile_data.items():
+            # Copy all fields from template first
+            for k, v in template_data.items():
                 final_data[k] = v
+                
+            # Inject variant specific fields (overriding template)
+            for k, v in variant.items():
+                if k != "fileName":
+                    final_data[k] = v
                 
             out_filename = variant.get("fileName")
             if not out_filename:

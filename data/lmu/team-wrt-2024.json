@@ -1,7 +1,4 @@
 {
-  "carName": "Team WRT 2024",
-  "carId": "Team WRT 2024",
-  "carClass": "GT3",
   "ledNumber": 12,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF0080FF","#FF0080FF","#FF0080FF","#00000000","#FF0080FF","#FF0080FF"],
@@ -18,5 +15,8 @@
       "7": [7025,6575,6575,0,6575,6575,6575,6725,6725,6725,0,6725,6725],
       "8": [7025,6575,6575,0,6575,6575,6575,6725,6725,6725,0,6725,6725]
     }
-  ]
+  ],
+  "carName": "Team WRT 2024",
+  "carId": "Team WRT 2024",
+  "carClass": "GT3"
 }

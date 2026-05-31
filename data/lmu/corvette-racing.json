@@ -1,7 +1,4 @@
 {
-  "carName": "Corvette Racing",
-  "carId": "Corvette Racing",
-  "carClass": "Manual input needed",
   "ledNumber": 12,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#00000000","#FFFF0000","#FFFF0000"],
@@ -18,5 +15,8 @@
       "7": [7110,5955,6070,0,6186,6300,6420,6530,6650,6765,0,6880,7000],
       "8": [7110,5955,6070,0,6186,6300,6420,6530,6650,6765,0,6880,7000]
     }
-  ]
+  ],
+  "carName": "Corvette Racing",
+  "carId": "Corvette Racing",
+  "carClass": "Manual input needed"
 }

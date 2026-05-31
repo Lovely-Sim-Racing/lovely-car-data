@@ -1,7 +1,4 @@
 {
-  "carName": "GT3_Z06GT3R Custom Team 2025",
-  "carId": "GT3_Z06GT3R Custom Team 2025",
-  "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF0000FF","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00"],
@@ -18,5 +15,8 @@
       "7": [7520,7730,6619,6732,6845,6958,7069,7181,7293,7408],
       "8": [7520,7730,6619,6732,6845,6958,7069,7181,7293,7408]
     }
-  ]
+  ],
+  "carName": "GT3_Z06GT3R Custom Team 2025",
+  "carId": "GT3_Z06GT3R Custom Team 2025",
+  "carClass": "GT3"
 }
