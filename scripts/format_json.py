@@ -13,15 +13,27 @@ def format_car_profile(data):
     
     json_str = re.sub(r'("ledColor":\s*)\[([^\]]*)\]', lambda m: compress_led_color(m), json_str)
     
-    # Compress ledRpm gear arrays and shadow tables
+    # Compress ledRpm gear arrays and convert shadow tables to true comments
     def compress_rpm(match):
-        prefix = match.group(2)
-        inner = match.group(3)
-        # Match both integers, negative integers, strings, floats, and formatted string floats like "1.00"
-        values = re.findall(r'"[^"]*"|-?\d+\.?\d*', inner)
-        return prefix + '[' + ','.join(values) + ']'
+        newline = match.group(1)
+        spaces = match.group(2)
+        is_comment = match.group(3)
+        key_name = match.group(4)
+        inner = match.group(5)
         
-    json_str = re.sub(r'(^|\n)(\s*"(?://)?[R|N|1|2|3|4|5|6|7|8]":\s*)\[([^\]]*)\]', lambda m: m.group(1) + compress_rpm(m), json_str)
+        values = re.findall(r'"[^"]*"|-?\d+\.?\d*', inner)
+        compressed = '[' + ','.join(values) + ']'
+        
+        if is_comment:
+            # Convert to a true JSONC comment
+            return f'{newline}{spaces}// "{key_name}": {compressed}'
+        else:
+            return f'{newline}{spaces}"{key_name}": {compressed}'
+        
+    json_str = re.sub(r'(^|\n)(\s*)"(__COMMENT_)?([R|N|1|2|3|4|5|6|7|8])":\s*\[([^\]]*)\]', lambda m: compress_rpm(m), json_str)
+    
+    # Strip any illegal trailing commas caused by converting properties to comments at the end of objects
+    json_str = re.sub(r',(\s*(?://[^\n]*\s*)*\})', r'\1', json_str)
     
     return json_str + "\n"
 

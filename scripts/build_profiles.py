@@ -1,5 +1,13 @@
 import os
 import json
+import re
+
+def load_jsonc(filepath):
+    with open(filepath, 'r', encoding='utf-8') as f:
+        content = f.read()
+    # Strip true comments (//) before parsing
+    content = re.sub(r'^\s*//.*$', '', content, flags=re.MULTILINE)
+    return json.loads(content)
 
 def build_profiles(src_base_dir, out_base_dir):
     # For now, we only process lmu, but can be expanded
@@ -19,12 +27,11 @@ def build_profiles(src_base_dir, out_base_dir):
             continue
             
         filepath = os.path.join(src_dir, filename)
-        with open(filepath, 'r', encoding='utf-8') as f:
-            try:
-                template_data = json.load(f)
-            except Exception as e:
-                print(f"Error parsing {filename}: {e}")
-                continue
+        try:
+            template_data = load_jsonc(filepath)
+        except Exception as e:
+            print(f"Error parsing {filename}: {e}")
+            continue
                 
         variants = template_data.pop('variants', [])
         

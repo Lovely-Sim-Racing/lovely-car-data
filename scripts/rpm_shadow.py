@@ -2,50 +2,69 @@ import os
 import json
 import glob
 import argparse
+import re
+
+def load_jsonc(filepath):
+    with open(filepath, 'r', encoding='utf-8') as f:
+        content = f.read()
+    # Strip true comments (//) before parsing
+    content = re.sub(r'^\s*//.*$', '', content, flags=re.MULTILINE)
+    return json.loads(content), content
+
+def get_minimum_precision(arr, max_decimals=6):
+    baseline = float(arr[0])
+    if baseline == 0:
+        return 4 # fallback
+        
+    for decimals in range(2, max_decimals + 1):
+        success = True
+        for val in arr:
+            if not isinstance(val, (int, float)):
+                continue
+            pct = round(val / baseline, decimals)
+            reconstructed = round(pct * baseline)
+            if reconstructed != val:
+                success = False
+                break
+        if success:
+            return decimals
+            
+    return max_decimals
 
 def process_file(filepath, mode):
-    with open(filepath, 'r', encoding='utf-8') as f:
-        try:
-            data = json.load(f)
-        except Exception as e:
-            print(f"Error reading {filepath}: {e}")
-            return False
+    try:
+        data, original_content = load_jsonc(filepath)
+    except Exception as e:
+        print(f"Error reading {filepath}: {e}")
+        return False
 
     modified = False
     led_rpms = data.get("ledRpm", [])
     
     for gear_obj in led_rpms:
-        keys_to_remove = [k for k in gear_obj.keys() if k.startswith("//")]
+        # Strip any existing mock comment keys
+        keys_to_remove = [k for k in gear_obj.keys() if k.startswith("__COMMENT_") or k.startswith("//")]
         keys = list(gear_obj.keys())
-        
-        # Determine base gear keys (not comments)
-        base_keys = [k for k in keys if not k.startswith("//")]
+        base_keys = [k for k in keys if not k.startswith("__COMMENT_") and not k.startswith("//")]
         
         if mode == "remove":
+            # Just relying on load_jsonc stripping the true comments is enough,
+            # but we also clear __COMMENT_ keys if they existed in the loaded data.
             for k in keys_to_remove:
                 del gear_obj[k]
                 modified = True
+            if "//" in original_content:
+                modified = True
         
         elif mode in ["add", "refresh"]:
-            # If refresh, we remove them first to recalculate and reposition
-            if mode == "refresh":
-                for k in keys_to_remove:
-                    del gear_obj[k]
-                    
-            # We want to insert the comment keys collectively at the bottom
+            for k in keys_to_remove:
+                del gear_obj[k]
+                
             new_gear_obj = {}
-            # First, add all the base keys
             for k in base_keys:
                 new_gear_obj[k] = gear_obj[k]
                 
-            # Then, append the shadow keys below them
             for k in base_keys:
-                comment_key = f"//{k}"
-                if mode == "add" and comment_key in gear_obj:
-                    new_gear_obj[comment_key] = gear_obj[comment_key]
-                    continue
-                    
-                # Calculate shadow
                 arr = gear_obj[k]
                 if not arr or not isinstance(arr[0], (int, float)):
                     continue
@@ -53,6 +72,9 @@ def process_file(filepath, mode):
                 baseline = float(arr[0])
                 if baseline == 0:
                     continue
+                    
+                precision = get_minimum_precision(arr)
+                fmt_str = f"{{:.{precision}f}}"
                 
                 shadow = []
                 for val in arr:
@@ -60,12 +82,12 @@ def process_file(filepath, mode):
                         shadow.append(str(val))
                     else:
                         pct = val / baseline
-                        shadow.append(f"{pct:.4f}")
+                        shadow.append(fmt_str.format(pct))
                 
+                comment_key = f"__COMMENT_{k}"
                 new_gear_obj[comment_key] = shadow
                 modified = True
                 
-            # Replace the gear object with the new ordered one
             gear_obj.clear()
             gear_obj.update(new_gear_obj)
 
