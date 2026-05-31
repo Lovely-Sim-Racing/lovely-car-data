@@ -3,11 +3,11 @@ repos:
   rev: v4.3.0
   hooks:
   - id: check-json
-    exclude: ^src_data/
+    exclude: ^(data|src_data)[/\\]
     types: [file]  # override `types: [json]`
     files: \.(json)$
   - id: pretty-format-json
     args: ['--autofix', '--no-sort-keys']
     types: [file]  # override `types: [json]`
     files: \.(json)$
-    exclude: ^(data|src_data)/
+    exclude: ^(data|src_data)[/\\]
