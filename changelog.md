@@ -10,6 +10,10 @@
 
 #### v2.0.0
 1. New File Format
+2. Added `variants` array support for generating multiple profiles from a single template
+3. Introduced `.jsonc` support for comments and templating
+4. Added `scripts/rpm_shadow.py` tool for validating relative RPM percentages
+5. Added `scripts/build_profiles.py` compiler for expanding variants
 
 #### v1.2.0
 1. Added `carId`

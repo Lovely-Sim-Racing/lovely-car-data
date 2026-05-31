@@ -97,9 +97,15 @@ Read the [changelog](changelog.md) to keep track of the format updates.
 Every file is formatted as follows:
 
 ``` 
-# carName               (String) - The full human readable car name
-# carId                 (String) - The carId property as it appears in SimHub
-# carClass              (String) - The car's 3-5 letter class shorthand
+# variants                         (Optional) An array of car variants (overrides base template)
+  # carName             (String) - The full human readable car name
+  # carId               (String) - The carId property as it appears in SimHub
+  # fileName            (String) - The target generated filename
+  # carClass            (String) - The car's 3-5 letter class shorthand
+  # ...                            Any other property to override for this variant
+# carName               (String) - The full human readable car name (if not using variants)
+# carId                 (String) - The carId property as it appears in SimHub (if not using variants)
+# carClass              (String) - The car's 3-5 letter class shorthand (if not using variants)
 # ledNumber             (Int)    - The car's in game number of telemetry LED's
 # redlineBlinkInterval  (Int|Array) - The speed at which the redline blinks in ms. If an array, it matches the redline stages.
 # ledColor                         An array of the led color
@@ -123,6 +129,24 @@ Every file is formatted as follows:
     # max               (Int)    - Highest possible setting
 
 ```
+
+## Templating and Scripts
+
+To reduce duplication, some games (like `lmu`) use a templating system. 
+Source data is maintained in `src_data/{simId}/` as `.jsonc` files. These files allow:
+1. **Comments**: using standard `//` JSONC syntax.
+2. **Variants**: A `variants` array can generate multiple `.json` profiles from a single template, allowing cars with identical RPM curves but different IDs (or colors) to share a single source of truth.
+
+**Important:** Do not edit the generated files in `data/lmu/` directly. Always edit the `src_data/lmu/` templates.
+
+### Build Scripts
+
+- **`python scripts/build_profiles.py`**: Compiles all `.jsonc` templates in `src_data/` into standard `.json` files in `data/`, expanding variants and stripping comments.
+- **`python scripts/rpm_shadow.py`**: A helper tool to calculate and append relative RPM percentage shadow tables as comments to the source `.jsonc` files. This helps in verifying RPM scaling.
+  - `--add`: Add shadow tables where missing.
+  - `--refresh`: Recalculate all shadow tables.
+  - `--remove`: Remove all shadow tables.
+  - `--log LABEL`: Snapshot current RPM data into log files (in `src_data/lmu/log/`) with a timestamp and the provided label, keeping a historical record of BOP/RPM changes.
 
 ## Color Names
 To preserve consistency among LED profiles, you can use any of the offical **HTML Color Names** as listed in the [W3 Schools HTML Color Names](https://www.w3schools.com/tags/ref_colornames.asp) list or add you custom **HEX RGB** color code.
