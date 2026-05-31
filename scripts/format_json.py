@@ -3,7 +3,7 @@ import re
 
 def format_car_profile(data):
     # First dump with standard indent=2
-    json_str = json.dumps(data, indent=2)
+    json_str = json.dumps(data, indent=2, ensure_ascii=False)
     
     # Compress ledColor array
     def compress_led_color(match):
