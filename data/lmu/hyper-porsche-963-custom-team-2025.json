@@ -1,4 +1,7 @@
 {
+  "carName": "Hyper_Porsche 963 Custom Team 2025",
+  "carId": "Hyper_Porsche 963 Custom Team 2025",
+  "carClass": "HYP",
   "ledNumber": 10,
   "redlineBlinkInterval": 100,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],
@@ -14,8 +17,5 @@
       "6": [7700,6675,6960,7150,7335,7520,7520,7335,7150,6960,6675],
       "7": [7700,6675,6960,7150,7335,7520,7520,7335,7150,6960,6675]
     }
-  ],
-  "carName": "Hyper_Porsche 963 Custom Team 2025",
-  "carId": "Hyper_Porsche 963 Custom Team 2025",
-  "carClass": "HYP"
+  ]
 }

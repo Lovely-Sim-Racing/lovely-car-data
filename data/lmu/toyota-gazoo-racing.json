@@ -1,4 +1,7 @@
 {
+  "carName": "Toyota Gazoo Racing",
+  "carId": "Toyota Gazoo Racing",
+  "carClass": "GT3",
   "ledNumber": 15,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF000000","#FF000000","#FF000000","#FF000000","#FF000000","#FF000000","#FF000000","#FFFF0000","#FFFF0000","#FFFF0000","#FF0080FF","#FF0080FF","#FF0080FF","#FF0080FF","#FF0080FF"],
@@ -15,8 +18,5 @@
       "7": [8150,6750,6850,6950,7050,7150,7250,7350,7450,7550,7650,7850,7850,7850,7850,7850],
       "8": [8150,6750,6850,6950,7050,7150,7250,7350,7450,7550,7650,7850,7850,7850,7850,7850]
     }
-  ],
-  "carName": "Toyota Gazoo Racing",
-  "carId": "Toyota Gazoo Racing",
-  "carClass": "GT3"
+  ]
 }

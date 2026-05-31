@@ -1,4 +1,7 @@
 {
+  "carName": "Hyper_499P Custom Team 2023",
+  "carId": "Hyper_499P Custom Team 2023",
+  "carClass": "HYP",
   "ledNumber": 12,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000"],
@@ -14,8 +17,5 @@
       "6": [7600,6055,6170,6285,6400,6515,6630,6745,6860,6975,7090,7200,7315],
       "7": [7600,6055,6170,6285,6400,6515,6630,6745,6860,6975,7090,7200,7315]
     }
-  ],
-  "carName": "Hyper_499P Custom Team 2023",
-  "carId": "Hyper_499P Custom Team 2023",
-  "carClass": "HYP"
+  ]
 }

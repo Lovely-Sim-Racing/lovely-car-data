@@ -1,4 +1,7 @@
 {
+  "carName": "BMW M Team WRT 2024",
+  "carId": "BMW M Team WRT 2024",
+  "carClass": "Manual input needed",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],
@@ -15,8 +18,5 @@
       "7": [7785,6413,6685,6960,7240,7513,7513,7240,6960,6685,6413],
       "8": [7785,6413,6685,6960,7240,7513,7513,7240,6960,6685,6413]
     }
-  ],
-  "carName": "BMW M Team WRT 2024",
-  "carId": "BMW M Team WRT 2024",
-  "carClass": "Manual input needed"
+  ]
 }

@@ -1,4 +1,7 @@
 {
+  "carName": "Hyper_Peugeot TotalEnergies 2025",
+  "carId": "Hyper_Peugeot TotalEnergies 2025",
+  "carClass": "HYP",
   "ledNumber": 10,
   "redlineBlinkInterval": 100,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF"],
@@ -15,8 +18,5 @@
       "7": [8150,7320,7375,7525,7675,7825,7825,7975,7975,7975,7975],
       "8": [8150,7320,7375,7525,7675,7825,7825,7975,7975,7975,7975]
     }
-  ],
-  "carName": "Hyper_Peugeot TotalEnergies 2025",
-  "carId": "Hyper_Peugeot TotalEnergies 2025",
-  "carClass": "HYP"
+  ]
 }

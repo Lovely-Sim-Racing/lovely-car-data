@@ -1,4 +1,7 @@
 {
+  "carName": "GT3_TF Sport",
+  "carId": "GT3_TF Sport",
+  "carClass": "GT3",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00"],
@@ -15,8 +18,5 @@
       "7": [7810,6690,6815,6940,7065,7190,7310,7437,7565],
       "8": [7810,6690,6815,6940,7065,7190,7310,7437,7565]
     }
-  ],
-  "carName": "GT3_TF Sport",
-  "carId": "GT3_TF Sport",
-  "carClass": "GT3"
+  ]
 }

@@ -2,8 +2,18 @@ import json
 import re
 
 def format_car_profile(data):
+    # Enforce original key order
+    original_key_order = ["carName", "carId", "carClass", "ledNumber", "redlineBlinkInterval", "ledColor", "ledRpm"]
+    ordered_data = {}
+    for k in original_key_order:
+        if k in data:
+            ordered_data[k] = data[k]
+    for k in data:
+        if k not in ordered_data:
+            ordered_data[k] = data[k]
+
     # First dump with standard indent=2
-    json_str = json.dumps(data, indent=2, ensure_ascii=False)
+    json_str = json.dumps(ordered_data, indent=2, ensure_ascii=False)
     
     # Compress ledColor array
     def compress_led_color(match):

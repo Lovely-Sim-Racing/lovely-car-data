@@ -1,4 +1,7 @@
 {
+  "carName": "DKR Engineering_4",
+  "carId": "LMP3_DKR Engineering_4",
+  "carClass": "LMP3",
   "ledNumber": 10,
   "redlineBlinkInterval": 100,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FF0080FF","#FF0080FF","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],
@@ -13,8 +16,5 @@
       "5": [6545,6060,6060,6180,6300,6420,6420,6300,6180,6060,6060],
       "6": [6545,6060,6060,6180,6300,6420,6420,6300,6180,6060,6060]
     }
-  ],
-  "carName": "DKR Engineering_4",
-  "carId": "LMP3_DKR Engineering_4",
-  "carClass": "LMP3"
+  ]
 }

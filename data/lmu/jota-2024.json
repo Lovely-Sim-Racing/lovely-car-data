@@ -1,4 +1,7 @@
 {
+  "carName": "JOTA 2024",
+  "carId": "JOTA 2024",
+  "carClass": "Manual input needed",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FF0000FF","#FF0000FF"],
@@ -13,8 +16,5 @@
       "5": [7925,6675,6800,6925,7050,7175,7300,7425,7550,7675,7800],
       "6": [8420,7092,7225,7360,7495,7625,7755,7890,8020,8150,8285]
     }
-  ],
-  "carName": "JOTA 2024",
-  "carId": "JOTA 2024",
-  "carClass": "Manual input needed"
+  ]
 }
