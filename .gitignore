@@ -7,3 +7,6 @@ __pycache__/
 
 # pytest
 .pytest_cache/
+
+# Scratch files and downgrade tests
+scratch/

@@ -1,0 +1,14 @@
+[project]
+name = "lovely-car-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "format-json>=0.1.2",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+]

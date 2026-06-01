@@ -5,9 +5,18 @@ def format_car_profile(data):
     # Enforce original key order
     original_key_order = ["carName", "carId", "carClass", "ledNumber", "redlineBlinkInterval", "ledColor", "ledRpm"]
     ordered_data = {}
+    
+    # Extract redline aliases
+    redline_keys = sorted([k for k in data if re.match(r'^redline\d+$', k)])
+    
     for k in original_key_order:
+        if k == "ledColor":
+            # Insert redline aliases just before ledColor
+            for rk in redline_keys:
+                ordered_data[rk] = data[rk]
         if k in data:
             ordered_data[k] = data[k]
+            
     for k in data:
         if k not in ordered_data:
             ordered_data[k] = data[k]
@@ -15,13 +24,21 @@ def format_car_profile(data):
     # First dump with standard indent=2
     json_str = json.dumps(ordered_data, indent=2, ensure_ascii=False)
     
-    # Compress ledColor array
+    # Compress redlineBlinkInterval array
+    def compress_blink_interval(match):
+        prefix = match.group(1)
+        values = re.findall(r'-?\d+', match.group(2))
+        return prefix + '[' + ','.join(values) + ']'
+        
+    json_str = re.sub(r'("redlineBlinkInterval":\s*)\[([^\]]*)\]', lambda m: compress_blink_interval(m), json_str)
+
+    # Compress ledColor and redline aliases arrays
     def compress_led_color(match):
         prefix = match.group(1)
         values = re.findall(r'"[^"]*"', match.group(2))
         return prefix + '[' + ','.join(values) + ']'
     
-    json_str = re.sub(r'("ledColor":\s*)\[([^\]]*)\]', lambda m: compress_led_color(m), json_str)
+    json_str = re.sub(r'("(?:ledColor|redline\d+)":\s*)\[([^\]]*)\]', lambda m: compress_led_color(m), json_str)
     
     # Compress ledRpm gear arrays and convert shadow tables to true comments
     def compress_rpm(match):
