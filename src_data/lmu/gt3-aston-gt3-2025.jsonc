@@ -62,6 +62,18 @@
       "carId": "GT3_Racing Spirit of Léman 2025",
       "fileName": "gt3-racing-spirit-of-leman-2025.json",
       "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_Heart of Racing Team 2026",
+      "carId": "GT3_Heart of Racing Team 2026_23",
+      "fileName": "gt3-heart-of-racing-team-2026-23.json",
+      "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_Heart of Racing Team 2026",
+      "carId": "GT3_Heart of Racing Team 2026_27",
+      "fileName": "gt3-heart-of-racing-team-2026-27.json",
+      "carClass": "GT3"
     }
   ]
 }

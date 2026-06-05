@@ -50,6 +50,18 @@
       "carId": "GT3_Proton Racing 2024",
       "fileName": "gt3-proton-racing-2024.json",
       "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_Proton Competition 2026",
+      "carId": "GT3_Proton Competition 2026_77",
+      "fileName": "gt3-proton-competition-2026-77.json",
+      "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_Proton Competition 2026",
+      "carId": "GT3_Proton Competition 2026_88",
+      "fileName": "gt3-proton-competition-2026-88.json",
+      "carClass": "GT3"
     }
   ]
 }

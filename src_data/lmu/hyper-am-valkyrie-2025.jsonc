@@ -38,6 +38,18 @@
       "carId": "Hyper_Aston Martin THOR Team 2025",
       "fileName": "hyper-aston-martin-thor-team-2025.json",
       "carClass": "HYP"
+    },
+    {
+      "carName": "Hyper_Aston Martin THOR Team 2026",
+      "carId": "Hyper_Aston Martin THOR Team 2026_007",
+      "fileName": "hyper-aston-martin-thor-team-2026-007.json",
+      "carClass": "HYP"
+    },
+    {
+      "carName": "Hyper_Aston Martin THOR Team 2026",
+      "carId": "Hyper_Aston Martin THOR Team 2026_009",
+      "fileName": "hyper-aston-martin-thor-team-2026-009.json",
+      "carClass": "HYP"
     }
   ]
 }

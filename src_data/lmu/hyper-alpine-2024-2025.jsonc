@@ -86,6 +86,18 @@
       "fileName": "alpine-endurance-team-2024.json",
       "carClass": "HYP",
       "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF"]
+    },
+    {
+      "carName": "Hyper_Alpine Endurance Team 2026",
+      "carId": "Hyper_Alpine Endurance Team 2026_35",
+      "fileName": "hyper-alpine-endurance-team-2026-35.json",
+      "carClass": "HYP"
+    },
+    {
+      "carName": "Hyper_Alpine Endurance Team 2026",
+      "carId": "Hyper_Alpine Endurance Team 2026_36",
+      "fileName": "hyper-alpine-endurance-team-2026-36.json",
+      "carClass": "HYP"
     }
   ]
 }

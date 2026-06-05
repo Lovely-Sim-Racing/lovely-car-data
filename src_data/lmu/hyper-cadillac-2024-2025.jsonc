@@ -84,6 +84,18 @@
       "carId": "Whelen Cadillac Racing 2024",
       "fileName": "whelen-cadillac-racing-2024.json",
       "carClass": "Manual input needed"
+    },
+    {
+      "carName": "Hyper_Cadillac Hertz Team Jota 2026",
+      "carId": "Hyper_Cadillac Hertz Team Jota 2026_12",
+      "fileName": "hyper-cadillac-hertz-team-jota-2026-12.json",
+      "carClass": "HYP"
+    },
+    {
+      "carName": "Hyper_Cadillac Hertz Team Jota 2026",
+      "carId": "Hyper_Cadillac Hertz Team Jota 2026_38",
+      "fileName": "hyper-cadillac-hertz-team-jota-2026-38.json",
+      "carClass": "HYP"
     }
   ]
 }

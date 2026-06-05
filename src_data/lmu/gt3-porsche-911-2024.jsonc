@@ -74,6 +74,18 @@
       "carId": "GT3_Proton Competition 2025_60",
       "fileName": "gt3-proton-competition-2025-60.json",
       "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_Manthey DK Engineering 2026",
+      "carId": "GT3_Manthey DK Engineering 2026_91",
+      "fileName": "gt3-manthey-dk-engineering-2026-91.json",
+      "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_The Bend Manthey 2026",
+      "carId": "GT3_The Bend Manthey 2026_92",
+      "fileName": "gt3-the-bend-manthey-2026-92.json",
+      "carClass": "GT3"
     }
   ]
 }

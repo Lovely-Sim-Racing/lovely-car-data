@@ -56,6 +56,18 @@
       "carId": "Team WRT 2024",
       "fileName": "team-wrt-2024.json",
       "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_Team WRT 2026",
+      "carId": "GT3_Team WRT 2026_32",
+      "fileName": "gt3-team-wrt-2026-32.json",
+      "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_Team WRT 2026",
+      "carId": "GT3_Team WRT 2026_69",
+      "fileName": "gt3-team-wrt-2026-69.json",
+      "carClass": "GT3"
     }
   ]
 }

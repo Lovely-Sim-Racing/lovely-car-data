@@ -42,6 +42,24 @@
       "carId": "Hyper_Genesis Magma Racing 2026_19",
       "fileName": "hyper-genesis-magma-racing-2026-19.json",
       "carClass": "HYP"
+    },
+    {
+      "carName": "Hyper_Genesis Custom Team 2026",
+      "carId": "Hyper_Genesis Custom Team 2026_397",
+      "fileName": "hyper-genesis-custom-team-2026-397.json",
+      "carClass": "HYP"
+    },
+    {
+      "carName": "Hyper_Genesis Magma Racing 2026",
+      "carId": "Hyper_Genesis Magma Racing 2026_17",
+      "fileName": "hyper-genesis-magma-racing-2026-17.json",
+      "carClass": "HYP"
+    },
+    {
+      "carName": "Hyper_Genesis Magma Racing 2026",
+      "carId": "Hyper_Genesis Magma Racing 2026_19",
+      "fileName": "hyper-genesis-magma-racing-2026-19.json",
+      "carClass": "HYP"
     }
   ]
 }

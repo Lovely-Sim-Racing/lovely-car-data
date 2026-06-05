@@ -62,6 +62,18 @@
       "carId": "Toyota Gazoo Racing",
       "fileName": "toyota-gazoo-racing.json",
       "carClass": "GT3"
+    },
+    {
+      "carName": "Hyper_Toyota Racing 2026",
+      "carId": "Hyper_Toyota Racing 2026_7",
+      "fileName": "hyper-toyota-racing-2026-7.json",
+      "carClass": "HYP"
+    },
+    {
+      "carName": "Hyper_Toyota Racing 2026",
+      "carId": "Hyper_Toyota Racing 2026_8",
+      "fileName": "hyper-toyota-racing-2026-8.json",
+      "carClass": "HYP"
     }
   ]
 }

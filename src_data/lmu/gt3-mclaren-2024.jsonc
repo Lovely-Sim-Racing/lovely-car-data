@@ -128,6 +128,18 @@
       "carId": "Inception Racing 2024",
       "fileName": "inception-racing-2024.json",
       "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_Garage 59 2026",
+      "carId": "GT3_Garage 59 2026_10",
+      "fileName": "gt3-garage-59-2026-10.json",
+      "carClass": "GT3"
+    },
+    {
+      "carName": "GT3_Garage 59 2026",
+      "carId": "GT3_Garage 59 2026_58",
+      "fileName": "gt3-garage-59-2026-58.json",
+      "carClass": "GT3"
     }
   ]
 }

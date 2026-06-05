@@ -72,6 +72,24 @@
       "carId": "Hyper_Ferrari AF Corse 2025",
       "fileName": "hyper-ferrari-af-corse-2025.json",
       "carClass": "HYP"
+    },
+    {
+      "carName": "Hyper_AF Corse 2026",
+      "carId": "Hyper_AF Corse 2026_83",
+      "fileName": "hyper-af-corse-2026-83.json",
+      "carClass": "HYP"
+    },
+    {
+      "carName": "Hyper_Ferrari AF Corse 2026",
+      "carId": "Hyper_Ferrari AF Corse 2026_50",
+      "fileName": "hyper-ferrari-af-corse-2026-50.json",
+      "carClass": "HYP"
+    },
+    {
+      "carName": "Hyper_Ferrari AF Corse 2026",
+      "carId": "Hyper_Ferrari AF Corse 2026_51",
+      "fileName": "hyper-ferrari-af-corse-2026-51.json",
+      "carClass": "HYP"
     }
   ]
 }

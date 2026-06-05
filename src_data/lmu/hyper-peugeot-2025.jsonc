@@ -38,6 +38,18 @@
       "carId": "Hyper_Peugeot TotalEnergies 2025",
       "fileName": "hyper-peugeot-totalenergies-2025.json",
       "carClass": "HYP"
+    },
+    {
+      "carName": "Hyper_Peugeot TotalEnergies 2026",
+      "carId": "Hyper_Peugeot TotalEnergies 2026_93",
+      "fileName": "hyper-peugeot-totalenergies-2026-93.json",
+      "carClass": "HYP"
+    },
+    {
+      "carName": "Hyper_Peugeot TotalEnergies 2026",
+      "carId": "Hyper_Peugeot TotalEnergies 2026_94",
+      "fileName": "hyper-peugeot-totalenergies-2026-94.json",
+      "carClass": "HYP"
     }
   ]
 }
