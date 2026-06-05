@@ -1936,6 +1936,16 @@
         "path": "lmu/gt3-akkodis-asp-team-2025.json"
       },
       {
+        "carName": "GT3_Akkodis ASP Team 2026",
+        "carId": "GT3_Akkodis ASP Team 2026_78",
+        "path": "lmu/gt3-akkodis-asp-team-2026-78.json"
+      },
+      {
+        "carName": "GT3_Akkodis ASP Team 2026",
+        "carId": "GT3_Akkodis ASP Team 2026_87",
+        "path": "lmu/gt3-akkodis-asp-team-2026-87.json"
+      },
+      {
         "carName": "GT3_AMR GT3 Custom Team 2025",
         "carId": "GT3_AMR GT3 Custom Team 2025",
         "path": "lmu/gt3-amr-gt3-custom-team-2025.json"
@@ -1966,6 +1976,16 @@
         "path": "lmu/gt3-d-station-racing-2024.json"
       },
       {
+        "carName": "GT3_Garage 59 2026",
+        "carId": "GT3_Garage 59 2026_10",
+        "path": "lmu/gt3-garage-59-2026-10.json"
+      },
+      {
+        "carName": "GT3_Garage 59 2026",
+        "carId": "GT3_Garage 59 2026_58",
+        "path": "lmu/gt3-garage-59-2026-58.json"
+      },
+      {
         "carName": "GR Racing 2025",
         "carId": "GT3_GR Racing 2025",
         "path": "lmu/gt3-gr-racing-2025.json"
@@ -1979,6 +1999,16 @@
         "carName": "GT3_Heart of Racing Team 2025",
         "carId": "GT3_Heart of Racing Team 2025",
         "path": "lmu/gt3-heart-of-racing-team-2025.json"
+      },
+      {
+        "carName": "GT3_Heart of Racing Team 2026",
+        "carId": "GT3_Heart of Racing Team 2026_23",
+        "path": "lmu/gt3-heart-of-racing-team-2026-23.json"
+      },
+      {
+        "carName": "GT3_Heart of Racing Team 2026",
+        "carId": "GT3_Heart of Racing Team 2026_27",
+        "path": "lmu/gt3-heart-of-racing-team-2026-27.json"
       },
       {
         "carName": "GT3_Huracan Custom Team 2024",
@@ -2004,6 +2034,16 @@
         "carName": "Mercedes AMG LMGT3",
         "carId": "GT3_Iron Lynx 2025",
         "path": "lmu/gt3-iron-lynx-2025.json"
+      },
+      {
+        "carName": "GT3_Iron Lynx 2026",
+        "carId": "GT3_Iron Lynx 2026_61",
+        "path": "lmu/gt3-iron-lynx-2026-61.json"
+      },
+      {
+        "carName": "GT3_Iron Lynx 2026",
+        "carId": "GT3_Iron Lynx 2026_79",
+        "path": "lmu/gt3-iron-lynx-2026-79.json"
       },
       {
         "carName": "JMW Motorsport 2025",
@@ -2096,6 +2136,11 @@
         "path": "lmu/gt3-manthey-2025.json"
       },
       {
+        "carName": "GT3_Manthey DK Engineering 2026",
+        "carId": "GT3_Manthey DK Engineering 2026_91",
+        "path": "lmu/gt3-manthey-dk-engineering-2026-91.json"
+      },
+      {
         "carName": "GT3_Manthey Ema 2024",
         "carId": "GT3_Manthey Ema 2024",
         "path": "lmu/gt3-manthey-ema-2024.json"
@@ -2141,6 +2186,16 @@
         "path": "lmu/gt3-proton-competition-2025.json"
       },
       {
+        "carName": "GT3_Proton Competition 2026",
+        "carId": "GT3_Proton Competition 2026_77",
+        "path": "lmu/gt3-proton-competition-2026-77.json"
+      },
+      {
+        "carName": "GT3_Proton Competition 2026",
+        "carId": "GT3_Proton Competition 2026_88",
+        "path": "lmu/gt3-proton-competition-2026-88.json"
+      },
+      {
         "carName": "GT3_Proton Racing 2024",
         "carId": "GT3_Proton Racing 2024",
         "path": "lmu/gt3-proton-racing-2024.json"
@@ -2149,6 +2204,11 @@
         "carName": "GT3_Racing Spirit of Léman 2025",
         "carId": "GT3_Racing Spirit of Léman 2025",
         "path": "lmu/gt3-racing-spirit-of-leman-2025.json"
+      },
+      {
+        "carName": "GT3_Racing Team Turkey by TF 2026",
+        "carId": "GT3_Racing Team Turkey by TF 2026_34",
+        "path": "lmu/gt3-racing-team-turkey-by-tf-2026-34.json"
       },
       {
         "carName": "GT3_Richard Mille AF Corse 2025",
@@ -2161,9 +2221,24 @@
         "path": "lmu/gt3-spirit-of-race-2025.json"
       },
       {
+        "carName": "GT3_Team Qatar by Iron Lynx 2026",
+        "carId": "GT3_Team Qatar by Iron Lynx 2026_62",
+        "path": "lmu/gt3-team-qatar-by-iron-lynx-2026-62.json"
+      },
+      {
         "carName": "GT3_Team WRT 2025",
         "carId": "GT3_Team WRT 2025",
         "path": "lmu/gt3-team-wrt-2025.json"
+      },
+      {
+        "carName": "GT3_Team WRT 2026",
+        "carId": "GT3_Team WRT 2026_32",
+        "path": "lmu/gt3-team-wrt-2026-32.json"
+      },
+      {
+        "carName": "GT3_Team WRT 2026",
+        "carId": "GT3_Team WRT 2026_69",
+        "path": "lmu/gt3-team-wrt-2026-69.json"
       },
       {
         "carName": "GT3_TF Sport 2025",
@@ -2171,9 +2246,19 @@
         "path": "lmu/gt3-tf-sport-2025.json"
       },
       {
+        "carName": "GT3_TF Sport 2026",
+        "carId": "GT3_TF Sport 2026_33",
+        "path": "lmu/gt3-tf-sport-2026-33.json"
+      },
+      {
         "carName": "GT3_TF Sport",
         "carId": "GT3_TF Sport",
         "path": "lmu/gt3-tf-sport.json"
+      },
+      {
+        "carName": "GT3_The Bend Manthey 2026",
+        "carId": "GT3_The Bend Manthey 2026_92",
+        "path": "lmu/gt3-the-bend-manthey-2026-92.json"
       },
       {
         "carName": "GT3_The Bend Team WRT 2025",
@@ -2189,6 +2274,16 @@
         "carName": "GT3_United Autosports 2025",
         "carId": "GT3_United Autosports 2025",
         "path": "lmu/gt3-united-autosports-2025.json"
+      },
+      {
+        "carName": "GT3_Vista AF Corsa 2026",
+        "carId": "GT3_Vista AF Corsa 2026_21",
+        "path": "lmu/gt3-vista-af-corsa-2026-21.json"
+      },
+      {
+        "carName": "GT3_Vista AF Corsa 2026",
+        "carId": "GT3_Vista AF Corsa 2026_54",
+        "path": "lmu/gt3-vista-af-corsa-2026-54.json"
       },
       {
         "carName": "GT3_Vista AF Corse 2025",
@@ -2276,6 +2371,11 @@
         "path": "lmu/hyper-af-corse-2025.json"
       },
       {
+        "carName": "Hyper_AF Corse 2026",
+        "carId": "Hyper_AF Corse 2026_83",
+        "path": "lmu/hyper-af-corse-2026-83.json"
+      },
+      {
         "carName": "Hyper_Alpine Custom Team 2024",
         "carId": "Hyper_Alpine Custom Team 2024",
         "path": "lmu/hyper-alpine-custom-team-2024.json"
@@ -2291,6 +2391,16 @@
         "path": "lmu/hyper-alpine-endurance-team-2025.json"
       },
       {
+        "carName": "Hyper_Alpine Endurance Team 2026",
+        "carId": "Hyper_Alpine Endurance Team 2026_35",
+        "path": "lmu/hyper-alpine-endurance-team-2026-35.json"
+      },
+      {
+        "carName": "Hyper_Alpine Endurance Team 2026",
+        "carId": "Hyper_Alpine Endurance Team 2026_36",
+        "path": "lmu/hyper-alpine-endurance-team-2026-36.json"
+      },
+      {
         "carName": "AM Valkyrie Custom Team 2025",
         "carId": "Hyper_AM Valkyrie Custom Team 2025",
         "path": "lmu/hyper-am-valkyrie-custom-team-2025.json"
@@ -2301,9 +2411,29 @@
         "path": "lmu/hyper-aston-martin-thor-team-2025.json"
       },
       {
+        "carName": "Hyper_Aston Martin THOR Team 2026",
+        "carId": "Hyper_Aston Martin THOR Team 2026_007",
+        "path": "lmu/hyper-aston-martin-thor-team-2026-007.json"
+      },
+      {
+        "carName": "Hyper_Aston Martin THOR Team 2026",
+        "carId": "Hyper_Aston Martin THOR Team 2026_009",
+        "path": "lmu/hyper-aston-martin-thor-team-2026-009.json"
+      },
+      {
         "carName": "Hyper_BMW M Team WRT 2025",
         "carId": "Hyper_BMW M Team WRT 2025",
         "path": "lmu/hyper-bmw-m-team-wrt-2025.json"
+      },
+      {
+        "carName": "Hyper_BMW M Team WRT 2026",
+        "carId": "Hyper_BMW M Team WRT 2026_15",
+        "path": "lmu/hyper-bmw-m-team-wrt-2026-15.json"
+      },
+      {
+        "carName": "Hyper_BMW M Team WRT 2026",
+        "carId": "Hyper_BMW M Team WRT 2026_20",
+        "path": "lmu/hyper-bmw-m-team-wrt-2026-20.json"
       },
       {
         "carName": "Hyper_BMWMH Custom Team 2024",
@@ -2326,6 +2456,16 @@
         "path": "lmu/hyper-cadillac-hertz-team-jota-2025.json"
       },
       {
+        "carName": "Hyper_Cadillac Hertz Team Jota 2026",
+        "carId": "Hyper_Cadillac Hertz Team Jota 2026_12",
+        "path": "lmu/hyper-cadillac-hertz-team-jota-2026-12.json"
+      },
+      {
+        "carName": "Hyper_Cadillac Hertz Team Jota 2026",
+        "carId": "Hyper_Cadillac Hertz Team Jota 2026_38",
+        "path": "lmu/hyper-cadillac-hertz-team-jota-2026-38.json"
+      },
+      {
         "carName": "Hyper_Cadillac Whelen 2025",
         "carId": "Hyper_Cadillac Whelen 2025",
         "path": "lmu/hyper-cadillac-whelen-2025.json"
@@ -2341,17 +2481,27 @@
         "path": "lmu/hyper-ferrari-af-corse-2025.json"
       },
       {
+        "carName": "Hyper_Ferrari AF Corse 2026",
+        "carId": "Hyper_Ferrari AF Corse 2026_50",
+        "path": "lmu/hyper-ferrari-af-corse-2026-50.json"
+      },
+      {
+        "carName": "Hyper_Ferrari AF Corse 2026",
+        "carId": "Hyper_Ferrari AF Corse 2026_51",
+        "path": "lmu/hyper-ferrari-af-corse-2026-51.json"
+      },
+      {
         "carName": "Hyper_Genesis Custom Team 2026",
         "carId": "Hyper_Genesis Custom Team 2026_397",
         "path": "lmu/hyper-genesis-custom-team-2026-397.json"
       },
       {
-        "carName": "Genesis Magma Racing 2026",
+        "carName": "Hyper_Genesis Magma Racing 2026",
         "carId": "Hyper_Genesis Magma Racing 2026_17",
         "path": "lmu/hyper-genesis-magma-racing-2026-17.json"
       },
       {
-        "carName": "Genesis Magma Racing 2026",
+        "carName": "Hyper_Genesis Magma Racing 2026",
         "carId": "Hyper_Genesis Magma Racing 2026_19",
         "path": "lmu/hyper-genesis-magma-racing-2026-19.json"
       },
@@ -2374,6 +2524,16 @@
         "carName": "Hyper_Peugeot TotalEnergies 2025",
         "carId": "Hyper_Peugeot TotalEnergies 2025",
         "path": "lmu/hyper-peugeot-totalenergies-2025.json"
+      },
+      {
+        "carName": "Hyper_Peugeot TotalEnergies 2026",
+        "carId": "Hyper_Peugeot TotalEnergies 2026_93",
+        "path": "lmu/hyper-peugeot-totalenergies-2026-93.json"
+      },
+      {
+        "carName": "Hyper_Peugeot TotalEnergies 2026",
+        "carId": "Hyper_Peugeot TotalEnergies 2026_94",
+        "path": "lmu/hyper-peugeot-totalenergies-2026-94.json"
       },
       {
         "carName": "Hyper_Porsche 963 Custom Team 2023",
@@ -2424,6 +2584,16 @@
         "carName": "Toyota Gazoo Racing",
         "carId": "Hyper_Toyota GR010 Custom Team 2025",
         "path": "lmu/hyper-toyota-gr010-custom-team-2025.json"
+      },
+      {
+        "carName": "Hyper_Toyota Racing 2026",
+        "carId": "Hyper_Toyota Racing 2026_7",
+        "path": "lmu/hyper-toyota-racing-2026-7.json"
+      },
+      {
+        "carName": "Hyper_Toyota Racing 2026",
+        "carId": "Hyper_Toyota Racing 2026_8",
+        "path": "lmu/hyper-toyota-racing-2026-8.json"
       },
       {
         "carName": "Hyper_Vanwall Custom Team 2023",
