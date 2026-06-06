@@ -2886,6 +2886,21 @@
         "path": "lmu/lmp2-vds-panis-racing-2025-48.json"
       },
       {
+        "carName": "ADESS AD25 Custom Team",
+        "carId": "LMP3_ADESS AD25 Custom Team 2025_397",
+        "path": "lmu/lmp3-adess-ad25-custom-team-2025-397.json"
+      },
+      {
+        "carName": "ADESS AD25 Custom Team",
+        "carId": "LMP3_ADESS AD25 Custom Team 2026_397",
+        "path": "lmu/lmp3-adess-ad25-custom-team-2026-397.json"
+      },
+      {
+        "carName": "ADESS Factory Racing Team 2025",
+        "carId": "LMP3_ADESS Factory Racing Team 2025_46",
+        "path": "lmu/lmp3-adess-factory-racing-team-2025-46.json"
+      },
+      {
         "carName": "LMP3 Team Virage",
         "carId": "LMP3_Team Virage",
         "path": "lmu/lmp3-clx-motorsport.json"

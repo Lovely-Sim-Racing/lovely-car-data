@@ -102,6 +102,24 @@
       "carId": "LMP3_Ginetta G61-LT-P3 Custom Team_397",
       "fileName": "lmp3-ginetta-g61-lt-p3-custom-team-397.json",
       "carClass": "LMP3"
+    },
+    {
+      "carName": "ADESS Factory Racing Team 2025",
+      "carId": "LMP3_ADESS Factory Racing Team 2025_46",
+      "fileName": "lmp3-adess-factory-racing-team-2025-46.json",
+      "carClass": "LMP3"
+    },
+    {
+      "carName": "ADESS AD25 Custom Team",
+      "carId": "LMP3_ADESS AD25 Custom Team 2025_397",
+      "fileName": "lmp3-adess-ad25-custom-team-2025-397.json",
+      "carClass": "LMP3"
+    },
+    {
+      "carName": "ADESS AD25 Custom Team",
+      "carId": "LMP3_ADESS AD25 Custom Team 2026_397",
+      "fileName": "lmp3-adess-ad25-custom-team-2026-397.json",
+      "carClass": "LMP3"
     }
   ]
 }
