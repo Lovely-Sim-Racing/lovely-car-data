@@ -1,7 +1,6 @@
 {
   "carName": "Duqueine D09 Custom Team",
   "carId": "LMP3_Duqueine D09 P3 Custom Team 2026_397",
-  "carClass": "LMP3",
   "ledNumber": 10,
   "redlineBlinkInterval": 100,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FF0080FF","#FF0080FF","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],

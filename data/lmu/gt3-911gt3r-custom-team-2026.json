@@ -1,7 +1,6 @@
 {
   "carName": "GT3_911GT3R Custom Team 2026",
   "carId": "GT3_911GT3R Custom Team 2026",
-  "carClass": "GT3 2026",
   "ledNumber": 16,
   "redlineBlinkInterval": 100,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00","#FF00FF00"],
