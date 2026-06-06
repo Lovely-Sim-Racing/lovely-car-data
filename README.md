@@ -93,34 +93,64 @@ See [scripts/MANIFEST_GENERATOR.md](scripts/MANIFEST_GENERATOR.md) for details o
 ## Changelog
 Read the [changelog](changelog.md) to keep track of the format updates.
 
-## File Format
-Every file is formatted as follows:
+## Output Data Format
+Every compiled JSON file in the `data/` directory (which consumers interact with) is formatted as follows:
 
 ``` 
 # carName               (String) - The full human readable car name
 # carId                 (String) - The carId property as it appears in SimHub
 # carClass              (String) - The car's 3-5 letter class shorthand
 # ledNumber             (Int)    - The car's in game number of telemetry LED's
-# redlineBlinkInterval  (Int)    - The Speed at which the redline blinks in ms
+# redlineBlinkInterval  (Int|Array) - The speed at which the redline blinks in ms. If an array, it matches the redline stages.
 # ledColor                         An array of the led color
-  # redline(:Value)     (String) - A color name or HEX value for the red line
+  # redline1(:Value)    (String) - (Optional) Stage 1 color name or HEX value for the red line
+  # redlineN(:Value)    (String) - (Optional) Stage N color name or HEX value for the red line
   # led1color(:Value)   (String) - A color name or HEX value for LED 1
   # led2color(:Value)   (String) - A color name or HEX value for LED 2
   # led3color(:Value)   (String) - A color name or HEX value for LED 3
   # ledNcolor(:Value)   (String) - A color name or HEX value for LED N
 # ledRpm                           An array of all the RPM data per gear
   # gear(:Key)          (String) - The gear number
-    # redline(:Value)   (Int)    - The RPM red line value per gear
-    # led1rpm(:Value)   (Int)    - The RPM value for LED 1
-    # led2rpm(:Value)   (Int)    - The RPM value for LED 2
-    # led3rpm(:Value)   (Int)    - The RPM value for LED 3
-    # ledNrpm(:Value)   (Int)    - The RPM value for LED N
+    # redline1(:Value)  (Int)    - (Optional) Stage 1 RPM red line value per gear
+    # redlineN(:Value)  (Int)    - (Optional) Stage N RPM red line value per gear
+    # led1rpm(:Value)   (Int|Str)- The RPM value (or value range) for LED 1
+    # led2rpm(:Value)   (Int|Str)- The RPM value (or value range) for LED 2
+    # led3rpm(:Value)   (Int|Str)- The RPM value (or value range) for LED 3
+    # ledNrpm(:Value)   (Int|Str)- The RPM value (or value range) for LED N
 # carSettings                      (Optional) An array of all the available Car Settings
   # property(:Simhub)   (String) - The SimHub Property Name
     # min               (Int)    - Lowest possible setting
     # max               (Int)    - Highest possible setting
 
 ```
+
+## Templating and Scripts
+
+To reduce duplication, some games (like `lmu`) use a templating system. 
+Source data is maintained in `src_data/{simId}/` as `.jsonc` files. 
+
+### Source Template Format
+The `src_data` files use the same schema as above, but with the addition of a `variants` array and support for comments. 
+
+``` 
+# variants                         (Optional) An array of car variants. Each object will be compiled into its own file, inheriting and overriding properties from this base template.
+  # carName             (String) - The full human readable car name
+  # carId               (String) - The carId property as it appears in SimHub
+  # fileName            (String) - The target generated filename
+  # carClass            (String) - The car's 3-5 letter class shorthand
+  # ...                            Any other property to override for this variant
+```
+
+**Important:** Do not edit the generated files in `data/lmu/` directly. Always edit the `src_data/lmu/` templates.
+
+### Build Scripts
+
+- **`python scripts/build_profiles.py`**: Compiles all `.jsonc` templates in `src_data/` into standard `.json` files in `data/`, expanding variants and stripping comments.
+- **`python scripts/rpm_shadow.py`**: A helper tool to calculate and append relative RPM percentage shadow tables as comments to the source `.jsonc` files. This helps in verifying RPM scaling.
+  - `--add`: Add shadow tables where missing.
+  - `--refresh`: Recalculate all shadow tables.
+  - `--remove`: Remove all shadow tables.
+  - `--log LABEL`: Snapshot current RPM data into log files (in `src_data/lmu/log/`) with a timestamp and the provided label, keeping a historical record of BOP/RPM changes.
 
 ## Color Names
 To preserve consistency among LED profiles, you can use any of the offical **HTML Color Names** as listed in the [W3 Schools HTML Color Names](https://www.w3schools.com/tags/ref_colornames.asp) list or add you custom **HEX RGB** color code.
@@ -149,7 +179,7 @@ pre-commit install
 ### 3. Test & Finish
 You're all set as far as tooling is concerned. Every time you make a commit, the `pre-commit` script will make sure the files are properly formatted and are prettified. 
 
-It's usually a good idea to run the hooks against all of the files when adding new hooks (usually pre-commit will only run on the changed files during git hooks). Running `pre-commit run --all-files` will have a pass at everythig, and if all is well, you should see somthing like the below. 
+It's usually a good idea to run the hooks against all of the files when adding new hooks (usually pre-commit will only run on the changed files during git hooks). Running `pre-commit run --all-files` will have a pass at everything, and if all is well, you should see something like the below. 
 
 ```
 $ pre-commit run --all-files

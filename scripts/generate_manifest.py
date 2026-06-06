@@ -10,6 +10,17 @@ from pathlib import Path
 from typing import Dict, List
 
 
+def safe_print(msg: str, file=sys.stdout):
+    try:
+        print(msg, file=file)
+    except UnicodeEncodeError:
+        clean_msg = msg.replace('✓', '[SUCCESS]').replace('⚠️', '[WARNING]')
+        try:
+            print(clean_msg, file=file)
+        except UnicodeEncodeError:
+            print(clean_msg.encode('ascii', errors='replace').decode('ascii'), file=file)
+
+
 def load_car_data(car_file: Path) -> Dict[str, str]:
     """Load car data from JSON file and extract required fields.
 
@@ -76,9 +87,9 @@ def generate_manifest(data_dir: Path) -> int:
 
     # Print errors grouped by sim for visibility
     for sim_name, errs in errors_by_sim.items():
-        print(f"⚠️  {sim_name}: Skipped {len(errs)} file(s)")
+        safe_print(f"⚠️  {sim_name}: Skipped {len(errs)} file(s)")
         for error in errs:
-            print(error)
+            safe_print(error)
 
     total = sum(len(v) for v in cars_by_game.values())
     if total == 0:
@@ -90,7 +101,7 @@ def generate_manifest(data_dir: Path) -> int:
         json.dump(manifest, f, indent=2, ensure_ascii=False)
         f.write('\n')
 
-    print(f"✓ Generated manifest with {total} total car(s) across sims")
+    safe_print(f"✓ Generated manifest with {total} total car(s) across sims")
     return total
 
 
@@ -102,7 +113,7 @@ def main() -> int:
     try:
         count = generate_manifest(data_dir)
     except FileNotFoundError as e:
-        print(f"Error: {e}", file=sys.stderr)
+        safe_print(f"Error: {e}", file=sys.stderr)
         return 1
 
     # No cars found is not considered an error for CLI purposes

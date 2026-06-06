@@ -1,1 +1,12 @@
 .DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pytest
+.pytest_cache/
+
+# Scratch files and downgrade tests
+scratch/
