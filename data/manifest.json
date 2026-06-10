@@ -1664,44 +1664,44 @@
         "path": "iracing/specracer.json"
       },
       {
-        "carName": "NASCAR Gen 4 Chevrolet Monte Carlo (2003)",
-        "carId": "stockcars\\chevymontecarlo03",
-        "path": "iracing/stockcars-gen4-chevymontecarlo03.json"
-      },
-      {
-        "carName": "NASCAR Gen 4 Ford Taurus (2003)",
-        "carId": "stockcars\\fordtaurus03",
-        "path": "iracing/stockcars-gen4-fordtaurus03.json"
-      },
-      {
         "carName": "NASCAR Cup Next Gen Chevrolet Camaro ZL1",
-        "carId": "stockcars\\chevroletcamaro2022",
-        "path": "iracing/stockcars-nextgenchevrolet.json"
+        "carId": "stockcars chevycamarozl12022",
+        "path": "iracing/stockcars-chevycamarozl12022.json"
+      },
+      {
+        "carName": "NASCAR Gen 4 Chevrolet Monte Carlo (2003)",
+        "carId": "stockcars chevymontecarlo03",
+        "path": "iracing/stockcars-chevymontecarlo03.json"
       },
       {
         "carName": "NASCAR Cup Next Gen Ford Mustang Dark Horse",
-        "carId": "stockcars\\fordmustang2022",
-        "path": "iracing/stockcars-nextgenford.json"
+        "carId": "stockcars fordmustang2022",
+        "path": "iracing/stockcars-fordmustang2022.json"
+      },
+      {
+        "carName": "NASCAR Gen 4 Ford Taurus (2003)",
+        "carId": "stockcars fordtaurus03",
+        "path": "iracing/stockcars-fordtaurus03.json"
       },
       {
         "carName": "NASCAR Cup Next Gen Toyota Camry",
-        "carId": "stockcars\\toyotacamry2022",
-        "path": "iracing/stockcars-nextgentoyota.json"
+        "carId": "stockcars toyotacamry2022",
+        "path": "iracing/stockcars-toyotacamry2022.json"
       },
       {
         "carName": "NASCAR O'Reilly Chevrolet Camaro",
-        "carId": "stockcars2\\camaro2019",
-        "path": "iracing/stockcars-oreillychevy.json"
+        "carId": "stockcars2 camaro2019",
+        "path": "iracing/stockcars2-camaro2019.json"
       },
       {
         "carName": "NASCAR O'Reilly Ford Mustang",
-        "carId": "stockcars2\\mustang2019",
-        "path": "iracing/stockcars-oreillyford.json"
+        "carId": "stockcars2 mustang2019",
+        "path": "iracing/stockcars2-mustang2019.json"
       },
       {
         "carName": "NASCAR O'Reilly Toyota Supra",
-        "carId": "stockcars2\\supra2019",
-        "path": "iracing/stockcars-oreillytoyota.json"
+        "carId": "stockcars2 supra2019",
+        "path": "iracing/stockcars2-supra2019.json"
       },
       {
         "carName": "Chevrolet Camaro Gen3 Supercar",
@@ -2281,6 +2281,11 @@
         "path": "lmu/hyper-ferrari-af-corse-2025.json"
       },
       {
+        "carName": "Hyper_Genesis Custom Team 2026",
+        "carId": "Hyper_Genesis Custom Team 2026_397",
+        "path": "lmu/hyper-genesis-custom-team-2026-397.json"
+      },
+      {
         "carName": "Genesis Magma Racing 2026",
         "carId": "Hyper_Genesis Magma Racing 2026_17",
         "path": "lmu/hyper-genesis-magma-racing-2026-17.json"
@@ -2289,11 +2294,6 @@
         "carName": "Genesis Magma Racing 2026",
         "carId": "Hyper_Genesis Magma Racing 2026_19",
         "path": "lmu/hyper-genesis-magma-racing-2026-19.json"
-      },
-      {
-        "carName": "Hyper_Genesis Custom Team 2026",
-        "carId": "Hyper_Genesis Custom Team 2026_397",
-        "path": "lmu/hyper-genesis-custom-team-2026-397.json"
       },
       {
         "carName": "Hyper_Glickenhaus Custom Team 2023",
