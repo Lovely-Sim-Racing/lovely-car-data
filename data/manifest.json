@@ -1242,6 +1242,81 @@
     ],
     "f12025": [
       {
+        "carName": "Mercedes",
+        "carId": "220",
+        "path": "f12025/220.json"
+      },
+      {
+        "carName": "Ferrari",
+        "carId": "201",
+        "path": "f12025/221.json"
+      },
+      {
+        "carName": "Red Bull Racing",
+        "carId": "222",
+        "path": "f12025/222.json"
+      },
+      {
+        "carName": "Williams",
+        "carId": "223",
+        "path": "f12025/223.json"
+      },
+      {
+        "carName": "Aston Martin",
+        "carId": "224",
+        "path": "f12025/224.json"
+      },
+      {
+        "carName": "Alpine",
+        "carId": "225",
+        "path": "f12025/225.json"
+      },
+      {
+        "carName": "VCARB",
+        "carId": "226",
+        "path": "f12025/226.json"
+      },
+      {
+        "carName": "Haas",
+        "carId": "227",
+        "path": "f12025/227.json"
+      },
+      {
+        "carName": "McLaren",
+        "carId": "228",
+        "path": "f12025/228.json"
+      },
+      {
+        "carName": "Audi",
+        "carId": "229",
+        "path": "f12025/229.json"
+      },
+      {
+        "carName": "Cadillac",
+        "carId": "230",
+        "path": "f12025/230.json"
+      },
+      {
+        "carName": "F1 MyTeam 26",
+        "carId": "231",
+        "path": "f12025/231.json"
+      },
+      {
+        "carName": "F1 World 26",
+        "carId": "232",
+        "path": "f12025/232.json"
+      },
+      {
+        "carName": "F1 World 26",
+        "carId": "488",
+        "path": "f12025/488.json"
+      },
+      {
+        "carName": "F1 MyTeam 26",
+        "carId": "65535",
+        "path": "f12025/65535.json"
+      },
+      {
         "carName": "AIX Racing 24",
         "carId": "AIX Racing 24",
         "path": "f12025/aix-racing-24.json"
@@ -1250,6 +1325,11 @@
         "carName": "Alpha Tauri",
         "carId": "Alpha Tauri",
         "path": "f12025/alpha-tauri.json"
+      },
+      {
+        "carName": "Alpine",
+        "carId": "Alpine ‘26",
+        "path": "f12025/alpine-26.json"
       },
       {
         "carName": "Alpine",
@@ -1263,8 +1343,23 @@
       },
       {
         "carName": "Aston Martin",
+        "carId": "Aston Martin ‘26",
+        "path": "f12025/aston-martin-26.json"
+      },
+      {
+        "carName": "Aston Martin",
         "carId": "Aston Martin",
         "path": "f12025/aston-martin.json"
+      },
+      {
+        "carName": "Audi",
+        "carId": "Audi ‘26",
+        "path": "f12025/audi-26.json"
+      },
+      {
+        "carName": "Cadillac",
+        "carId": "Cadillac ‘26",
+        "path": "f12025/cadillac-26.json"
       },
       {
         "carName": "Campos Racing 24",
@@ -1288,8 +1383,18 @@
       },
       {
         "carName": "Ferrari",
+        "carId": "Ferrari ‘26",
+        "path": "f12025/ferrari-26.json"
+      },
+      {
+        "carName": "Ferrari",
         "carId": "Ferrari",
         "path": "f12025/ferrari.json"
+      },
+      {
+        "carName": "Haas",
+        "carId": "Haas ‘26",
+        "path": "f12025/haas-26.json"
       },
       {
         "carName": "Haas",
@@ -1307,9 +1412,19 @@
         "path": "f12025/invicta-24.json"
       },
       {
+        "carName": "McLaren ‘26",
+        "carId": "McLaren ‘26",
+        "path": "f12025/mclaren-26.json"
+      },
+      {
         "carName": "McLaren",
         "carId": "McLaren",
         "path": "f12025/mclaren.json"
+      },
+      {
+        "carName": "Mercedes",
+        "carId": "Mercedes ‘26",
+        "path": "f12025/mercedes-26.json"
       },
       {
         "carName": "Mercedes",
@@ -1327,9 +1442,19 @@
         "path": "f12025/prema-racing-24.json"
       },
       {
+        "carName": "VCARB",
+        "carId": "RB ‘26",
+        "path": "f12025/rb-26.json"
+      },
+      {
         "carName": "RB",
         "carId": "RB",
         "path": "f12025/rb.json"
+      },
+      {
+        "carName": "Red Bull Racing",
+        "carId": "Red Bull Racing ‘26",
+        "path": "f12025/red-bull-racing-26.json"
       },
       {
         "carName": "Red Bull Racing",
@@ -1355,6 +1480,11 @@
         "carName": "Van Amersfoort Racing 24",
         "carId": "Van Amersfoort Racing 24",
         "path": "f12025/van-amersfoort-racing-24.json"
+      },
+      {
+        "carName": "Williams",
+        "carId": "Williams ‘26",
+        "path": "f12025/williams-26.json"
       },
       {
         "carName": "Williams",
