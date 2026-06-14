@@ -1,0 +1,2 @@
+*.json text eol=crlf
+*.jsonc text eol=crlf
