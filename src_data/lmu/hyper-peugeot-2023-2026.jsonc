@@ -22,38 +22,32 @@
     {
       "carName": "Peugeot Sport 2024",
       "carId": "Peugeot Sport 2024",
-      "fileName": "peugeot-sport-2024.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "peugeot-sport-2024.json"
     },
     {
       "carName": "Peugeot Sport",
       "carId": "Peugeot Sport",
-      "fileName": "peugeot-sport.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "peugeot-sport.json"
     },
     {
       "carName": "Peugeot TotalEnergies 2024",
       "carId": "Peugeot TotalEnergies 2024",
-      "fileName": "peugeot-totalenergies-2024.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "peugeot-totalenergies-2024.json"
     },
     {
       "carName": "Peugeot TotalEnergies",
       "carId": "Peugeot TotalEnergies",
-      "fileName": "peugeot-totalenergies.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "peugeot-totalenergies.json"
     },
     {
       "carName": "Hyper_9x8 Wing Custom Team 2024",
       "carId": "Hyper_9x8 Wing Custom Team 2024",
-      "fileName": "hyper-9x8-wing-custom-team-2024.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "hyper-9x8-wing-custom-team-2024.json"
     },
     {
       "carName": "Hyper_Peugeot 9x8 Custom Team 2023",
       "carId": "Hyper_Peugeot 9x8 Custom Team 2023",
-      "fileName": "hyper-peugeot-9x8-custom-team-2023.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "hyper-peugeot-9x8-custom-team-2023.json"
     },
     {
       "carName": "Hyper_9x8 Wing Custom Team 2026",
@@ -73,8 +67,7 @@
           "8": [8150,7320,7375,7525,7675,7825,7825,7975,7975,7975,7975]
         }
       ],
-      "fileName": "hyper-9x8-wing-custom-team-2026-397.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "hyper-9x8-wing-custom-team-2026-397.json"
     }
   ]
 }

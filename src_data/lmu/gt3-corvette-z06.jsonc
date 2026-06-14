@@ -22,14 +22,12 @@
     {
       "carName": "GT3_TF Sport",
       "carId": "GT3_TF Sport",
-      "fileName": "gt3-tf-sport.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "gt3-tf-sport.json"
     },
     {
       "carName": "GT3_Z06GT3R Custom Team",
       "carId": "GT3_Z06GT3R Custom Team",
-      "fileName": "gt3-z06gt3r-custom-team.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "gt3-z06gt3r-custom-team.json"
     }
   ]
 }

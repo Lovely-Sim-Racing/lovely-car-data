@@ -22,14 +22,12 @@
     {
       "carName": "Floyd Vanwall Racing Team",
       "carId": "Floyd Vanwall Racing Team",
-      "fileName": "floyd-vanwall-racing-team.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "floyd-vanwall-racing-team.json"
     },
     {
       "carName": "Hyper_Vanwall Custom Team 2023",
       "carId": "Hyper_Vanwall Custom Team 2023",
-      "fileName": "hyper-vanwall-custom-team-2023.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "hyper-vanwall-custom-team-2023.json"
     }
   ]
 }

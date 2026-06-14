@@ -22,14 +22,12 @@
     {
       "carName": "Glickenhaus Racing",
       "carId": "Glickenhaus Racing",
-      "fileName": "glickenhaus-racing.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "glickenhaus-racing.json"
     },
     {
       "carName": "Hyper_Glickenhaus Custom Team 2023",
       "carId": "Hyper_Glickenhaus Custom Team 2023",
-      "fileName": "hyper-glickenhaus-custom-team-2023.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "hyper-glickenhaus-custom-team-2023.json"
     }
   ]
 }

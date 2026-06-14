@@ -22,14 +22,12 @@
     {
       "carName": "Hyper_Isotta Fraschini Custom Team 2024",
       "carId": "Hyper_Isotta Fraschini Custom Team 2024",
-      "fileName": "hyper-isotta-fraschini-custom-team-2024.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "hyper-isotta-fraschini-custom-team-2024.json"
     },
     {
       "carName": "Isotta TIPO6 2024",
       "carId": "Isotta TIPO6 2024",
-      "fileName": "isotta-tipo6-2024.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "isotta-tipo6-2024.json"
     }
   ]
 }

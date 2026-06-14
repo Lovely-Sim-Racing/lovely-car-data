@@ -22,56 +22,47 @@
     {
       "carName": "Toyota Gazoo Racing",
       "carId": "Hyper_Toyota Gazoo Racing 2025",
-      "fileName": "hyper-toyota-gazoo-racing-2025.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "hyper-toyota-gazoo-racing-2025.json"
     },
     {
       "carName": "Toyota Gazoo Racing",
       "carId": "Hyper_Toyota GR010 Custom Team 2023",
-      "fileName": "hyper-toyota-gr010-custom-team-2023.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "hyper-toyota-gr010-custom-team-2023.json"
     },
     {
       "carName": "Toyota Gazoo Racing",
       "carId": "Hyper_Toyota GR010 Custom Team 2024",
-      "fileName": "hyper-toyota-gr010-custom-team-2024.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "hyper-toyota-gr010-custom-team-2024.json"
     },
     {
       "carName": "Toyota Gazoo Racing",
       "carId": "Hyper_Toyota GR010 Custom Team 2025",
-      "fileName": "hyper-toyota-gr010-custom-team-2025.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "hyper-toyota-gr010-custom-team-2025.json"
     },
     {
       "carName": "Toyota Gazoo Racing",
       "carId": "Toyota Gazoo Racing 2024",
-      "fileName": "toyota-gazoo-racing-2024.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "toyota-gazoo-racing-2024.json"
     },
     {
       "carName": "Toyota Gazoo Racing",
       "carId": "Toyota Gazoo Racing",
-      "fileName": "toyota-gazoo-racing.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "toyota-gazoo-racing.json"
     },
     {
       "carName": "Hyper_Toyota Racing 2026",
       "carId": "Hyper_Toyota Racing 2026_7",
-      "fileName": "hyper-toyota-racing-2026-7.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "hyper-toyota-racing-2026-7.json"
     },
     {
       "carName": "Hyper_Toyota Racing 2026",
       "carId": "Hyper_Toyota Racing 2026_8",
-      "fileName": "hyper-toyota-racing-2026-8.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "hyper-toyota-racing-2026-8.json"
     },
     {
       "carName": "Toyota Gazoo Racing 2026",
       "carId": "Hyper_Toyota GR010 Custom Team 2026_397",
-      "fileName": "hyper-toyota-gr010-custom-team-2026-397.json",
-      "_schemaVersion": "v2.0.0"
+      "fileName": "hyper-toyota-gr010-custom-team-2026-397.json"
     }
   ]
 }
