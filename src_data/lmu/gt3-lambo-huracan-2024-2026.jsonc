@@ -1,4 +1,5 @@
 {
+  "_schemaVersion": "v2.0.0",
   "ledNumber": 12,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#00000000","#FF00FF00","#FF00FF00","#FFFF8000","#FFFF8000","#FFFF0000","#FFFF0000","#00000000","#FFFF0000","#FFFF0000"],
@@ -20,44 +21,44 @@
     {
       "carName": "GT3_Huracan Custom Team 2024",
       "carId": "GT3_Huracan Custom Team 2024",
-      "fileName": "gt3-huracan-custom-team-2024.json",
-      "carClass": "GT3"
+      "carClass": "GT3",
+      "fileName": "gt3-huracan-custom-team-2024.json"
     },
     {
       "carName": "Iron Dames 2024",
       "carId": "GT3_Iron Dames 2024",
-      "fileName": "gt3-iron-dames-2024.json",
-      "carClass": "GT3"
+      "carClass": "GT3",
+      "fileName": "gt3-iron-dames-2024.json"
     },
     {
       "carName": "GT3_Iron Lynx 2024",
       "carId": "GT3_Iron Lynx 2024",
-      "fileName": "gt3-iron-lynx-2024.json",
-      "carClass": "GT3"
+      "carClass": "GT3",
+      "fileName": "gt3-iron-lynx-2024.json"
     },
     {
       "carName": "GT3_Iron Lynx 2026",
       "carId": "GT3_Iron Lynx 2026_61",
-      "fileName": "gt3-iron-lynx-2026-61.json",
-      "carClass": "GT3"
+      "carClass": "GT3",
+      "fileName": "gt3-iron-lynx-2026-61.json"
     },
     {
       "carName": "GT3_Iron Lynx 2026",
       "carId": "GT3_Iron Lynx 2026_79",
-      "fileName": "gt3-iron-lynx-2026-79.json",
-      "carClass": "GT3"
+      "carClass": "GT3",
+      "fileName": "gt3-iron-lynx-2026-79.json"
     },
     {
       "carName": "GT3_Team Qatar by Iron Lynx 2026",
       "carId": "GT3_Team Qatar by Iron Lynx 2026_62",
-      "fileName": "gt3-team-qatar-by-iron-lynx-2026-62.json",
-      "carClass": "GT3"
+      "carClass": "GT3",
+      "fileName": "gt3-team-qatar-by-iron-lynx-2026-62.json"
     },
     {
       "carName": "GT3_Huracan Custom Team 2026",
       "carId": "GT3_Huracan Custom Team 2026",
-      "fileName": "gt3-huracan-custom-team-2026.json",
-      "carClass": "GT3 2026"
+      "carClass": "GT3 2026",
+      "fileName": "gt3-huracan-custom-team-2026.json"
     }
   ]
 }

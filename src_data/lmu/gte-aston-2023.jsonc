@@ -1,4 +1,5 @@
 {
+  "_schemaVersion": "v2.0.0",
   "carClass": "GTE",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,

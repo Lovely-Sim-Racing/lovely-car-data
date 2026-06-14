@@ -1,4 +1,5 @@
 {
+  "_schemaVersion": "v2.0.0",
   "carClass": "HYP",
   "ledNumber": 10,
   "redlineBlinkInterval": 100,

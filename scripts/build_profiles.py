@@ -6,7 +6,7 @@ def load_jsonc(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
     # Strip true comments (//) before parsing
-    content = re.sub(r'^\s*//.*$', '', content, flags=re.MULTILINE)
+    content = re.sub(r'\s*//.*$', '', content, flags=re.MULTILINE)
     return json.loads(content)
 
 def build_profiles(src_base_dir, out_base_dir):
@@ -18,6 +18,9 @@ def build_profiles(src_base_dir, out_base_dir):
         print(f"Source directory {src_dir} does not exist.")
         return
         
+    import shutil
+    if os.path.exists(out_dir):
+        shutil.rmtree(out_dir)
     os.makedirs(out_dir, exist_ok=True)
     
     generated_files = []
@@ -47,12 +50,22 @@ def build_profiles(src_base_dir, out_base_dir):
                 if k != "fileName":
                     final_data[k] = v
                 
-            # Strip mock comment keys from ledRpm
+            # Process ledRpm generators and strip mock comment keys
             if "ledRpm" in final_data:
+                led_count = final_data.get("ledNumber", 10)
                 for gear_obj in final_data["ledRpm"]:
                     keys_to_remove = [k for k in gear_obj.keys() if k.startswith("//")]
                     for k in keys_to_remove:
                         del gear_obj[k]
+                    for k, v in gear_obj.items():
+                        if isinstance(v, dict) and "redline" in v and "step" in v:
+                            redline = v["redline"]
+                            step = v["step"]
+                            new_array = [redline]
+                            for i in range(1, led_count + 1):
+                                val = int(round(redline - (led_count - i) * step))
+                                new_array.append(val)
+                            gear_obj[k] = new_array
                 
             out_filename = variant.get("fileName")
             if not out_filename:
