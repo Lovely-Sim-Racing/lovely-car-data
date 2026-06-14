@@ -1,0 +1,62 @@
+{
+  "carClass": "GT3",
+  "ledNumber": 12,
+  "redlineBlinkInterval": 0,
+  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF0080FF","#FF0080FF","#FF0080FF","#00000000","#FF0080FF","#FF0080FF"],
+  "ledRpm": [
+    {
+      "R": [7025,6575,6575,0,6575,6575,6575,6725,6725,6725,0,6725,6725],
+      "N": [7025,6575,6575,0,6575,6575,6575,6725,6725,6725,0,6725,6725],
+      "1": [7025,6575,6575,0,6575,6575,6575,6725,6725,6725,0,6725,6725],
+      "2": [7025,6575,6575,0,6575,6575,6575,6725,6725,6725,0,6725,6725],
+      "3": [7025,6575,6575,0,6575,6575,6575,6725,6725,6725,0,6725,6725],
+      "4": [7025,6575,6575,0,6575,6575,6575,6725,6725,6725,0,6725,6725],
+      "5": [7025,6575,6575,0,6575,6575,6575,6725,6725,6725,0,6725,6725],
+      "6": [7025,6575,6575,0,6575,6575,6575,6725,6725,6725,0,6725,6725],
+      "7": [7025,6575,6575,0,6575,6575,6575,6725,6725,6725,0,6725,6725],
+      "8": [7025,6575,6575,0,6575,6575,6575,6725,6725,6725,0,6725,6725]
+    }
+  ],
+  "variants": [
+    {
+      "carName": "GT3_BMW GT3 Custom Team 2025",
+      "carId": "GT3_BMW GT3 Custom Team 2025",
+      "fileName": "gt3-bmw-gt3-custom-team-2025.json"
+    },
+    {
+      "carName": "GT3_BMW GT3 Custom Team",
+      "carId": "GT3_BMW GT3 Custom Team",
+      "fileName": "gt3-bmw-gt3-custom-team.json"
+    },
+    {
+      "carName": "GT3_Team WRT 2025",
+      "carId": "GT3_Team WRT 2025",
+      "fileName": "gt3-team-wrt-2025.json"
+    },
+    {
+      "carName": "GT3_The Bend Team WRT 2025",
+      "carId": "GT3_The Bend Team WRT 2025",
+      "fileName": "gt3-the-bend-team-wrt-2025.json"
+    },
+    {
+      "carName": "Team WRT 2024",
+      "carId": "Team WRT 2024",
+      "fileName": "team-wrt-2024.json"
+    },
+    {
+      "carName": "GT3_Team WRT 2026",
+      "carId": "GT3_Team WRT 2026_32",
+      "fileName": "gt3-team-wrt-2026-32.json"
+    },
+    {
+      "carName": "GT3_Team WRT 2026",
+      "carId": "GT3_Team WRT 2026_69",
+      "fileName": "gt3-team-wrt-2026-69.json"
+    },
+    {
+      "carName": "GT3_BMW GT3 Custom Team 2026",
+      "carId": "GT3_BMW GT3 Custom Team 2026_397",
+      "fileName": "gt3-bmw-gt3-custom-team-2026-397.json"
+    }
+  ]
+}

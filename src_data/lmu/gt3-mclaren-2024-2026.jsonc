@@ -1,0 +1,122 @@
+{
+  "carClass": "GT3",
+  "ledNumber": 12,
+  "redlineBlinkInterval": 0,
+  "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#00000000","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#00000000","#FF0000FF","#FF0000FF"],
+  "ledRpm": [
+    {
+      "R": [7296,6830,6830,0,6946,6946,7062,7062,7180,7180,0,7296,7296],
+      "N": [7296,6830,6830,0,6946,6946,7062,7062,7180,7180,0,7296,7296],
+      "1": [7296,6830,6830,0,6946,6946,7062,7062,7180,7180,0,7296,7296],
+      "2": [7296,6830,6830,0,6946,6946,7062,7062,7180,7180,0,7296,7296],
+      "3": [7296,6830,6830,0,6946,6946,7062,7062,7180,7180,0,7296,7296],
+      "4": [7296,6830,6830,0,6946,6946,7062,7062,7180,7180,0,7296,7296],
+      "5": [7296,6830,6830,0,6946,6946,7062,7062,7180,7180,0,7296,7296],
+      "6": [7296,6830,6830,0,6946,6946,7062,7062,7180,7180,0,7296,7296],
+      "7": [7296,6830,6830,0,6946,6946,7062,7062,7180,7180,0,7296,7296],
+      "8": [7296,6830,6830,0,6946,6946,7062,7062,7180,7180,0,7296,7296]
+    }
+  ],
+  "variants": [
+    {
+      "carName": "McLaren 720S GT3",
+      "carId": "GT3_Logitech G Challenge_1",
+      "fileName": "gt3-logitech-g-challenge-1.json"
+    },
+    {
+      "carName": "McLaren 720S GT3",
+      "carId": "GT3_Logitech G Challenge_10",
+      "fileName": "gt3-logitech-g-challenge-10.json"
+    },
+    {
+      "carName": "McLaren 720S GT3",
+      "carId": "GT3_Logitech G Challenge_11",
+      "fileName": "gt3-logitech-g-challenge-11.json"
+    },
+    {
+      "carName": "McLaren 720S GT3",
+      "carId": "GT3_Logitech G Challenge_12",
+      "fileName": "gt3-logitech-g-challenge-12.json"
+    },
+    {
+      "carName": "McLaren 720S GT3",
+      "carId": "GT3_Logitech G Challenge_2",
+      "fileName": "gt3-logitech-g-challenge-2.json"
+    },
+    {
+      "carName": "McLaren 720S GT3",
+      "carId": "GT3_Logitech G Challenge_3",
+      "fileName": "gt3-logitech-g-challenge-3.json"
+    },
+    {
+      "carName": "McLaren 720S GT3",
+      "carId": "GT3_Logitech G Challenge_4",
+      "fileName": "gt3-logitech-g-challenge-4.json"
+    },
+    {
+      "carName": "McLaren 720S GT3",
+      "carId": "GT3_Logitech G Challenge_5",
+      "fileName": "gt3-logitech-g-challenge-5.json"
+    },
+    {
+      "carName": "McLaren 720S GT3",
+      "carId": "GT3_Logitech G Challenge_6",
+      "fileName": "gt3-logitech-g-challenge-6.json"
+    },
+    {
+      "carName": "McLaren 720S GT3",
+      "carId": "GT3_Logitech G Challenge_7",
+      "fileName": "gt3-logitech-g-challenge-7.json"
+    },
+    {
+      "carName": "McLaren 720S GT3",
+      "carId": "GT3_Logitech G Challenge_8",
+      "fileName": "gt3-logitech-g-challenge-8.json"
+    },
+    {
+      "carName": "McLaren 720S GT3",
+      "carId": "GT3_Logitech G Challenge_9",
+      "fileName": "gt3-logitech-g-challenge-9.json"
+    },
+    {
+      "carName": "GT3_McLaren Custom Team 2024",
+      "carId": "GT3_McLaren Custom Team 2024",
+      "fileName": "gt3-mclaren-custom-team-2024.json"
+    },
+    {
+      "carName": "GT3_McLaren Custom Team 2025",
+      "carId": "GT3_McLaren Custom Team 2025",
+      "fileName": "gt3-mclaren-custom-team-2025.json"
+    },
+    {
+      "carName": "GT3_United Autosports 2024",
+      "carId": "GT3_United Autosports 2024",
+      "fileName": "gt3-united-autosports-2024.json"
+    },
+    {
+      "carName": "GT3_United Autosports 2025",
+      "carId": "GT3_United Autosports 2025",
+      "fileName": "gt3-united-autosports-2025.json"
+    },
+    {
+      "carName": "Inception Racing 2024",
+      "carId": "Inception Racing 2024",
+      "fileName": "inception-racing-2024.json"
+    },
+    {
+      "carName": "GT3_Garage 59 2026",
+      "carId": "GT3_Garage 59 2026_10",
+      "fileName": "gt3-garage-59-2026-10.json"
+    },
+    {
+      "carName": "GT3_Garage 59 2026",
+      "carId": "GT3_Garage 59 2026_58",
+      "fileName": "gt3-garage-59-2026-58.json"
+    },
+    {
+      "carName": "GT3_McLaren Custom Team 2026",
+      "carId": "GT3_McLaren Custom Team 2026_397",
+      "fileName": "gt3-mclaren-custom-team-2026-397.json"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "carName": "Corvette Racing",
   "carId": "Corvette Racing",
-  "carClass": "Manual input needed",
+  "carClass": "GTE",
   "ledNumber": 12,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#00000000","#FFFF0000","#FFFF0000"],
