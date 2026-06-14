@@ -8,19 +8,7 @@ def format_car_profile(data):
     
     version = data.get("_schemaVersion", "v2.0.0")
     
-    if "_schemaVersion" in data:
-        ordered_data["_schemaVersion"] = version
-        
-    # Extract redline aliases (only valid in vHH3.0)
-    redline_keys = []
-    if version == "vHH3.0":
-        redline_keys = sorted([k for k in data if re.match(r'^redline\d+$', k)])
-    
     for k in original_key_order:
-        if k == "ledColor":
-            # Insert redline aliases just before ledColor
-            for rk in redline_keys:
-                ordered_data[rk] = data[rk]
         if k in data:
             ordered_data[k] = data[k]
             
@@ -39,13 +27,13 @@ def format_car_profile(data):
         
     json_str = re.sub(r'("redlineBlinkInterval":\s*)\[([^\]]*)\]', lambda m: compress_blink_interval(m), json_str)
 
-    # Compress ledColor and redline aliases arrays
+    # Compress ledColor array
     def compress_led_color(match):
         prefix = match.group(1)
         values = re.findall(r'"[^"]*"', match.group(2))
         return prefix + '[' + ','.join(values) + ']'
     
-    json_str = re.sub(r'("(?:ledColor|redline\d+)":\s*)\[([^\]]*)\]', lambda m: compress_led_color(m), json_str)
+    json_str = re.sub(r'("ledColor":\s*)\[([^\]]*)\]', lambda m: compress_led_color(m), json_str)
     
     # Compress ledRpm gear arrays and convert shadow tables to true comments
     def compress_rpm(match):
