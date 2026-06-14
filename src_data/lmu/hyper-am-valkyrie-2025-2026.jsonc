@@ -22,31 +22,36 @@
       "carName": "AM Valkyrie Custom Team 2025",
       "carId": "Hyper_AM Valkyrie Custom Team 2025",
       "carClass": "HYP",
-      "fileName": "hyper-am-valkyrie-custom-team-2025.json"
+      "fileName": "hyper-am-valkyrie-custom-team-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Aston Martin THOR Team 2025",
       "carId": "Hyper_Aston Martin THOR Team 2025",
       "carClass": "HYP",
-      "fileName": "hyper-aston-martin-thor-team-2025.json"
+      "fileName": "hyper-aston-martin-thor-team-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Aston Martin THOR Team 2026",
       "carId": "Hyper_Aston Martin THOR Team 2026_007",
       "carClass": "HYP",
-      "fileName": "hyper-aston-martin-thor-team-2026-007.json"
+      "fileName": "hyper-aston-martin-thor-team-2026-007.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Aston Martin THOR Team 2026",
       "carId": "Hyper_Aston Martin THOR Team 2026_009",
       "carClass": "HYP",
-      "fileName": "hyper-aston-martin-thor-team-2026-009.json"
+      "fileName": "hyper-aston-martin-thor-team-2026-009.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "AM Valkyrie Custom Team 2026",
       "carId": "Hyper_AM Valkyrie Custom Team 2026",
       "carClass": "HYP 2026",
-      "fileName": "hyper-am-valkyrie-custom-team-2026.json"
+      "fileName": "hyper-am-valkyrie-custom-team-2026.json",
+      "_schemaVersion": "v2.0.0"
     }
   ]
 }

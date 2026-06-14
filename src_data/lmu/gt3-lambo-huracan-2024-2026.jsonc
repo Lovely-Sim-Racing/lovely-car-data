@@ -22,43 +22,50 @@
       "carName": "GT3_Huracan Custom Team 2024",
       "carId": "GT3_Huracan Custom Team 2024",
       "carClass": "GT3",
-      "fileName": "gt3-huracan-custom-team-2024.json"
+      "fileName": "gt3-huracan-custom-team-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Iron Dames 2024",
       "carId": "GT3_Iron Dames 2024",
       "carClass": "GT3",
-      "fileName": "gt3-iron-dames-2024.json"
+      "fileName": "gt3-iron-dames-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Iron Lynx 2024",
       "carId": "GT3_Iron Lynx 2024",
       "carClass": "GT3",
-      "fileName": "gt3-iron-lynx-2024.json"
+      "fileName": "gt3-iron-lynx-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Iron Lynx 2026",
       "carId": "GT3_Iron Lynx 2026_61",
       "carClass": "GT3",
-      "fileName": "gt3-iron-lynx-2026-61.json"
+      "fileName": "gt3-iron-lynx-2026-61.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Iron Lynx 2026",
       "carId": "GT3_Iron Lynx 2026_79",
       "carClass": "GT3",
-      "fileName": "gt3-iron-lynx-2026-79.json"
+      "fileName": "gt3-iron-lynx-2026-79.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Team Qatar by Iron Lynx 2026",
       "carId": "GT3_Team Qatar by Iron Lynx 2026_62",
       "carClass": "GT3",
-      "fileName": "gt3-team-qatar-by-iron-lynx-2026-62.json"
+      "fileName": "gt3-team-qatar-by-iron-lynx-2026-62.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Huracan Custom Team 2026",
       "carId": "GT3_Huracan Custom Team 2026",
       "carClass": "GT3 2026",
-      "fileName": "gt3-huracan-custom-team-2026.json"
+      "fileName": "gt3-huracan-custom-team-2026.json",
+      "_schemaVersion": "v2.0.0"
     }
   ]
 }

@@ -21,12 +21,14 @@
     {
       "carName": "Hyper_SC63 Custom Team 2024",
       "carId": "Hyper_SC63 Custom Team 2024",
-      "fileName": "hyper-sc63-custom-team-2024.json"
+      "fileName": "hyper-sc63-custom-team-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Lamborghini Iron Lynx 2024",
       "carId": "Lamborghini Iron Lynx 2024",
-      "fileName": "lamborghini-iron-lynx-2024.json"
+      "fileName": "lamborghini-iron-lynx-2024.json",
+      "_schemaVersion": "v2.0.0"
     }
   ]
 }

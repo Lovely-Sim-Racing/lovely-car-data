@@ -23,37 +23,43 @@
       "carName": "GT3_AWA Racing 2025",
       "carId": "GT3_AWA Racing 2025",
       "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00"],
-      "fileName": "gt3-awa-racing-2025.json"
+      "fileName": "gt3-awa-racing-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_TF Sport 2025",
       "carId": "GT3_TF Sport 2025",
       "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00"],
-      "fileName": "gt3-tf-sport-2025.json"
+      "fileName": "gt3-tf-sport-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Z06GT3R Custom Team 2025",
       "carId": "GT3_Z06GT3R Custom Team 2025",
       "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00"],
-      "fileName": "gt3-z06gt3r-custom-team-2025.json"
+      "fileName": "gt3-z06gt3r-custom-team-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_TF Sport 2026",
       "carId": "GT3_TF Sport 2026_33",
       "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00"],
-      "fileName": "gt3-tf-sport-2026-33.json"
+      "fileName": "gt3-tf-sport-2026-33.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Racing Team Turkey by TF 2026",
       "carId": "GT3_Racing Team Turkey by TF 2026_34",
       "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00"],
-      "fileName": "gt3-racing-team-turkey-by-tf-2026-34.json"
+      "fileName": "gt3-racing-team-turkey-by-tf-2026-34.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Z06GT3R Custom Team 2026",
       "carId": "GT3_Z06GT3R Custom Team 2026_397",
       "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00"],
-      "fileName": "gt3-z06gt3r-custom-team-2026-397.json"
+      "fileName": "gt3-z06gt3r-custom-team-2026-397.json",
+      "_schemaVersion": "v2.0.0"
     }
   ]
 }

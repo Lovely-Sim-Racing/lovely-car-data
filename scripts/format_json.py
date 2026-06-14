@@ -7,6 +7,8 @@ def format_car_profile(data):
     ordered_data = {}
     
     version = data.get("_schemaVersion", "v2.0.0")
+    if "_schemaVersion" in data:
+        ordered_data["_schemaVersion"] = version
     
     for k in original_key_order:
         if k in data:
@@ -52,7 +54,7 @@ def format_car_profile(data):
         else:
             return f'{newline}{spaces}"{key_name}": {compressed}'
         
-    json_str = re.sub(r'(^|\n)(\s*)"(__COMMENT_)?([R|N|1|2|3|4|5|6|7|8])":\s*\[([^\]]*)\]', lambda m: compress_rpm(m), json_str)
+    json_str = re.sub(r'(^|\n)(\s*)"(__COMMENT_)?([RN1-9])":\s*\[([^\]]*)\]', lambda m: compress_rpm(m), json_str)
     
     # Compress generator objects back to single lines
     def compress_generator(match):
@@ -63,7 +65,7 @@ def format_car_profile(data):
         compressed_inner = re.sub(r'\s+', ' ', inner).strip()
         return f'{newline}{spaces}"{key_name}": {{ {compressed_inner} }}'
         
-    json_str = re.sub(r'(^|\n)(\s*)"([R|N|1|2|3|4|5|6|7|8])":\s*\{\s*([^}]*?)\s*\}', lambda m: compress_generator(m), json_str)
+    json_str = re.sub(r'(^|\n)(\s*)"([RN1-9])":\s*\{\s*([^}]*?)\s*\}', lambda m: compress_generator(m), json_str)
     
     # Strip any illegal trailing commas caused by converting properties to comments at the end of objects
     json_str = re.sub(r',(\s*(?://[^\n]*\s*)*\})', r'\1', json_str)
@@ -78,7 +80,7 @@ if __name__ == "__main__":
     def load_jsonc_data(filepath):
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
-        content = re.sub(r'\s*//.*$', '', content, flags=re.MULTILINE)
+        content = re.sub(r'("(?:\\"|[^"])*")|//.*', lambda m: m.group(1) if m.group(1) else '', content)
         return json.loads(content)
 
     for arg in sys.argv[1:]:

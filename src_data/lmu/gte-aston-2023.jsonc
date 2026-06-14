@@ -22,42 +22,50 @@
     {
       "carName": "D'station Racing",
       "carId": "D'station Racing",
-      "fileName": "d-station-racing.json"
+      "fileName": "d-station-racing.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GMB Motorsport",
       "carId": "GMB Motorsport",
-      "fileName": "gmb-motorsport.json"
+      "fileName": "gmb-motorsport.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GTE_AMV Custom Team 2023",
       "carId": "GTE_AMV Custom Team 2023",
-      "fileName": "gte-amv-custom-team-2023.json"
+      "fileName": "gte-amv-custom-team-2023.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GTE_Northwest AMR",
       "carId": "GTE_Northwest AMR",
-      "fileName": "gte-northwest-amr.json"
+      "fileName": "gte-northwest-amr.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Northwest AMR",
       "carId": "Northwest AMR",
-      "fileName": "northwest-amr.json"
+      "fileName": "northwest-amr.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "ORT by TF",
       "carId": "ORT by TF",
-      "fileName": "ort-by-tf.json"
+      "fileName": "ort-by-tf.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "TF Sport",
       "carId": "TF Sport",
-      "fileName": "tf-sport.json"
+      "fileName": "tf-sport.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "The Heart of Racing",
       "carId": "The Heart of Racing",
-      "fileName": "the-heart-of-racing.json"
+      "fileName": "the-heart-of-racing.json",
+      "_schemaVersion": "v2.0.0"
     }
   ]
 }

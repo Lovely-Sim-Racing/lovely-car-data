@@ -22,37 +22,44 @@
     {
       "carName": "GT3_Mustang Custom Team 2024",
       "carId": "GT3_Mustang Custom Team 2024",
-      "fileName": "gt3-mustang-custom-team-2024.json"
+      "fileName": "gt3-mustang-custom-team-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Mustang Custom Team 2025",
       "carId": "GT3_Mustang Custom Team 2025",
-      "fileName": "gt3-mustang-custom-team-2025.json"
+      "fileName": "gt3-mustang-custom-team-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Proton Competition 2025",
       "carId": "GT3_Proton Competition 2025",
-      "fileName": "gt3-proton-competition-2025.json"
+      "fileName": "gt3-proton-competition-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Proton Racing 2024",
       "carId": "GT3_Proton Racing 2024",
-      "fileName": "gt3-proton-racing-2024.json"
+      "fileName": "gt3-proton-racing-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Proton Competition 2026",
       "carId": "GT3_Proton Competition 2026_77",
-      "fileName": "gt3-proton-competition-2026-77.json"
+      "fileName": "gt3-proton-competition-2026-77.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Proton Competition 2026",
       "carId": "GT3_Proton Competition 2026_88",
-      "fileName": "gt3-proton-competition-2026-88.json"
+      "fileName": "gt3-proton-competition-2026-88.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Mustang Custom Team 2026",
       "carId": "GT3_Mustang Custom Team 2026_397",
-      "fileName": "gt3-mustang-custom-team-2026-397.json"
+      "fileName": "gt3-mustang-custom-team-2026-397.json",
+      "_schemaVersion": "v2.0.0"
     }
   ]
 }

@@ -21,62 +21,74 @@
     {
       "carName": "AF Corse 2024",
       "carId": "AF Corse 2024",
-      "fileName": "af-corse-2024.json"
+      "fileName": "af-corse-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Ferrari AF Corse 2024",
       "carId": "Ferrari AF Corse 2024",
-      "fileName": "ferrari-af-corse-2024.json"
+      "fileName": "ferrari-af-corse-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Ferrari AF Corse",
       "carId": "Ferrari AF Corse",
-      "fileName": "ferrari-af-corse.json"
+      "fileName": "ferrari-af-corse.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_499P Custom Team 2023",
       "carId": "Hyper_499P Custom Team 2023",
-      "fileName": "hyper-499p-custom-team-2023.json"
+      "fileName": "hyper-499p-custom-team-2023.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_499P Custom Team 2024",
       "carId": "Hyper_499P Custom Team 2024",
-      "fileName": "hyper-499p-custom-team-2024.json"
+      "fileName": "hyper-499p-custom-team-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_499P Custom Team 2025",
       "carId": "Hyper_499P Custom Team 2025",
-      "fileName": "hyper-499p-custom-team-2025.json"
+      "fileName": "hyper-499p-custom-team-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_AF Corse 2025",
       "carId": "Hyper_AF Corse 2025",
-      "fileName": "hyper-af-corse-2025.json"
+      "fileName": "hyper-af-corse-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Ferrari AF Corse 2025",
       "carId": "Hyper_Ferrari AF Corse 2025",
-      "fileName": "hyper-ferrari-af-corse-2025.json"
+      "fileName": "hyper-ferrari-af-corse-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_AF Corse 2026",
       "carId": "Hyper_AF Corse 2026_83",
-      "fileName": "hyper-af-corse-2026-83.json"
+      "fileName": "hyper-af-corse-2026-83.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Ferrari AF Corse 2026",
       "carId": "Hyper_Ferrari AF Corse 2026_50",
-      "fileName": "hyper-ferrari-af-corse-2026-50.json"
+      "fileName": "hyper-ferrari-af-corse-2026-50.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Ferrari AF Corse 2026",
       "carId": "Hyper_Ferrari AF Corse 2026_51",
-      "fileName": "hyper-ferrari-af-corse-2026-51.json"
+      "fileName": "hyper-ferrari-af-corse-2026-51.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_499P Custom Team 2026",
       "carId": "Hyper_499P Custom Team 2026_397",
-      "fileName": "hyper-499p-custom-team-2026-397.json"
+      "fileName": "hyper-499p-custom-team-2026-397.json",
+      "_schemaVersion": "v2.0.0"
     }
   ]
 }

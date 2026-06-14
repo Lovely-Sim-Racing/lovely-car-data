@@ -21,67 +21,80 @@
     {
       "carName": "Hyper_Cadillac Hertz Team Jota 2025",
       "carId": "Hyper_Cadillac Hertz Team Jota 2025",
-      "fileName": "hyper-cadillac-hertz-team-jota-2025.json"
+      "fileName": "hyper-cadillac-hertz-team-jota-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Cadillac Whelen 2025",
       "carId": "Hyper_Cadillac Whelen 2025",
-      "fileName": "hyper-cadillac-whelen-2025.json"
+      "fileName": "hyper-cadillac-whelen-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Cadillac WTR 2025",
       "carId": "Hyper_Cadillac WTR 2025",
-      "fileName": "hyper-cadillac-wtr-2025.json"
+      "fileName": "hyper-cadillac-wtr-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_VLMDH Custom Team 2023",
       "carId": "Hyper_VLMDH Custom Team 2023",
-      "fileName": "hyper-vlmdh-custom-team-2023.json"
+      "fileName": "hyper-vlmdh-custom-team-2023.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_VLMDH Custom Team 2024",
       "carId": "Hyper_VLMDH Custom Team 2024",
-      "fileName": "hyper-vlmdh-custom-team-2024.json"
+      "fileName": "hyper-vlmdh-custom-team-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_VLMDH Custom Team 2025",
       "carId": "Hyper_VLMDH Custom Team 2025",
-      "fileName": "hyper-vlmdh-custom-team-2025.json"
+      "fileName": "hyper-vlmdh-custom-team-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Action Express Racing",
       "carId": "Action Express Racing",
-      "fileName": "action-express-racing.json"
+      "fileName": "action-express-racing.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Cadillac Racing 2024",
       "carId": "Cadillac Racing 2024",
-      "fileName": "cadillac-racing-2024.json"
+      "fileName": "cadillac-racing-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Cadillac Racing",
       "carId": "Cadillac Racing",
-      "fileName": "cadillac-racing.json"
+      "fileName": "cadillac-racing.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Whelen Cadillac Racing 2024",
       "carId": "Whelen Cadillac Racing 2024",
-      "fileName": "whelen-cadillac-racing-2024.json"
+      "fileName": "whelen-cadillac-racing-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Cadillac Hertz Team Jota 2026",
       "carId": "Hyper_Cadillac Hertz Team Jota 2026_12",
-      "fileName": "hyper-cadillac-hertz-team-jota-2026-12.json"
+      "fileName": "hyper-cadillac-hertz-team-jota-2026-12.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Cadillac Hertz Team Jota 2026",
       "carId": "Hyper_Cadillac Hertz Team Jota 2026_38",
-      "fileName": "hyper-cadillac-hertz-team-jota-2026-38.json"
+      "fileName": "hyper-cadillac-hertz-team-jota-2026-38.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_VLMDH Custom Team 2026",
       "carId": "Hyper_VLMDH Custom Team 2026_397",
-      "fileName": "hyper-vlmdh-custom-team-2026-397.json"
+      "fileName": "hyper-vlmdh-custom-team-2026-397.json",
+      "_schemaVersion": "v2.0.0"
     }
   ]
 }

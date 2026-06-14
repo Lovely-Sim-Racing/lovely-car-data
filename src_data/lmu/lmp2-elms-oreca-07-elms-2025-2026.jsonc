@@ -20,92 +20,110 @@
     {
       "carName": "AF Corse",
       "carId": "LMP2_ELMS_AF Corse",
-      "fileName": "lmp2-elms-af-corse.json"
+      "fileName": "lmp2-elms-af-corse.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Algarve Pro Racing",
       "carId": "LMP2_ELMS_Algarve Pro Racing",
-      "fileName": "lmp2-elms-algarve-pro-racing.json"
+      "fileName": "lmp2-elms-algarve-pro-racing.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Ao by TF",
       "carId": "LMP2_ELMS_AO by TF",
-      "fileName": "lmp2-elms-ao-by-tf.json"
+      "fileName": "lmp2-elms-ao-by-tf.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "CLX Motorsport",
       "carId": "LMP2_ELMS_CLX Motorsport",
-      "fileName": "lmp2-elms-clx-motorsport.json"
+      "fileName": "lmp2-elms-clx-motorsport.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "CLX - Pure Rxcing",
       "carId": "LMP2_ELMS_CLX - Pure Rxcing",
-      "fileName": "lmp2-elms-clx-pure-rxcing.json"
+      "fileName": "lmp2-elms-clx-pure-rxcing.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "DKR Engineering",
       "carId": "LMP2_ELMS_DKR Engineering",
-      "fileName": "lmp2-elms-dkr-engineering.json"
+      "fileName": "lmp2-elms-dkr-engineering.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Duqueine Team",
       "carId": "LMP2_ELMS_Duqueine Team",
-      "fileName": "lmp2-elms-duqueine-team.json"
+      "fileName": "lmp2-elms-duqueine-team.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "IDEC Sport",
       "carId": "LMP2_ELMS_IDEC Sport",
-      "fileName": "lmp2-elms-idec-sport.json"
+      "fileName": "lmp2-elms-idec-sport.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Inter Europol Competition",
       "carId": "LMP2_ELMS_Inter Europol Competition",
-      "fileName": "lmp2-elms-inter-europol-competition.json"
+      "fileName": "lmp2-elms-inter-europol-competition.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Iron Lynx - Proton",
       "carId": "LMP2_ELMS_Iron Lynx - Proton",
-      "fileName": "lmp2-elms-iron-lynx-proton.json"
+      "fileName": "lmp2-elms-iron-lynx-proton.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Nielsen Racing",
       "carId": "LMP2_ELMS_Nielsen Racing",
-      "fileName": "lmp2-elms-nielsen-racing.json"
+      "fileName": "lmp2-elms-nielsen-racing.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Oreca 07 Custom Team",
       "carId": "LMP2_ELMS_Oreca 07 ELMS Custom Team 2025",
-      "fileName": "lmp2-elms-oreca-07-elms-custom-team-2025.json"
+      "fileName": "lmp2-elms-oreca-07-elms-custom-team-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Proton Competition",
       "carId": "LMP2_ELMS_Proton Competition",
-      "fileName": "lmp2-elms-proton-competition.json"
+      "fileName": "lmp2-elms-proton-competition.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "TDS Racing",
       "carId": "LMP2_ELMS_TDS Racing",
-      "fileName": "lmp2-elms-tds-racing.json"
+      "fileName": "lmp2-elms-tds-racing.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "United Autosports",
       "carId": "LMP2_ELMS_United Autosports",
-      "fileName": "lmp2-elms-united-autosports.json"
+      "fileName": "lmp2-elms-united-autosports.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "VDS Panis Racing",
       "carId": "LMP2_ELMS_VDS Panis Racing",
-      "fileName": "lmp2-elms-vds-panis-racing.json"
+      "fileName": "lmp2-elms-vds-panis-racing.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Vector Sport",
       "carId": "LMP2_ELMS_Vector Sport",
-      "fileName": "lmp2-elms-vector-sport.json"
+      "fileName": "lmp2-elms-vector-sport.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Oreca 07 Custom Team 2026",
       "carId": "LMP2_ELMS_Oreca 07 ELMS Custom Team 2025_397 2026",
-      "fileName": "lmp2-elms-oreca-07-elms-custom-team-2026-397.json"
+      "fileName": "lmp2-elms-oreca-07-elms-custom-team-2026-397.json",
+      "_schemaVersion": "v2.0.0"
     }
   ]
 }

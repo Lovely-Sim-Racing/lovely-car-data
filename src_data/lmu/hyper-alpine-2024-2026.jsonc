@@ -20,37 +20,43 @@
       "carName": "Alpine Elf Team 2024",
       "carId": "Alpine Elf Team 2024",
       "carClass": "LMP2",
-      "fileName": "alpine-elf-team-2024.json"
+      "fileName": "alpine-elf-team-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Graff Racing 2024",
       "carId": "Graff Racing 2024",
       "carClass": "LMP2",
-      "fileName": "graff-racing-2024.json"
+      "fileName": "graff-racing-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "JOTA 2024",
       "carId": "JOTA 2024",
       "carClass": "LMP2",
-      "fileName": "jota-2024.json"
+      "fileName": "jota-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Racing Team Turkey 2024",
       "carId": "Racing Team Turkey 2024",
       "carClass": "LMP2",
-      "fileName": "racing-team-turkey-2024.json"
+      "fileName": "racing-team-turkey-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Racing Team Turkey",
       "carId": "Racing Team Turkey",
       "carClass": "LMP2",
-      "fileName": "racing-team-turkey.json"
+      "fileName": "racing-team-turkey.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Tower Motorsports 2024",
       "carId": "Tower Motorsports 2024",
       "carClass": "LMP2",
-      "fileName": "tower-motorsports-2024.json"
+      "fileName": "tower-motorsports-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Alpine Custom Team 2024",
@@ -71,7 +77,8 @@
           "8": [8750,7080,7240,7420,7580,7750,7920,8080,8260,8420,8580]
         }
       ],
-      "fileName": "hyper-alpine-custom-team-2024.json"
+      "fileName": "hyper-alpine-custom-team-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Alpine Custom Team 2025",
@@ -92,7 +99,8 @@
           "8": [8580,7080,7240,7420,7580,7750,7920,8080,8260,8420,8580]
         }
       ],
-      "fileName": "hyper-alpine-custom-team-2025.json"
+      "fileName": "hyper-alpine-custom-team-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Alpine Endurance Team 2025",
@@ -113,7 +121,8 @@
           "8": [8580,7080,7240,7420,7580,7750,7920,8080,8260,8420,8580]
         }
       ],
-      "fileName": "hyper-alpine-endurance-team-2025.json"
+      "fileName": "hyper-alpine-endurance-team-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Alpine Endurance Team 2024",
@@ -134,7 +143,8 @@
           "8": [8580,7080,7240,7420,7580,7750,7920,8080,8260,8420,8580]
         }
       ],
-      "fileName": "alpine-endurance-team-2024.json"
+      "fileName": "alpine-endurance-team-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Alpine Endurance Team 2026",
@@ -155,7 +165,8 @@
           "8": [8580,7080,7240,7420,7580,7750,7920,8080,8260,8420,8580]
         }
       ],
-      "fileName": "hyper-alpine-endurance-team-2026-35.json"
+      "fileName": "hyper-alpine-endurance-team-2026-35.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Alpine Endurance Team 2026",
@@ -176,7 +187,8 @@
           "8": [8580,7080,7240,7420,7580,7750,7920,8080,8260,8420,8580]
         }
       ],
-      "fileName": "hyper-alpine-endurance-team-2026-36.json"
+      "fileName": "hyper-alpine-endurance-team-2026-36.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_Alpine Custom Team 2026",
@@ -197,7 +209,8 @@
           "8": [8580,7080,7240,7420,7580,7750,7920,8080,8260,8420,8580]
         }
       ],
-      "fileName": "hyper-alpine-custom-team-2026-397.json"
+      "fileName": "hyper-alpine-custom-team-2026-397.json",
+      "_schemaVersion": "v2.0.0"
     }
   ]
 }

@@ -22,27 +22,32 @@
     {
       "carName": "AF Corse GTE",
       "carId": "AF Corse GTE",
-      "fileName": "af-corse-gte.json"
+      "fileName": "af-corse-gte.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GTE_488GTE Custom Team 2023",
       "carId": "GTE_488GTE Custom Team 2023",
-      "fileName": "gte-488gte-custom-team-2023.json"
+      "fileName": "gte-488gte-custom-team-2023.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "JMW Motorsport",
       "carId": "JMW Motorsport",
-      "fileName": "jmw-motorsport.json"
+      "fileName": "jmw-motorsport.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Kessel Racing",
       "carId": "Kessel Racing",
-      "fileName": "kessel-racing.json"
+      "fileName": "kessel-racing.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Walkenhorst Motorsport",
       "carId": "Walkenhorst Motorsport",
-      "fileName": "walkenhorst-motorsport.json"
+      "fileName": "walkenhorst-motorsport.json",
+      "_schemaVersion": "v2.0.0"
     }
   ]
 }

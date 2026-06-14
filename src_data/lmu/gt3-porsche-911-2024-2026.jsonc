@@ -22,57 +22,68 @@
     {
       "carName": "GT3_911GT3R Custom Team 2024",
       "carId": "GT3_911GT3R Custom Team 2024",
-      "fileName": "gt3-911gt3r-custom-team-2024.json"
+      "fileName": "gt3-911gt3r-custom-team-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_911GT3R Custom Team 2025",
       "carId": "GT3_911GT3R Custom Team 2025",
-      "fileName": "gt3-911gt3r-custom-team-2025.json"
+      "fileName": "gt3-911gt3r-custom-team-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Iron Dames 2025",
       "carId": "GT3_Iron Dames 2025",
-      "fileName": "gt3-iron-dames-2025.json"
+      "fileName": "gt3-iron-dames-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Manthey 1st Phorm 2025",
       "carId": "GT3_Manthey 1st Phorm 2025",
-      "fileName": "gt3-manthey-1st-phorm-2025.json"
+      "fileName": "gt3-manthey-1st-phorm-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Manthey 2025",
       "carId": "GT3_Manthey 2025",
-      "fileName": "gt3-manthey-2025.json"
+      "fileName": "gt3-manthey-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Manthey Ema 2024",
       "carId": "GT3_Manthey Ema 2024",
-      "fileName": "gt3-manthey-ema-2024.json"
+      "fileName": "gt3-manthey-ema-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Manthey PureRxcing 2024",
       "carId": "GT3_Manthey PureRxcing 2024",
-      "fileName": "gt3-manthey-purerxcing-2024.json"
+      "fileName": "gt3-manthey-purerxcing-2024.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Proton Competition #60",
       "carId": "GT3_Proton Competition 2025_60",
-      "fileName": "gt3-proton-competition-2025-60.json"
+      "fileName": "gt3-proton-competition-2025-60.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_Manthey DK Engineering 2026",
       "carId": "GT3_Manthey DK Engineering 2026_91",
-      "fileName": "gt3-manthey-dk-engineering-2026-91.json"
+      "fileName": "gt3-manthey-dk-engineering-2026-91.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_The Bend Manthey 2026",
       "carId": "GT3_The Bend Manthey 2026_92",
-      "fileName": "gt3-the-bend-manthey-2026-92.json"
+      "fileName": "gt3-the-bend-manthey-2026-92.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "GT3_911GT3R Custom Team 2026",
       "carId": "GT3_911GT3R Custom Team 2026_397",
-      "fileName": "gt3-911gt3r-custom-team-2026-397.json"
+      "fileName": "gt3-911gt3r-custom-team-2026-397.json",
+      "_schemaVersion": "v2.0.0"
     }
   ]
 }

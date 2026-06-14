@@ -22,27 +22,32 @@
     {
       "carName": "Hyper_BMW M Team WRT 2025",
       "carId": "Hyper_BMW M Team WRT 2025",
-      "fileName": "hyper-bmw-m-team-wrt-2025.json"
+      "fileName": "hyper-bmw-m-team-wrt-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_BMWMH Custom Team 2025",
       "carId": "Hyper_BMWMH Custom Team 2025",
-      "fileName": "hyper-bmwmh-custom-team-2025.json"
+      "fileName": "hyper-bmwmh-custom-team-2025.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_BMW M Team WRT 2026",
       "carId": "Hyper_BMW M Team WRT 2026_15",
-      "fileName": "hyper-bmw-m-team-wrt-2026-15.json"
+      "fileName": "hyper-bmw-m-team-wrt-2026-15.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_BMW M Team WRT 2026",
       "carId": "Hyper_BMW M Team WRT 2026_20",
-      "fileName": "hyper-bmw-m-team-wrt-2026-20.json"
+      "fileName": "hyper-bmw-m-team-wrt-2026-20.json",
+      "_schemaVersion": "v2.0.0"
     },
     {
       "carName": "Hyper_BMWMH Custom Team 2026",
       "carId": "Hyper_BMWMH Custom Team 2026_397",
-      "fileName": "hyper-bmwmh-custom-team-2026-397.json"
+      "fileName": "hyper-bmwmh-custom-team-2026-397.json",
+      "_schemaVersion": "v2.0.0"
     }
   ]
 }
