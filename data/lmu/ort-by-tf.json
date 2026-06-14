@@ -1,7 +1,7 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "ORT by TF",
-  "carId": "ORT by TF",
+  "carName": "GTE_ORT by TF",
+  "carId": "GTE_ORT by TF",
   "carClass": "GTE",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,

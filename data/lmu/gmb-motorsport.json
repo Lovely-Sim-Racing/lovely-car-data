@@ -1,7 +1,7 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "GMB Motorsport",
-  "carId": "GMB Motorsport",
+  "carName": "GTE_GMB Motorsport",
+  "carId": "GTE_GMB Motorsport",
   "carClass": "GTE",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,

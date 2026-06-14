@@ -1,7 +1,7 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "Iron Lynx",
-  "carId": "Iron Lynx",
+  "carName": "GTE_Iron Lynx",
+  "carId": "GTE_Iron Lynx",
   "carClass": "GTE",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,

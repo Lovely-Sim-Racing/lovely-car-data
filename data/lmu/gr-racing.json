@@ -1,7 +1,7 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "GR Racing",
-  "carId": "GR Racing",
+  "carName": "GTE_GR Racing",
+  "carId": "GTE_GR Racing",
   "carClass": "GTE",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,

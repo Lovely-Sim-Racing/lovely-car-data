@@ -1,7 +1,7 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "AF Corse GTE",
-  "carId": "AF Corse GTE",
+  "carName": "GTE_AF Corse",
+  "carId": "GTE_AF Corse",
   "carClass": "GTE",
   "ledNumber": 6,
   "redlineBlinkInterval": 0,

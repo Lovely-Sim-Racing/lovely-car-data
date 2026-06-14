@@ -1,7 +1,7 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "JMW Motorsport",
-  "carId": "JMW Motorsport",
+  "carName": "GTE_JMW Motorsport",
+  "carId": "GTE_JMW Motorsport",
   "carClass": "GTE",
   "ledNumber": 6,
   "redlineBlinkInterval": 0,

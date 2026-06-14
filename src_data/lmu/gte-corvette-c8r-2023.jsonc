@@ -20,8 +20,8 @@
   ],
   "variants": [
     {
-      "carName": "Corvette Racing",
-      "carId": "Corvette Racing",
+      "carName": "GTE_Corvette Racing",
+      "carId": "GTE_Corvette Racing",
       "fileName": "corvette-racing.json"
     },
     {

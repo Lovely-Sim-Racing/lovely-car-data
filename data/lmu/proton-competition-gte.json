@@ -1,7 +1,7 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "Proton Competition GTE",
-  "carId": "Proton Competition GTE",
+  "carName": "GTE_Proton Competition",
+  "carId": "GTE_Proton Competition",
   "carClass": "GTE",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,

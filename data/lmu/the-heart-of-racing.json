@@ -1,7 +1,7 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "The Heart of Racing",
-  "carId": "The Heart of Racing",
+  "carName": "GTE_The Heart of Racing",
+  "carId": "GTE_The Heart of Racing",
   "carClass": "GTE",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,

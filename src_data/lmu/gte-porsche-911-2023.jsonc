@@ -20,13 +20,13 @@
   ],
   "variants": [
     {
-      "carName": "Dempsey-Proton Racing",
-      "carId": "Dempsey-Proton Racing",
+      "carName": "GTE_Dempsey-Proton Racing",
+      "carId": "GTE_Dempsey-Proton Racing",
       "fileName": "dempsey-proton-racing.json"
     },
     {
-      "carName": "GR Racing",
-      "carId": "GR Racing",
+      "carName": "GTE_GR Racing",
+      "carId": "GTE_GR Racing",
       "fileName": "gr-racing.json"
     },
     {
@@ -35,23 +35,23 @@
       "fileName": "gte-911gte-custom-team-2023.json"
     },
     {
-      "carName": "Iron Dames",
-      "carId": "Iron Dames",
+      "carName": "GTE_Iron Dames",
+      "carId": "GTE_Iron Dames",
       "fileName": "iron-dames.json"
     },
     {
-      "carName": "Iron Lynx",
-      "carId": "Iron Lynx",
+      "carName": "GTE_Iron Lynx",
+      "carId": "GTE_Iron Lynx",
       "fileName": "iron-lynx.json"
     },
     {
-      "carName": "Project 1 - AO",
-      "carId": "Project 1 - AO",
+      "carName": "GTE_Project 1 - AO",
+      "carId": "GTE_Project 1 - AO",
       "fileName": "project-1-ao.json"
     },
     {
-      "carName": "Proton Competition GTE",
-      "carId": "Proton Competition GTE",
+      "carName": "GTE_Proton Competition",
+      "carId": "GTE_Proton Competition",
       "fileName": "proton-competition-gte.json"
     }
   ]
