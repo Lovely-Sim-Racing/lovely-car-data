@@ -43,6 +43,16 @@
       "carName": "Hyper_BMWMH Custom Team 2026",
       "carId": "Hyper_BMWMH Custom Team 2026_397",
       "fileName": "hyper-bmwmh-custom-team-2026-397.json"
+    },
+    {
+      "carName": "BMW M Team WRT 2024",
+      "carId": "BMW M Team WRT 2024",
+      "fileName": "bmw-m-team-wrt-2024.json"
+    },
+    {
+      "carName": "Hyper_BMWMH Custom Team 2024",
+      "carId": "Hyper_BMWMH Custom Team 2024",
+      "fileName": "hyper-bmwmh-custom-team-2024.json"
     }
   ]
 }
