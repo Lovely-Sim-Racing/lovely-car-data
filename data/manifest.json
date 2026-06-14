@@ -2671,6 +2671,11 @@
         "path": "lmu/hyper-bmwmh-custom-team-2025-397.json"
       },
       {
+        "carName": "Hyper_BMWMH Custom Team 2025",
+        "carId": "Hyper_BMWMH Custom Team 2025",
+        "path": "lmu/hyper-bmwmh-custom-team-2025.json"
+      },
+      {
         "carName": "Hyper_BMWMH Custom Team 2026",
         "carId": "Hyper_BMWMH Custom Team 2026_397",
         "path": "lmu/hyper-bmwmh-custom-team-2026-397.json"
@@ -2719,6 +2724,11 @@
         "carName": "Hyper_Genesis Custom Team 2026",
         "carId": "Hyper_Genesis Custom Team 2026_397",
         "path": "lmu/hyper-genesis-custom-team-2026-397.json"
+      },
+      {
+        "carName": "Hyper_Genesis Custom Team 2026",
+        "carId": "Hyper_Genesis Custom Team 2026",
+        "path": "lmu/hyper-genesis-custom-team-2026.json"
       },
       {
         "carName": "Hyper_Genesis Magma Racing 2026",
@@ -3014,6 +3024,11 @@
         "carName": "Oreca 07 Custom Team",
         "carId": "LMP2_ELMS_Oreca 07 ELMS Custom Team 2025_397",
         "path": "lmu/lmp2-elms-oreca-07-elms-custom-team-2025-397.json"
+      },
+      {
+        "carName": "Oreca 07 Custom Team",
+        "carId": "LMP2_ELMS_Oreca 07 ELMS Custom Team 2025",
+        "path": "lmu/lmp2-elms-oreca-07-elms-custom-team-2025.json"
       },
       {
         "carName": "Oreca 07 Custom Team 2026",

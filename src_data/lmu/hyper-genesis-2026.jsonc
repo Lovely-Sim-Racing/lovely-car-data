@@ -19,8 +19,8 @@
   "variants": [
     {
       "carName": "Hyper_Genesis Custom Team 2026",
-      "carId": "Hyper_Genesis Custom Team 2026_397",
-      "fileName": "hyper-genesis-custom-team-2026-397.json",
+      "carId": "Hyper_Genesis Custom Team 2026",
+      "fileName": "hyper-genesis-custom-team-2026.json",
       "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000"]
     },
     {
@@ -34,6 +34,12 @@
       "carId": "Hyper_Genesis Magma Racing 2026_19",
       "fileName": "hyper-genesis-magma-racing-2026-19.json",
       "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000"]
+    },
+    {
+      "carName": "Hyper_Genesis Custom Team 2026",
+      "carId": "Hyper_Genesis Custom Team 2026",
+      "fileName": "hyper-genesis-custom-team-2026.json",
+      "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF0000FF","#FF0000FF","#FF0000FF","#FFFFFF00","#FFFF0000"]
     },
     {
       "carName": "Hyper_Genesis Custom Team 2026",
