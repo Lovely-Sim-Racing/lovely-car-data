@@ -12,7 +12,7 @@ def check_file_schema(filepath: Path) -> list[str]:
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
-        content = re.sub(r'^\s*//.*$', '', content, flags=re.MULTILINE)
+        content = re.sub(r'("(?:\\"|[^"])*")|//.*', lambda m: m.group(1) if m.group(1) else '', content)
         data = json.loads(content)
             
         version = data.get("_schemaVersion", "v2.0.0")
@@ -29,14 +29,20 @@ def check_file_schema(filepath: Path) -> list[str]:
                 errors.append(f"{filepath}: 'redlineBlinkInterval' must be a single integer in v2.0.0.")
 
             if "ledColor" in data:
+                expected_len = data.get("ledNumber", 0) + 1
+                if len(data["ledColor"]) != expected_len:
+                    errors.append(f"{filepath}: 'ledColor' length ({len(data['ledColor'])}) does not match ledNumber + 1 ({expected_len}).")
                 for c in data["ledColor"]:
                     if not isinstance(c, str) or not c.startswith("#"):
                         errors.append(f"{filepath}: 'ledColor' contains non-hex value '{c}' in v2.0.0.")
 
             if "ledRpm" in data and isinstance(data["ledRpm"], list):
+                expected_len = data.get("ledNumber", 0) + 1
                 for gear_map in data["ledRpm"]:
                     for gear, rpms in gear_map.items():
                         if isinstance(rpms, list):
+                            if len(rpms) != expected_len:
+                                errors.append(f"{filepath}: 'ledRpm' gear '{gear}' length ({len(rpms)}) does not match ledNumber + 1 ({expected_len}).")
                             for val in rpms:
                                 if isinstance(val, str) and "-" in val and not val.startswith("-"):
                                     errors.append(f"{filepath}: 'ledRpm' contains unsupported string range '{val}' in v2.0.0.")
