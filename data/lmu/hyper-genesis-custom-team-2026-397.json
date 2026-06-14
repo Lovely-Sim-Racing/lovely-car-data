@@ -4,7 +4,7 @@
   "carClass": "HYP",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
-  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000"],
+  "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF0000FF","#FF0000FF","#FF0000FF","#FFFFFF00","#FFFF0000"],
   "ledRpm": [
     {
       "R": [8175,6925,6925,7125,7125,7425,7425,7675,7675,7925,7925],
