@@ -4,7 +4,7 @@
   "carClass": "FVEE",
   "ledNumber": 5,
   "redlineBlinkInterval": 0,
-  "ledColor": ["#00000000","#FF000000","#FF000000","#FF000000","#FF000000","#FF000000"],
+  "ledColor": ["#00000000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000"],
   "ledRpm": [
     {
       "R": [6800,6000,6200,6400,6600,6800],
