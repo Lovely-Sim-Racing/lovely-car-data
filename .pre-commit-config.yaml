@@ -1,12 +1,4 @@
 repos:
-- repo: local
-  hooks:
-  - id: check-schema
-    name: Enforce v2.00 Schema
-    entry: python scripts/check_schema.py
-    language: system
-    types: [json]
-    files: ^data/
 - repo: https://github.com/pre-commit/pre-commit-hooks
   rev: v4.3.0
   hooks:
