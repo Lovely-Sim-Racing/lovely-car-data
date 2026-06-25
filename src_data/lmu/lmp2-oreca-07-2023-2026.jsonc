@@ -3,53 +3,17 @@
   "carClass": "LMP2",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
-  "ledColor": [
-    "#FF0000FF",
-    "#FF00FF00",
-    "#FF00FF00",
-    "#FF00FF00",
-    "#FF00FF00",
-    "#FF00FF00",
-    "#FF00FF00",
-    "#FFFFFF00",
-    "#FFFFFF00",
-    "#FF0000FF",
-    "#FF0000FF"
-  ],
+  "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FF0000FF","#FF0000FF"],
   "ledRpm": [
     {
-      "R": {
-        "redline": 7745,
-        "step": 96
-      },
-      "N": {
-        "redline": 7745,
-        "step": 96
-      },
-      "1": {
-        "redline": 7745,
-        "step": 96
-      },
-      "2": {
-        "redline": 7750,
-        "step": 123
-      },
-      "3": {
-        "redline": 7764,
-        "step": 140
-      },
-      "4": {
-        "redline": 7740,
-        "step": 130
-      },
-      "5": {
-        "redline": 7740,
-        "step": 130
-      },
-      "6": {
-        "redline": 7740,
-        "step": 130
-      }
+      "R": { "redline": 7745, "step": 96 },
+      "N": { "redline": 7745, "step": 96 },
+      "1": { "redline": 7745, "step": 96 },
+      "2": { "redline": 7750, "step": 123 },
+      "3": { "redline": 7764, "step": 140 },
+      "4": { "redline": 7740, "step": 130 },
+      "5": { "redline": 7740, "step": 130 },
+      "6": { "redline": 7740, "step": 130 }
     }
   ],
   "variants": [
