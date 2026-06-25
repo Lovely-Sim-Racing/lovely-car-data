@@ -20,13 +20,13 @@
   ],
   "variants": [
     {
-      "carName": "Corvette Racing",
-      "carId": "Corvette Racing",
+      "carName": "GTE_Corvette Racing",
+      "carId": "GTE_Corvette Racing",
       "fileName": "corvette-racing.json"
     },
     {
-      "carName": "C8RGTE Custom Team 2023",
-      "carId": "C8RGTE Custom Team 2023",
+      "carName": "GTE_C8RGTE Custom Team 2023",
+      "carId": "GTE_C8RGTE Custom Team 2023",
       "fileName": "gte-c8rgte-custom-team-2023.json"
     }
   ]
