@@ -1,7 +1,7 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "GTE_Kessel Racing",
-  "carId": "GTE_Kessel Racing",
+  "carName": "Kessel Racing",
+  "carId": "Kessel Racing",
   "carClass": "GTE",
   "ledNumber": 6,
   "redlineBlinkInterval": 0,

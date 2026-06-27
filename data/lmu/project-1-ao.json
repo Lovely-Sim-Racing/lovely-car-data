@@ -1,7 +1,7 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "GTE_Project 1 - AO",
-  "carId": "GTE_Project 1 - AO",
+  "carName": "Project 1 - AO",
+  "carId": "Project 1 - AO",
   "carClass": "GTE",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,

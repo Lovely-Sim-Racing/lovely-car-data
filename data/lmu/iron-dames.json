@@ -1,7 +1,7 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "GTE_Iron Dames",
-  "carId": "GTE_Iron Dames",
+  "carName": "Iron Dames",
+  "carId": "Iron Dames",
   "carClass": "GTE",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
