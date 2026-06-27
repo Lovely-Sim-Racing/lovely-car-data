@@ -18,6 +18,11 @@
   ],
   "variants": [
     {
+      "carName": "Oreca 07",
+      "carId": "Oreca 07",
+      "fileName": "oreca-07.json"
+    },
+    {
       "carName": "AF Corse",
       "carId": "AF Corse",
       "fileName": "af-corse.json"

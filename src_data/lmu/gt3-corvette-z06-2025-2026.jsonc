@@ -20,6 +20,11 @@
   ],
   "variants": [
     {
+      "carName": "Chevrolet Corvette Z06 LMGT3.",
+      "carId": "Chevrolet Corvette Z06 LMGT3.",
+      "fileName": "chevrolet-corvette-z06-lmgt3.json"
+    },
+    {
       "carName": "GT3_AWA Racing 2025",
       "carId": "GT3_AWA Racing 2025",
       "fileName": "gt3-awa-racing-2025.json"

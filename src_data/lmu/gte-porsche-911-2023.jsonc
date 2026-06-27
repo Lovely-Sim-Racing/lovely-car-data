@@ -20,6 +20,11 @@
   ],
   "variants": [
     {
+      "carName": "Porsche 911 RSR-19",
+      "carId": "Porsche 911 RSR-19",
+      "fileName": "porsche-911-rsr-19.json"
+    },
+    {
       "carName": "Dempsey-Proton Racing",
       "carId": "Dempsey-Proton Racing",
       "fileName": "dempsey-proton-racing.json"

@@ -20,6 +20,11 @@
   ],
   "variants": [
     {
+      "carName": "Corvette C8.R GTE",
+      "carId": "Corvette C8.R GTE",
+      "fileName": "corvette-c8-r-gte.json"
+    },
+    {
       "carName": "Corvette Racing",
       "carId": "Corvette Racing",
       "fileName": "corvette-racing.json"

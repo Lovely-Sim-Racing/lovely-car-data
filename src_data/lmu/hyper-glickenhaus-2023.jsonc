@@ -20,6 +20,11 @@
   ],
   "variants": [
     {
+      "carName": "Glickenhaus SCG007",
+      "carId": "Glickenhaus SCG007",
+      "fileName": "glickenhaus-scg007.json"
+    },
+    {
       "carName": "Glickenhaus Racing",
       "carId": "Glickenhaus Racing",
       "fileName": "glickenhaus-racing.json"

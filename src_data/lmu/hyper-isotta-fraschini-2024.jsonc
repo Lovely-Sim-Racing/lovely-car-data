@@ -20,6 +20,11 @@
   ],
   "variants": [
     {
+      "carName": "Isotta Fraschini TIPO6",
+      "carId": "Isotta Fraschini TIPO6",
+      "fileName": "isotta-fraschini-tipo6.json"
+    },
+    {
       "carName": "Hyper_Isotta Fraschini Custom Team 2024",
       "carId": "Hyper_Isotta Fraschini Custom Team 2024",
       "fileName": "hyper-isotta-fraschini-custom-team-2024.json"

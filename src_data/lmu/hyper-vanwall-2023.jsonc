@@ -20,6 +20,11 @@
   ],
   "variants": [
     {
+      "carName": "Vanwall 680",
+      "carId": "Vanwall 680",
+      "fileName": "vanwall-680.json"
+    },
+    {
       "carName": "Floyd Vanwall Racing Team",
       "carId": "Floyd Vanwall Racing Team",
       "fileName": "floyd-vanwall-racing-team.json"

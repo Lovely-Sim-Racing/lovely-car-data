@@ -20,6 +20,11 @@
   ],
   "variants": [
     {
+      "carName": "Ferrari 296 LMGT3 Evo",
+      "carId": "Ferrari 296 LMGT3 Evo",
+      "fileName": "ferrari-296-lmgt3-evo.json"
+    },
+    {
       "carName": "GR Racing 2024",
       "carId": "GR Racing 2024",
       "fileName": "gr-racing-2024.json"

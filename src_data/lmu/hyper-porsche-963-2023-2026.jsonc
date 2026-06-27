@@ -19,6 +19,11 @@
   ],
   "variants": [
     {
+      "carName": "Porsche 963",
+      "carId": "Porsche 963",
+      "fileName": "porsche-963.json"
+    },
+    {
       "carName": "Hyper_Porsche 963 Custom Team 2023",
       "carId": "Hyper_Porsche 963 Custom Team 2023",
       "fileName": "hyper-porsche-963-custom-team-2023.json"

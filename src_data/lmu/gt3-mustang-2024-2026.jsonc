@@ -20,6 +20,11 @@
   ],
   "variants": [
     {
+      "carName": "Ford Mustang LMGT3",
+      "carId": "Ford Mustang LMGT3",
+      "fileName": "ford-mustang-lmgt3.json"
+    },
+    {
       "carName": "GT3_Mustang Custom Team 2024",
       "carId": "GT3_Mustang Custom Team 2024",
       "fileName": "gt3-mustang-custom-team-2024.json"

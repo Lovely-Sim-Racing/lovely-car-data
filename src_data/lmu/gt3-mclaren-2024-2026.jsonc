@@ -20,6 +20,11 @@
   ],
   "variants": [
     {
+      "carName": "McLaren 720S LMGT3 Evo",
+      "carId": "McLaren 720S LMGT3 Evo",
+      "fileName": "mclaren-720s-lmgt3-evo.json"
+    },
+    {
       "carName": "McLaren 720S GT3",
       "carId": "GT3_Logitech G Challenge_1",
       "fileName": "gt3-logitech-g-challenge-1.json"

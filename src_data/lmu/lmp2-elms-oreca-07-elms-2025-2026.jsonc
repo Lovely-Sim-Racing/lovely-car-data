@@ -18,6 +18,11 @@
   ],
   "variants": [
     {
+      "carName": "Oreca 07 ELMS",
+      "carId": "Oreca 07 ELMS",
+      "fileName": "oreca-07-elms.json"
+    },
+    {
       "carName": "AF Corse",
       "carId": "LMP2_ELMS_AF Corse",
       "fileName": "lmp2-elms-af-corse.json"

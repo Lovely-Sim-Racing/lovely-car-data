@@ -20,6 +20,11 @@
   ],
   "variants": [
     {
+      "carName": "BMW M Hybrid V8",
+      "carId": "BMW M Hybrid V8",
+      "fileName": "bmw-m-hybrid-v8.json"
+    },
+    {
       "carName": "Hyper_BMW M Team WRT 2025",
       "carId": "Hyper_BMW M Team WRT 2025",
       "fileName": "hyper-bmw-m-team-wrt-2025.json"

@@ -19,6 +19,11 @@
   ],
   "variants": [
     {
+      "carName": "Cadillac V-Series.R",
+      "carId": "Cadillac V-Series.R",
+      "fileName": "cadillac-v-series-r.json"
+    },
+    {
       "carName": "Hyper_Cadillac Hertz Team Jota 2025",
       "carId": "Hyper_Cadillac Hertz Team Jota 2025",
       "fileName": "hyper-cadillac-hertz-team-jota-2025.json"

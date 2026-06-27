@@ -19,6 +19,11 @@
   ],
   "variants": [
     {
+      "carName": "Ferrari 499P",
+      "carId": "Ferrari 499P",
+      "fileName": "ferrari-499p.json"
+    },
+    {
       "carName": "AF Corse 2024",
       "carId": "AF Corse 2024",
       "fileName": "af-corse-2024.json"

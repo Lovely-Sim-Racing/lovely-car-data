@@ -18,6 +18,11 @@
   ],
   "variants": [
     {
+      "carName": "Mercedes-AMG LMGT3",
+      "carId": "Mercedes-AMG LMGT3",
+      "fileName": "mercedes-amg-lmgt3.json"
+    },
+    {
       "carName": "Mercedes AMG LMGT3",
       "carId": "GT3_Iron Lynx 2025",
       "fileName": "gt3-iron-lynx-2025.json"
@@ -26,6 +31,16 @@
       "carName": "Mercedes AMG LMGT3",
       "carId": "GT3_Mercedes AMG Custom Team 2025",
       "fileName": "gt3-mercedes-amg-custom-team-2025.json"
+    },
+    {
+      "carName": "Mercedes AMG LMGT3 2026",
+      "carId": "GT3_Iron Lynx 2026_61",
+      "fileName": "gt3-iron-lynx-2026-61.json"
+    },
+	{
+      "carName": "Mercedes AMG LMGT3 2026",
+      "carId": "GT3_Iron Lynx 2026_79",
+      "fileName": "gt3-iron-lynx-2026-79.json"
     },
     {
       "carName": "Mercedes AMG LMGT3 2026",

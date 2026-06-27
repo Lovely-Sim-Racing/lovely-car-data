@@ -20,6 +20,16 @@
   ],
   "variants": [
     {
+      "carName": "Toyota GR010",
+      "carId": "Toyota GR010",
+      "fileName": "toyota-gr010.json"
+    },
+	{
+      "carName": "Toyota TR010",
+      "carId": "Toyota TR010",
+      "fileName": "toyota-tr010.json"
+    },
+    {
       "carName": "Toyota Gazoo Racing",
       "carId": "Hyper_Toyota Gazoo Racing 2025",
       "fileName": "hyper-toyota-gazoo-racing-2025.json"
@@ -61,8 +71,8 @@
     },
     {
       "carName": "Toyota Gazoo Racing 2026",
-      "carId": "Hyper_Toyota GR010 Custom Team 2026_397",
-      "fileName": "hyper-toyota-gr010-custom-team-2026-397.json"
+      "carId": "Hyper_Toyota TR010 Custom Team 2026_397",
+      "fileName": "hyper-toyota-tr010-custom-team-2026-397.json"
     }
   ]
 }

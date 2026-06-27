@@ -3,7 +3,7 @@
   "carClass": "HYP",
   "ledNumber": 10,
   "redlineBlinkInterval": 100,
-  "ledColor": ["#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF"],
+  "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF"],
   "ledRpm": [
     {
       "R": [8150,7320,7375,7525,7675,7825,7825,7975,7975,7975,7975],
@@ -19,6 +19,11 @@
     }
   ],
   "variants": [
+    {
+      "carName": "Peugeot 9x8",
+      "carId": "Peugeot 9x8",
+      "fileName": "peugeot-9x8.json"
+    },
     {
       "carName": "Hyper_9x8 Wing Custom Team 2025",
       "carId": "Hyper_9x8 Wing Custom Team 2025",

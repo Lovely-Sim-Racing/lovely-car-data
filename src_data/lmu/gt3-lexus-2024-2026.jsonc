@@ -20,6 +20,11 @@
   ],
   "variants": [
     {
+      "carName": "Lexus RCF LMGT3",
+      "carId": "Lexus RCF LMGT3",
+      "fileName": "lexus-rcf-lmgt3.json"
+    },
+    {
       "carName": "GT3_Akkodis ASP Team 2024",
       "carId": "GT3_Akkodis ASP Team 2024",
       "fileName": "gt3-akkodis-asp-team-2024.json"

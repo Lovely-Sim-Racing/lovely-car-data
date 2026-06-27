@@ -20,6 +20,11 @@
   ],
   "variants": [
     {
+      "carName": "Aston Martin Vantage AMR",
+      "carId": "Aston Martin Vantage AMR",
+      "fileName": "aston-martin-vantage-amr.json"
+    },
+    {
       "carName": "D'station Racing",
       "carId": "D'station Racing",
       "fileName": "d-station-racing.json"

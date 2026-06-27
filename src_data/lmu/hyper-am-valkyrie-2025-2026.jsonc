@@ -19,6 +19,12 @@
   ],
   "variants": [
     {
+      "carName": "Aston Martin Valkyrie LMH",
+      "carId": "Aston Martin Valkyrie LMH",
+      "carClass": "HYP",
+      "fileName": "aston-martin-valkyrie-lmh.json"
+    },
+    {
       "carName": "AM Valkyrie Custom Team 2025",
       "carId": "Hyper_AM Valkyrie Custom Team 2025",
       "carClass": "HYP",

@@ -20,8 +20,13 @@
   ],
   "variants": [
     {
-      "carName": "AF Corse GTE",
-      "carId": "AF Corse GTE",
+      "carName": "Ferrari 488 GTE EVO",
+      "carId": "Ferrari 488 GTE EVO",
+      "fileName": "ferrari-488-gte-evo.json"
+    },
+    {
+      "carName": "AF Corse",
+      "carId": "AF Corse",
       "fileName": "af-corse-gte.json"
     },
     {

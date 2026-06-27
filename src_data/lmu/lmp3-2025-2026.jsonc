@@ -3,7 +3,7 @@
   "carClass": "LMP3",
   "ledNumber": 10,
   "redlineBlinkInterval": 100,
-  "ledColor": ["#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FF0080FF","#FF0080FF","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],
+  "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FF0080FF","#FF0080FF","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],
   "ledRpm": [
     {
       "R": [6545,6060,6060,6180,6300,6420,6420,6300,6180,6060,6060],
@@ -17,6 +17,26 @@
     }
   ],
   "variants": [
+    {
+      "carName": "ADESS AD25 LMP3",
+      "carId": "ADESS AD25 LMP3",
+      "fileName": "adess-ad25-lmp3.json"
+    },
+	{
+      "carName": "Duqueine D09 P3",
+      "carId": "Duqueine D09 P3",
+      "fileName": "duqueine-d09-p3.json"
+    },
+	{
+      "carName": "Ginetta G61-LT-P325 Evo",
+      "carId": "Ginetta G61-LT-P325 Evo",
+      "fileName": "ginetta-g61-lt-p325-evo.json"
+    },
+	{
+      "carName": "Ligier JS P325",
+      "carId": "Ligier JS P325",
+      "fileName": "ligier-js-p325.json"
+    },
     {
       "carName": "LMP3 Team Virage",
       "carId": "LMP3_Team Virage",

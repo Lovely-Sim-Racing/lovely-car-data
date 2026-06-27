@@ -19,6 +19,12 @@
   ],
   "variants": [
     {
+      "carName": "Lamborghini Huracan LMGT3 Evo",
+      "carId": "Lamborghini Huracan LMGT3 Evo",
+      "carClass": "GT3",
+      "fileName": "lamborghini-huracan-lmgt3-evo.json"
+    },
+    {
       "carName": "GT3_Huracan Custom Team 2024",
       "carId": "GT3_Huracan Custom Team 2024",
       "carClass": "GT3",

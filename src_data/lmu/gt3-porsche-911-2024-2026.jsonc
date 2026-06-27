@@ -20,6 +20,11 @@
   ],
   "variants": [
     {
+      "carName": "Porsche 911 GT3 R LMGT3",
+      "carId": "Porsche 911 GT3 R LMGT3",
+      "fileName": "porsche-911-gt3-r-lmgt3.json"
+    },
+    {
       "carName": "GT3_911GT3R Custom Team 2024",
       "carId": "GT3_911GT3R Custom Team 2024",
       "fileName": "gt3-911gt3r-custom-team-2024.json"

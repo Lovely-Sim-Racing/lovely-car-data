@@ -19,6 +19,11 @@
   ],
   "variants": [
     {
+      "carName": "Lamborghini SC63",
+      "carId": "Lamborghini SC63",
+      "fileName": "lamborghini-sc63.json"
+    },
+    {
       "carName": "Hyper_SC63 Custom Team 2024",
       "carId": "Hyper_SC63 Custom Team 2024",
       "fileName": "hyper-sc63-custom-team-2024.json"

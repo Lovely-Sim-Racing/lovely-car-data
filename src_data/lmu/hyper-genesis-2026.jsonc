@@ -19,6 +19,11 @@
   ],
   "variants": [
     {
+      "carName": "Genesis GMR001",
+      "carId": "Genesis GMR001",
+      "fileName": "genesis-gmr001.json"
+    },
+    {
       "carName": "Hyper_Genesis Custom Team 2026",
       "carId": "Hyper_Genesis Custom Team 2026",
       "fileName": "hyper-genesis-custom-team-2026.json"
