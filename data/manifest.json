@@ -1901,13 +1901,18 @@
         "path": "lmu/action-express-racing.json"
       },
       {
+        "carName": "ADESS AD25 LMP3",
+        "carId": "ADESS AD25 LMP3",
+        "path": "lmu/adess-ad25-lmp3.json"
+      },
+      {
         "carName": "AF Corse 2024",
         "carId": "AF Corse 2024",
         "path": "lmu/af-corse-2024.json"
       },
       {
-        "carName": "AF Corse GTE",
-        "carId": "AF Corse GTE",
+        "carName": "AF Corse",
+        "carId": "AF Corse",
         "path": "lmu/af-corse-gte.json"
       },
       {
@@ -1924,6 +1929,11 @@
         "carName": "Algarve Pro Racing",
         "carId": "Algarve Pro Racing",
         "path": "lmu/algarve-pro-racing.json"
+      },
+      {
+        "carName": "Alpine A424",
+        "carId": "Alpine A424",
+        "path": "lmu/alpine-a424.json"
       },
       {
         "carName": "Alpine Elf Team 2024",
@@ -1946,9 +1956,29 @@
         "path": "lmu/ao-by-tf-2024.json"
       },
       {
+        "carName": "Aston Martin Valkyrie LMH",
+        "carId": "Aston Martin Valkyrie LMH",
+        "path": "lmu/aston-martin-valkyrie-lmh.json"
+      },
+      {
+        "carName": "Aston Martin Vantage AMR",
+        "carId": "Aston Martin Vantage AMR",
+        "path": "lmu/aston-martin-vantage-amr.json"
+      },
+      {
+        "carName": "BMW M Hybrid V8",
+        "carId": "BMW M Hybrid V8",
+        "path": "lmu/bmw-m-hybrid-v8.json"
+      },
+      {
         "carName": "BMW M Team WRT 2024",
         "carId": "BMW M Team WRT 2024",
         "path": "lmu/bmw-m-team-wrt-2024.json"
+      },
+      {
+        "carName": "BMW M4 LMGT3",
+        "carId": "BMW M4 LMGT3",
+        "path": "lmu/bmw-m4-lmgt3.json"
       },
       {
         "carName": "Cadillac Racing 2024",
@@ -1961,6 +1991,16 @@
         "path": "lmu/cadillac-racing.json"
       },
       {
+        "carName": "Cadillac V-Series.R",
+        "carId": "Cadillac V-Series.R",
+        "path": "lmu/cadillac-v-series-r.json"
+      },
+      {
+        "carName": "Chevrolet Corvette Z06 LMGT3.",
+        "carId": "Chevrolet Corvette Z06 LMGT3.",
+        "path": "lmu/chevrolet-corvette-z06-lmgt3.json"
+      },
+      {
         "carName": "Cool Racing 2024",
         "carId": "Cool Racing 2024",
         "path": "lmu/cool-racing-2024.json"
@@ -1969,6 +2009,11 @@
         "carName": "Cool Racing",
         "carId": "Cool Racing",
         "path": "lmu/cool-racing.json"
+      },
+      {
+        "carName": "Corvette C8.R GTE",
+        "carId": "Corvette C8.R GTE",
+        "path": "lmu/corvette-c8-r-gte.json"
       },
       {
         "carName": "Corvette Racing",
@@ -2001,6 +2046,11 @@
         "path": "lmu/dkr-engineering.json"
       },
       {
+        "carName": "Duqueine D09 P3",
+        "carId": "Duqueine D09 P3",
+        "path": "lmu/duqueine-d09-p3.json"
+      },
+      {
         "carName": "Duqueine Team 2024",
         "carId": "Duqueine Team 2024",
         "path": "lmu/duqueine-team-2024.json"
@@ -2009,6 +2059,21 @@
         "carName": "Duqueine Team",
         "carId": "Duqueine Team",
         "path": "lmu/duqueine-team.json"
+      },
+      {
+        "carName": "Ferrari 296 LMGT3 Evo",
+        "carId": "Ferrari 296 LMGT3 Evo",
+        "path": "lmu/ferrari-296-lmgt3-evo.json"
+      },
+      {
+        "carName": "Ferrari 488 GTE EVO",
+        "carId": "Ferrari 488 GTE EVO",
+        "path": "lmu/ferrari-488-gte-evo.json"
+      },
+      {
+        "carName": "Ferrari 499P",
+        "carId": "Ferrari 499P",
+        "path": "lmu/ferrari-499p.json"
       },
       {
         "carName": "Ferrari AF Corse 2024",
@@ -2026,9 +2091,29 @@
         "path": "lmu/floyd-vanwall-racing-team.json"
       },
       {
+        "carName": "Ford Mustang LMGT3",
+        "carId": "Ford Mustang LMGT3",
+        "path": "lmu/ford-mustang-lmgt3.json"
+      },
+      {
+        "carName": "Genesis GMR001",
+        "carId": "Genesis GMR001",
+        "path": "lmu/genesis-gmr001.json"
+      },
+      {
+        "carName": "Ginetta G61-LT-P325 Evo",
+        "carId": "Ginetta G61-LT-P325 Evo",
+        "path": "lmu/ginetta-g61-lt-p325-evo.json"
+      },
+      {
         "carName": "Glickenhaus Racing",
         "carId": "Glickenhaus Racing",
         "path": "lmu/glickenhaus-racing.json"
+      },
+      {
+        "carName": "Glickenhaus SCG007",
+        "carId": "Glickenhaus SCG007",
+        "path": "lmu/glickenhaus-scg007.json"
       },
       {
         "carName": "GMB Motorsport",
@@ -2216,12 +2301,12 @@
         "path": "lmu/gt3-iron-lynx-2025.json"
       },
       {
-        "carName": "GT3_Iron Lynx 2026",
+        "carName": "Mercedes AMG LMGT3 2026",
         "carId": "GT3_Iron Lynx 2026_61",
         "path": "lmu/gt3-iron-lynx-2026-61.json"
       },
       {
-        "carName": "GT3_Iron Lynx 2026",
+        "carName": "Mercedes AMG LMGT3 2026",
         "carId": "GT3_Iron Lynx 2026_79",
         "path": "lmu/gt3-iron-lynx-2026-79.json"
       },
@@ -2667,11 +2752,6 @@
       },
       {
         "carName": "Hyper_BMWMH Custom Team 2025",
-        "carId": "Hyper_BMWMH Custom Team 2025_397",
-        "path": "lmu/hyper-bmwmh-custom-team-2025-397.json"
-      },
-      {
-        "carName": "Hyper_BMWMH Custom Team 2025",
         "carId": "Hyper_BMWMH Custom Team 2025",
         "path": "lmu/hyper-bmwmh-custom-team-2025.json"
       },
@@ -2841,6 +2921,11 @@
         "path": "lmu/hyper-toyota-racing-2026-8.json"
       },
       {
+        "carName": "Toyota Gazoo Racing 2026",
+        "carId": "Hyper_Toyota TR010 Custom Team 2026_397",
+        "path": "lmu/hyper-toyota-tr010-custom-team-2026-397.json"
+      },
+      {
         "carName": "Hyper_Vanwall Custom Team 2023",
         "carId": "Hyper_Vanwall Custom Team 2023",
         "path": "lmu/hyper-vanwall-custom-team-2023.json"
@@ -2901,6 +2986,11 @@
         "path": "lmu/iron-lynx.json"
       },
       {
+        "carName": "Isotta Fraschini TIPO6",
+        "carId": "Isotta Fraschini TIPO6",
+        "path": "lmu/isotta-fraschini-tipo6.json"
+      },
+      {
         "carName": "Isotta TIPO6 2024",
         "carId": "Isotta TIPO6 2024",
         "path": "lmu/isotta-tipo6-2024.json"
@@ -2931,9 +3021,29 @@
         "path": "lmu/kessel-racing.json"
       },
       {
+        "carName": "Lamborghini Huracan LMGT3 Evo",
+        "carId": "Lamborghini Huracan LMGT3 Evo",
+        "path": "lmu/lamborghini-huracan-lmgt3-evo.json"
+      },
+      {
         "carName": "Lamborghini Iron Lynx 2024",
         "carId": "Lamborghini Iron Lynx 2024",
         "path": "lmu/lamborghini-iron-lynx-2024.json"
+      },
+      {
+        "carName": "Lamborghini SC63",
+        "carId": "Lamborghini SC63",
+        "path": "lmu/lamborghini-sc63.json"
+      },
+      {
+        "carName": "Lexus RCF LMGT3",
+        "carId": "Lexus RCF LMGT3",
+        "path": "lmu/lexus-rcf-lmgt3.json"
+      },
+      {
+        "carName": "Ligier JS P325",
+        "carId": "Ligier JS P325",
+        "path": "lmu/ligier-js-p325.json"
       },
       {
         "carName": "LMP2_AF Corse 2024",
@@ -3241,6 +3351,16 @@
         "path": "lmu/lmp3-wtm-by-rinaldi-racing-2025-12.json"
       },
       {
+        "carName": "McLaren 720S LMGT3 Evo",
+        "carId": "McLaren 720S LMGT3 Evo",
+        "path": "lmu/mclaren-720s-lmgt3-evo.json"
+      },
+      {
+        "carName": "Mercedes-AMG LMGT3",
+        "carId": "Mercedes-AMG LMGT3",
+        "path": "lmu/mercedes-amg-lmgt3.json"
+      },
+      {
         "carName": "Nielsen Racing 2024",
         "carId": "Nielsen Racing 2024",
         "path": "lmu/nielsen-racing-2024.json"
@@ -3256,6 +3376,16 @@
         "path": "lmu/northwest-amr.json"
       },
       {
+        "carName": "Oreca 07 ELMS",
+        "carId": "Oreca 07 ELMS",
+        "path": "lmu/oreca-07-elms.json"
+      },
+      {
+        "carName": "Oreca 07",
+        "carId": "Oreca 07",
+        "path": "lmu/oreca-07.json"
+      },
+      {
         "carName": "ORT by TF",
         "carId": "ORT by TF",
         "path": "lmu/ort-by-tf.json"
@@ -3269,6 +3399,11 @@
         "carName": "Panis Racing",
         "carId": "Panis Racing",
         "path": "lmu/panis-racing.json"
+      },
+      {
+        "carName": "Peugeot 9x8",
+        "carId": "Peugeot 9x8",
+        "path": "lmu/peugeot-9x8.json"
       },
       {
         "carName": "Peugeot Sport 2024",
@@ -3289,6 +3424,21 @@
         "carName": "Peugeot TotalEnergies",
         "carId": "Peugeot TotalEnergies",
         "path": "lmu/peugeot-totalenergies.json"
+      },
+      {
+        "carName": "Porsche 911 GT3 R LMGT3",
+        "carId": "Porsche 911 GT3 R LMGT3",
+        "path": "lmu/porsche-911-gt3-r-lmgt3.json"
+      },
+      {
+        "carName": "Porsche 911 RSR-19",
+        "carId": "Porsche 911 RSR-19",
+        "path": "lmu/porsche-911-rsr-19.json"
+      },
+      {
+        "carName": "Porsche 963",
+        "carId": "Porsche 963",
+        "path": "lmu/porsche-963.json"
       },
       {
         "carName": "Porsche Penske Motorsport 2024",
@@ -3386,6 +3536,16 @@
         "path": "lmu/toyota-gazoo-racing.json"
       },
       {
+        "carName": "Toyota GR010",
+        "carId": "Toyota GR010",
+        "path": "lmu/toyota-gr010.json"
+      },
+      {
+        "carName": "Toyota TR010",
+        "carId": "Toyota TR010",
+        "path": "lmu/toyota-tr010.json"
+      },
+      {
         "carName": "United Autosports 2024",
         "carId": "United Autosports 2024",
         "path": "lmu/united-autosports-2024.json"
@@ -3399,6 +3559,11 @@
         "carName": "United Autosports",
         "carId": "United Autosports",
         "path": "lmu/united-autosports.json"
+      },
+      {
+        "carName": "Vanwall 680",
+        "carId": "Vanwall 680",
+        "path": "lmu/vanwall-680.json"
       },
       {
         "carName": "Vector Sport 2024",
