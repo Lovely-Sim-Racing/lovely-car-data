@@ -1,1 +1,4 @@
 .DS_Store
+.local_checks.ps1
+__pycache__/
+*.py[cod]

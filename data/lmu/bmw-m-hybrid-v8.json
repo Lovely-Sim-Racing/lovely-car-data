@@ -1,6 +1,7 @@
 {
-  "carName": "Hyper_BMWMH Custom Team 2025",
-  "carId": "Hyper_BMWMH Custom Team 2025_397",
+  "_schemaVersion": "v2.0.0",
+  "carName": "BMW M Hybrid V8",
+  "carId": "BMW M Hybrid V8",
   "carClass": "HYP",
   "ledNumber": 15,
   "redlineBlinkInterval": 0,

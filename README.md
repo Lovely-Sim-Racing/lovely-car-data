@@ -157,6 +157,15 @@ check json...............................................................Passed
 pretty format json.......................................................Passed
 ```
 
+### 4. LMU Data Generation Workflow
+For the Le Mans Ultimate (LMU) profiles, we use a DRY templating engine to avoid duplicating identical LED configurations across dozens of cars in the same class.
+
+Instead of editing `data/lmu/*.json` directly, you should edit the base templates in `src_data/lmu/`:
+1. Make your changes to the templates or car entries in `src_data/lmu/`.
+2. Run `python scripts/check_schema.py` to validate your changes against the `v2.0.0` schema.
+3. Run `python scripts/build_profiles.py` to generate the final `data/lmu/*.json` profiles.
+4. Commit both the `src_data` changes and the generated `data/lmu` changes.
+
 ---
 
 © 2025 by [Lovely Sim Racing](https://lsr.gg) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

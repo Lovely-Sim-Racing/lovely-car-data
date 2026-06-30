@@ -1,0 +1,87 @@
+{
+  "_schemaVersion": "v2.0.0",
+  "carClass": "HYP",
+  "ledNumber": 10,
+  "redlineBlinkInterval": 100,
+  "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],
+  "ledRpm": [
+    {
+      "R": [7700,6774,6960,7146,7332,7518,7518,7332,7146,6960,6774],
+      "N": [7700,6774,6960,7146,7332,7518,7518,7332,7146,6960,6774],
+      "1": [7700,6774,6960,7146,7332,7518,7518,7332,7146,6960,6774],
+      "2": [7700,6774,6960,7146,7332,7518,7518,7332,7146,6960,6774],
+      "3": [7700,6774,6960,7146,7332,7518,7518,7332,7146,6960,6774],
+      "4": [7700,6774,6960,7146,7332,7518,7518,7332,7146,6960,6774],
+      "5": [7700,6774,6960,7146,7332,7518,7518,7332,7146,6960,6774],
+      "6": [7700,6774,6960,7146,7332,7518,7518,7332,7146,6960,6774],
+      "7": [7700,6774,6960,7146,7332,7518,7518,7332,7146,6960,6774]
+    }
+  ],
+  "variants": [
+    {
+      "carName": "Porsche 963",
+      "carId": "Porsche 963",
+      "fileName": "porsche-963.json"
+    },
+    {
+      "carName": "Hyper_Porsche 963 Custom Team 2023",
+      "carId": "Hyper_Porsche 963 Custom Team 2023",
+      "fileName": "hyper-porsche-963-custom-team-2023.json"
+    },
+    {
+      "carName": "Hyper_Porsche 963 Custom Team 2024",
+      "carId": "Hyper_Porsche 963 Custom Team 2024",
+      "fileName": "hyper-porsche-963-custom-team-2024.json"
+    },
+    {
+      "carName": "Hertz Team Jota 2024",
+      "carId": "Hertz Team Jota 2024",
+      "fileName": "hertz-team-jota-2024.json"
+    },
+    {
+      "carName": "Hertz Team Jota",
+      "carId": "Hertz Team Jota",
+      "fileName": "hertz-team-jota.json"
+    },
+    {
+      "carName": "Porsche Penske Motorsport 2024",
+      "carId": "Porsche Penske Motorsport 2024",
+      "fileName": "porsche-penske-motorsport-2024.json"
+    },
+    {
+      "carName": "Porsche Penske Motorsport",
+      "carId": "Porsche Penske Motorsport",
+      "fileName": "porsche-penske-motorsport.json"
+    },
+    {
+      "carName": "Proton Competition 2024",
+      "carId": "Proton Competition 2024",
+      "fileName": "proton-competition-2024.json"
+    },
+    {
+      "carName": "Proton Competition",
+      "carId": "Proton Competition",
+      "fileName": "proton-competition.json"
+    },
+    {
+      "carName": "Hyper_Porsche 963 Custom Team 2026",
+      "carId": "Hyper_Porsche 963 Custom Team 2026",
+      "fileName": "hyper-porsche-963-custom-team-2026.json"
+    },
+    {
+      "carName": "Hyper_Porsche 963 Custom Team 2025",
+      "carId": "Hyper_Porsche 963 Custom Team 2025",
+      "fileName": "hyper-porsche-963-custom-team-2025.json"
+    },
+    {
+      "carName": "Hyper_Porsche Penske Motorsport 2025",
+      "carId": "Hyper_Porsche Penske Motorsport 2025",
+      "fileName": "hyper-porsche-penske-motorsport-2025.json"
+    },
+    {
+      "carName": "Hyper_Proton Competition 2025",
+      "carId": "Hyper_Proton Competition 2025",
+      "fileName": "hyper-proton-competition-2025.json"
+    }
+  ]
+}
