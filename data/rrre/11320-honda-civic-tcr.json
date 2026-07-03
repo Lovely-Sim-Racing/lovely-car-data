@@ -6,16 +6,16 @@
   "redlineBlinkInterval": 250,
   "ledColor": [
     "#00000000",
-    "green",
-    "green",
-    "green",
-    "yellow",
-    "red",
-    "red",
-    "yellow",
-    "green",
-    "green",
-    "green"
+    "#FF00FF00",
+    "#FF00FF00",
+    "#FF00FF00",
+    "#FFFFFF00",
+    "#FFFF0000",
+    "#FFFF0000",
+    "#FFFFFF00",
+    "#FF00FF00",
+    "#FF00FF00",
+    "#FF00FF00"
   ],
   "ledRpm": [
     {

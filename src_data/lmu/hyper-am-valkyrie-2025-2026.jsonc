@@ -1,0 +1,58 @@
+{
+  "_schemaVersion": "v2.0.0",
+  "ledNumber": 10,
+  "redlineBlinkInterval": 0,
+  "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF0000FF"],
+  "ledRpm": [
+    {
+      "R": [8080,7440,7440,7600,7600,7760,7760,7920,7920,8080,8080],
+      "N": [8080,7440,7440,7600,7600,7760,7760,7920,7920,8080,8080],
+      "1": [8080,7440,7440,7600,7600,7760,7760,7920,7920,8080,8080],
+      "2": [8080,7440,7440,7600,7600,7760,7760,7920,7920,8080,8080],
+      "3": [8080,7440,7440,7600,7600,7760,7760,7920,7920,8080,8080],
+      "4": [8080,7440,7440,7600,7600,7760,7760,7920,7920,8080,8080],
+      "5": [8080,7440,7440,7600,7600,7760,7760,7920,7920,8080,8080],
+      "6": [8080,7440,7440,7600,7600,7760,7760,7920,7920,8080,8080],
+      "7": [8080,7440,7440,7600,7600,7760,7760,7920,7920,8080,8080],
+      "8": [8080,7440,7440,7600,7600,7760,7760,7920,7920,8080,8080]
+    }
+  ],
+  "variants": [
+    {
+      "carName": "Aston Martin Valkyrie LMH",
+      "carId": "Aston Martin Valkyrie LMH",
+      "carClass": "HYP",
+      "fileName": "aston-martin-valkyrie-lmh.json"
+    },
+    {
+      "carName": "AM Valkyrie Custom Team 2025",
+      "carId": "Hyper_AM Valkyrie Custom Team 2025",
+      "carClass": "HYP",
+      "fileName": "hyper-am-valkyrie-custom-team-2025.json"
+    },
+    {
+      "carName": "Aston Martin THOR Team 2025",
+      "carId": "Hyper_Aston Martin THOR Team 2025",
+      "carClass": "HYP",
+      "fileName": "hyper-aston-martin-thor-team-2025.json"
+    },
+    {
+      "carName": "Hyper_Aston Martin THOR Team 2026",
+      "carId": "Hyper_Aston Martin THOR Team 2026_007",
+      "carClass": "HYP",
+      "fileName": "hyper-aston-martin-thor-team-2026-007.json"
+    },
+    {
+      "carName": "Hyper_Aston Martin THOR Team 2026",
+      "carId": "Hyper_Aston Martin THOR Team 2026_009",
+      "carClass": "HYP",
+      "fileName": "hyper-aston-martin-thor-team-2026-009.json"
+    },
+    {
+      "carName": "AM Valkyrie Custom Team 2026",
+      "carId": "Hyper_AM Valkyrie Custom Team 2026",
+      "carClass": "HYP 2026",
+      "fileName": "hyper-am-valkyrie-custom-team-2026.json"
+    }
+  ]
+}
