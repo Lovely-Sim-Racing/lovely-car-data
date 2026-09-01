@@ -424,7 +424,7 @@
       },
       {
         "carName": "Aston Martin Vantage GTE",
-        "carId": "aston_martin_vantage_gte",
+        "carId": "Aston Martin Vantage GTE",
         "path": "automobilista2/aston-martin-vantage-gte.json"
       },
       {
@@ -436,6 +436,16 @@
         "carName": "Audi R8 LMS GT3 evo II",
         "carId": "Audi R8 LMS GT3 evo II",
         "path": "automobilista2/audi-r8-lms-gt3-evo-ii.json"
+      },
+      {
+        "carName": "Audi R8 LMS GT3",
+        "carId": "Audi R8 LMS GT3 - Low Downforce",
+        "path": "automobilista2/audi-r8-lms-gt3-low-downforce.json"
+      },
+      {
+        "carName": "Audi R8 LMS GT3",
+        "carId": "Audi R8 LMS GT3",
+        "path": "automobilista2/audi-r8-lms-gt3.json"
       },
       {
         "carName": "Audi R8 LMS GT4",
@@ -479,7 +489,7 @@
       },
       {
         "carName": "BMW M8 GTE",
-        "carId": "bmw_m8_gte",
+        "carId": "BMW M8 GTE",
         "path": "automobilista2/bmw-m8-gte.json"
       },
       {
@@ -506,6 +516,16 @@
         "carName": "Chevrolet Camaro GT4.R",
         "carId": "Chevrolet Camaro GT4.R",
         "path": "automobilista2/chevrolet-camaro-gt4-r.json"
+      },
+      {
+        "carName": "Chevrolet Corvette C8.R",
+        "carId": "Chevrolet Corvette C8.R - Low Downforce",
+        "path": "automobilista2/chevrolet-corvette-c8-r-low-downforce.json"
+      },
+      {
+        "carName": "Chevrolet Corvette C8.R",
+        "carId": "Chevrolet Corvette C8.R",
+        "path": "automobilista2/chevrolet-corvette-c8-r.json"
       },
       {
         "carName": "Chevrolet Corvette C8.R",
@@ -778,6 +798,26 @@
         "path": "automobilista2/ligier-js2-r.json"
       },
       {
+        "carName": "Lola B05/40 Turbo - Low Downforce",
+        "carId": "Lola B05/40 Turbo - Low Downforce",
+        "path": "automobilista2/lola-b05-40-turbo-low-downforce.json"
+      },
+      {
+        "carName": "Lola B05/40 Turbo",
+        "carId": "Lola B05/40 Turbo",
+        "path": "automobilista2/lola-b05-40-turbo.json"
+      },
+      {
+        "carName": "Lola B05/40 V8",
+        "carId": "Lola B05/40 V8 - Low Downforce",
+        "path": "automobilista2/lola-b05-40-v8-low-downforce.json"
+      },
+      {
+        "carName": "Lola B05/40 V8",
+        "carId": "Lola B05/40 V8",
+        "path": "automobilista2/lola-b05-40-v8.json"
+      },
+      {
         "carName": "Lola B2K00 Ford-Cosworth",
         "carId": "lola_b2k00_ford-cosworth",
         "path": "automobilista2/lola-b2k00-ford-cosworth.json"
@@ -813,6 +853,16 @@
         "path": "automobilista2/mclaren-720s-gt3-evo.json"
       },
       {
+        "carName": "McLaren 720S GT3",
+        "carId": "McLaren 720S GT3 - Low Downforce",
+        "path": "automobilista2/mclaren-720s-gt3-low-downforce.json"
+      },
+      {
+        "carName": "McLaren 720S GT3",
+        "carId": "McLaren 720S GT3",
+        "path": "automobilista2/mclaren-720s-gt3.json"
+      },
+      {
         "carName": "McLaren F1 GTR",
         "carId": "mclaren_f1_gtr",
         "path": "automobilista2/mclaren-f1-gtr.json"
@@ -836,6 +886,16 @@
         "carName": "Mercedes-AMG GT3 Evo",
         "carId": "Mercedes-AMG GT3 Evo",
         "path": "automobilista2/mercedes-amg-gt3-evo.json"
+      },
+      {
+        "carName": "Mercedes-AMG GT3",
+        "carId": "Mercedes-AMG GT3 - Low Downforce",
+        "path": "automobilista2/mercedes-amg-gt3-low-downforce.json"
+      },
+      {
+        "carName": "Mercedes-AMG GT3",
+        "carId": "Mercedes-AMG GT3",
+        "path": "automobilista2/mercedes-amg-gt3.json"
       },
       {
         "carName": "Mercedes-AMG GT4",
@@ -914,6 +974,16 @@
       },
       {
         "carName": "Nissan GT-R Nismo GT3",
+        "carId": "Nissan GT-R Nismo GT3 - Low Downforce",
+        "path": "automobilista2/nissan-gt-r-nismo-gt3-low-downforce.json"
+      },
+      {
+        "carName": "Nissan GT-R Nismo GT3",
+        "carId": "Nissan GT-R Nismo GT3",
+        "path": "automobilista2/nissan-gt-r-nismo-gt3.json"
+      },
+      {
+        "carName": "Nissan GT-R Nismo GT3",
         "carId": "nissan_gtr_nismo_gt3",
         "path": "automobilista2/nissan-gtr-nismo-gt3.json"
       },
@@ -939,7 +1009,12 @@
       },
       {
         "carName": "Porsche 911 GT3 R",
-        "carId": "porsche_911_gt3_r",
+        "carId": "Porsche 911 GT3 R - Low Downforce",
+        "path": "automobilista2/porsche-911-gt3-r-low-downforce.json"
+      },
+      {
+        "carName": "Porsche 911 GT3 R",
+        "carId": "Porsche 911 GT3 R",
         "path": "automobilista2/porsche-911-gt3-r.json"
       },
       {
@@ -949,7 +1024,7 @@
       },
       {
         "carName": "Porsche 911 RSR GTE",
-        "carId": "porsche_911_rsr_gte",
+        "carId": "Porsche 911 RSR GTE",
         "path": "automobilista2/porsche-911-rsr-gte.json"
       },
       {
@@ -1514,6 +1589,11 @@
         "path": "iracing/amvantagegt4.json"
       },
       {
+        "carName": "Aston Martin DBR9 GT1",
+        "carId": "astonmartin dbr9",
+        "path": "iracing/astonmartin-dbr9.json"
+      },
+      {
         "carName": "Audi R18",
         "carId": "audir18",
         "path": "iracing/audir18.json"
@@ -1567,6 +1647,11 @@
         "carName": "BMW M8 GTE",
         "carId": "bmwm8gte",
         "path": "iracing/bmwm8gte.json"
+      },
+      {
+        "carName": "Chevrolet Corvette C6.R GT1",
+        "carId": "c6r",
+        "path": "iracing/c6r.json"
       },
       {
         "carName": "Corvette C8 GTE",
@@ -2069,6 +2154,11 @@
         "carName": "Ferrari 296 LMGT3 Evo",
         "carId": "Ferrari 296 LMGT3 Evo",
         "path": "lmu/ferrari-296-lmgt3-evo.json"
+      },
+      {
+        "carName": "Ferrari 296 LMGT3",
+        "carId": "Ferrari 296 LMGT3",
+        "path": "lmu/ferrari-296-lmgt3.json"
       },
       {
         "carName": "Ferrari 488 GTE EVO",

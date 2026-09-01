@@ -24,6 +24,11 @@
       "carId": "Ferrari 296 LMGT3 Evo",
       "fileName": "ferrari-296-lmgt3-evo.json"
     },
+	{
+      "carName": "Ferrari 296 LMGT3",
+      "carId": "Ferrari 296 LMGT3",
+      "fileName": "ferrari-296-lmgt3.json"
+    },
     {
       "carName": "GR Racing 2024",
       "carId": "GR Racing 2024",
