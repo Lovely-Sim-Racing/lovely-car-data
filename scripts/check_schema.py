@@ -63,11 +63,13 @@ def check_file_schema(filepath: Path) -> list[str]:
 
 def main():
     parser = argparse.ArgumentParser(description="Enforce v2.00 schema compliance.")
-    parser.add_argument("files", nargs="*", type=Path, help="JSON files to validate")
+    parser.add_argument("files", nargs="*", type=Path, help="JSON files or directories to validate")
     args = parser.parse_args()
 
+    inputs = args.files or [Path(__file__).resolve().parent.parent / "data"]
+    files = [file for path in inputs for file in (sorted(path.rglob("*.json")) if path.is_dir() else [path])]
     has_errors = False
-    for f in args.files:
+    for f in files:
         errors = check_file_schema(f)
         if errors:
             has_errors = True
