@@ -19,6 +19,11 @@
     }
   ],
   "variants": [
+	{
+      "carName": "Aston Martin Vantage AMR LMGT",
+      "carId": "Aston Martin Vantage AMR LMGT",
+      "fileName": "aston-martin-vantage-amr-lmgt.json"
+    },
     {
       "carName": "Aston Martin Vantage AMR LMGT",
       "carId": "Aston Martin Vantage AMR LMGT",
