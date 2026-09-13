@@ -1579,6 +1579,11 @@
         "path": "iracing/acuransxevo22gt3.json"
       },
       {
+        "carName": "Aston Martin Valkyrie GTP",
+        "carId": "amvalkyriegtp",
+        "path": "iracing/amvalkyriegtp.json"
+      },
+      {
         "carName": "AM Vantage EVO GT3",
         "carId": "amvantageevogt3",
         "path": "iracing/amvantageevogt3.json"
@@ -1667,6 +1672,16 @@
         "carName": "Cadillac V-Series GTP",
         "carId": "cadillacvseriesrgtp",
         "path": "iracing/cadillacvseriesrgtp.json"
+      },
+      {
+        "carName": "Caterham 420R",
+        "carId": "caterham caterham420r",
+        "path": "iracing/caterham-caterham420r.json"
+      },
+      {
+        "carName": "Caterham Academy",
+        "carId": "caterham caterhamacademy",
+        "path": "iracing/caterham-caterhamacademy.json"
       },
       {
         "carName": "Corvette Z06 GT3",
