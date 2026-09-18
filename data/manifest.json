@@ -114,6 +114,11 @@
         "path": "assettocorsacompetizione/ford-mustang-gt3.json"
       },
       {
+        "carName": "Ginetta G55 GT4",
+        "carId": "ginetta_g55_gt4",
+        "path": "assettocorsacompetizione/ginetta-g55-gt4.json"
+      },
+      {
         "carName": "Honda NSX Evo GT3",
         "carId": "honda_nsx_gt3_evo",
         "path": "assettocorsacompetizione/honda-nsx-gt3-evo.json"
@@ -3697,6 +3702,16 @@
       }
     ],
     "projectmotorracing": [
+      {
+        "carName": "Corvette C8.R",
+        "carId": "Corvette C8.R",
+        "path": "projectmotorracing/corvette-c8-r.json"
+      },
+      {
+        "carName": "R8 (LMP900)",
+        "carId": "R8 (LMP900)",
+        "path": "projectmotorracing/r8-lmp900.json"
+      },
       {
         "carName": "SRT Viper GTS-R",
         "carId": "SRT Viper GTS-R",
