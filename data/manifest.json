@@ -276,6 +276,16 @@
     ],
     "assettocorsaevo": [
       {
+        "carName": "Audi R8 LMS GT2",
+        "carId": "Audi R8 LMS GT2",
+        "path": "assettocorsaevo/audi-r8-lms-gt2.json"
+      },
+      {
+        "carName": "Audi R8 LMS GT3 Evo II",
+        "carId": "Audi R8 LMS GT3 Evo II",
+        "path": "assettocorsaevo/audi-r8-lms-gt3-evo-ii.json"
+      },
+      {
         "carName": "Audi R8 LMS GT4 Evo",
         "carId": "Audi R8 LMS GT4 Evo",
         "path": "assettocorsaevo/audi-r8-lms-gt4-evo.json"
