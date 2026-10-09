@@ -19,15 +19,10 @@
     }
   ],
   "variants": [
-	{
-      "carName": "Aston Martin Vantage AMR LMGT",
-      "carId": "Aston Martin Vantage AMR LMGT",
-      "fileName": "aston-martin-vantage-amr-lmgt.json"
-    },
     {
       "carName": "Aston Martin Vantage AMR LMGT",
       "carId": "Aston Martin Vantage AMR LMGT",
-      "fileName": "aston-martin-vantage-amr.json"
+      "fileName": "aston-martin-vantage-amr-lmgt.json"
     },
     {
       "carName": "GT3_AMR GT3 Custom Team 2025",
