@@ -346,6 +346,11 @@
         "path": "assettocorsaevo/ford-mustang-gt3.json"
       },
       {
+        "carName": "KTM X Bow GT4",
+        "carId": "KTM X Bow GT4",
+        "path": "assettocorsaevo/ktm-x-bow-gt4.json"
+      },
+      {
         "carName": "Lammborghini Huracan ST EVO2",
         "carId": "Lamborghini Huracan ST EVO2",
         "path": "assettocorsaevo/lamborghini-huracan-st-evo2.json"
@@ -379,6 +384,11 @@
         "carName": "Porsche 911 GT3 Cup (992)",
         "carId": "Porsche 911 GT3 Cup (992)",
         "path": "assettocorsaevo/porsche-911-gt3-cup-992.json"
+      },
+      {
+        "carName": "Porsche 935",
+        "carId": "Porsche 935",
+        "path": "assettocorsaevo/porsche-935.json"
       },
       {
         "carName": "Porsche 992 GT3 R Rennsport",
