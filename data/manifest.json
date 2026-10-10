@@ -351,6 +351,11 @@
         "path": "assettocorsaevo/ford-mustang-gt3.json"
       },
       {
+        "carName": "KTM X Bow GT2",
+        "carId": "KTM X Bow GT2",
+        "path": "assettocorsaevo/ktm-x-bow-gt2.json"
+      },
+      {
         "carName": "KTM X Bow GT4",
         "carId": "KTM X Bow GT4",
         "path": "assettocorsaevo/ktm-x-bow-gt4.json"
@@ -2231,9 +2236,9 @@
         "path": "lmu/ford-mustang-lmgt3.json"
       },
       {
-        "carName": "Genesis GMR001",
-        "carId": "Genesis GMR001",
-        "path": "lmu/genesis-gmr001.json"
+        "carName": "Genesis GMR-001",
+        "carId": "Genesis GMR-001",
+        "path": "lmu/genesis-gmr-001.json"
       },
       {
         "carName": "Ginetta G61-LT-P325 Evo",
