@@ -1,7 +1,7 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "Genesis GMR001",
-  "carId": "Genesis GMR001",
+  "carName": "Genesis GMR-001",
+  "carId": "Genesis GMR-001",
   "carClass": "HYP",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
