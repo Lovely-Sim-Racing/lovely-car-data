@@ -114,6 +114,11 @@
         "path": "assettocorsacompetizione/ford-mustang-gt3.json"
       },
       {
+        "carName": "Ginetta G55 GT4",
+        "carId": "ginetta_g55_gt4",
+        "path": "assettocorsacompetizione/ginetta-g55-gt4.json"
+      },
+      {
         "carName": "Honda NSX Evo GT3",
         "carId": "honda_nsx_gt3_evo",
         "path": "assettocorsacompetizione/honda-nsx-gt3-evo.json"
@@ -276,6 +281,16 @@
     ],
     "assettocorsaevo": [
       {
+        "carName": "Audi R8 LMS GT2",
+        "carId": "Audi R8 LMS GT2",
+        "path": "assettocorsaevo/audi-r8-lms-gt2.json"
+      },
+      {
+        "carName": "Audi R8 LMS GT3 Evo II",
+        "carId": "Audi R8 LMS GT3 Evo II",
+        "path": "assettocorsaevo/audi-r8-lms-gt3-evo-ii.json"
+      },
+      {
         "carName": "Audi R8 LMS GT4 Evo",
         "carId": "Audi R8 LMS GT4 Evo",
         "path": "assettocorsaevo/audi-r8-lms-gt4-evo.json"
@@ -336,6 +351,16 @@
         "path": "assettocorsaevo/ford-mustang-gt3.json"
       },
       {
+        "carName": "KTM X Bow GT2",
+        "carId": "KTM X Bow GT2",
+        "path": "assettocorsaevo/ktm-x-bow-gt2.json"
+      },
+      {
+        "carName": "KTM X Bow GT4",
+        "carId": "KTM X Bow GT4",
+        "path": "assettocorsaevo/ktm-x-bow-gt4.json"
+      },
+      {
         "carName": "Lammborghini Huracan ST EVO2",
         "carId": "Lamborghini Huracan ST EVO2",
         "path": "assettocorsaevo/lamborghini-huracan-st-evo2.json"
@@ -369,6 +394,11 @@
         "carName": "Porsche 911 GT3 Cup (992)",
         "carId": "Porsche 911 GT3 Cup (992)",
         "path": "assettocorsaevo/porsche-911-gt3-cup-992.json"
+      },
+      {
+        "carName": "Porsche 935",
+        "carId": "Porsche 935",
+        "path": "assettocorsaevo/porsche-935.json"
       },
       {
         "carName": "Porsche 992 GT3 R Rennsport",
@@ -2206,9 +2236,9 @@
         "path": "lmu/ford-mustang-lmgt3.json"
       },
       {
-        "carName": "Genesis GMR001",
-        "carId": "Genesis GMR001",
-        "path": "lmu/genesis-gmr001.json"
+        "carName": "Genesis GMR-001",
+        "carId": "Genesis GMR-001",
+        "path": "lmu/genesis-gmr-001.json"
       },
       {
         "carName": "Ginetta G61-LT-P325 Evo",
@@ -3697,6 +3727,16 @@
       }
     ],
     "projectmotorracing": [
+      {
+        "carName": "Corvette C8.R",
+        "carId": "Corvette C8.R",
+        "path": "projectmotorracing/corvette-c8-r.json"
+      },
+      {
+        "carName": "R8 (LMP900)",
+        "carId": "R8 (LMP900)",
+        "path": "projectmotorracing/r8-lmp900.json"
+      },
       {
         "carName": "SRT Viper GTS-R",
         "carId": "SRT Viper GTS-R",
