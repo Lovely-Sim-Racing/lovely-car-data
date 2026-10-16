@@ -1,6 +1,9 @@
 import os
 import json
 import re
+import shutil
+import sys
+import tempfile
 
 def load_jsonc(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
@@ -15,27 +18,19 @@ def build_profiles(src_base_dir, out_base_dir):
     out_dir = os.path.join(out_base_dir, 'lmu')
     
     if not os.path.exists(src_dir):
-        print(f"Source directory {src_dir} does not exist.")
-        return
+        raise FileNotFoundError(f"Source directory {src_dir} does not exist.")
         
-    import shutil
-    if os.path.exists(out_dir):
-        shutil.rmtree(out_dir)
-    os.makedirs(out_dir, exist_ok=True)
-    
     generated_files = []
+    output_names = {}
+    staging_dir = tempfile.mkdtemp(prefix="lmu-build-", dir=out_base_dir)
     
     # Process all JSONC files in the source directory
-    for filename in os.listdir(src_dir):
+    for filename in sorted(os.listdir(src_dir)):
         if not filename.endswith('.jsonc'):
             continue
             
         filepath = os.path.join(src_dir, filename)
-        try:
-            template_data = load_jsonc(filepath)
-        except Exception as e:
-            print(f"Error parsing {filename}: {e}")
-            continue
+        template_data = load_jsonc(filepath)
                 
         variants = template_data.pop('variants', [])
         
@@ -69,9 +64,14 @@ def build_profiles(src_base_dir, out_base_dir):
                 
             out_filename = variant.get("fileName")
             if not out_filename:
-                continue
+                raise ValueError(f"{filename}: variant is missing fileName")
+            if os.path.basename(out_filename) != out_filename:
+                raise ValueError(f"{filename}: invalid fileName '{out_filename}'")
+            if out_filename in output_names:
+                raise ValueError(f"Duplicate output fileName '{out_filename}' in {filename} and {output_names[out_filename]}")
+            output_names[out_filename] = filename
                 
-            out_filepath = os.path.join(out_dir, out_filename)
+            out_filepath = os.path.join(staging_dir, out_filename)
             
             # Use the custom formatter to keep ledColor and ledRpm inline
             import format_json
@@ -82,11 +82,30 @@ def build_profiles(src_base_dir, out_base_dir):
                 
             generated_files.append(out_filepath)
             
+    backup_dir = f"{out_dir}.previous"
+    try:
+        if os.path.exists(backup_dir):
+            shutil.rmtree(backup_dir)
+        if os.path.exists(out_dir):
+            os.replace(out_dir, backup_dir)
+        os.replace(staging_dir, out_dir)
+        if os.path.exists(backup_dir):
+            shutil.rmtree(backup_dir)
+    except Exception:
+        if os.path.exists(backup_dir) and not os.path.exists(out_dir):
+            os.replace(backup_dir, out_dir)
+        shutil.rmtree(staging_dir, ignore_errors=True)
+        raise
     print(f"Successfully built {len(generated_files)} profiles in {out_dir}")
+    return len(generated_files)
 
 if __name__ == '__main__':
     project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
     src_base_dir = os.path.join(project_root, 'src_data')
     out_base_dir = os.path.join(project_root, 'data')
     
-    build_profiles(src_base_dir, out_base_dir)
+    try:
+        build_profiles(src_base_dir, out_base_dir)
+    except Exception as error:
+        print(f"Build failed: {error}", file=sys.stderr)
+        sys.exit(1)

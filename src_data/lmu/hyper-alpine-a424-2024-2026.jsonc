@@ -19,12 +19,12 @@
     }
   ],
   "variants": [
-	{
+    {
       "carName": "Alpine A424",
       "carId": "Alpine A424",
       "fileName": "alpine-a424.json"
     },
-	{
+    {
       "carName": "Hyper_Alpine Custom Team 2024",
       "carId": "Hyper_Alpine Custom Team 2024",
       "fileName": "hyper-alpine-custom-team-2024.json"

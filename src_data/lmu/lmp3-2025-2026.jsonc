@@ -22,12 +22,12 @@
       "carId": "ADESS AD25 LMP3",
       "fileName": "adess-ad25-lmp3.json"
     },
-	{
+    {
       "carName": "Duqueine D09 P3",
       "carId": "Duqueine D09 P3",
       "fileName": "duqueine-d09-p3.json"
     },
-	{
+    {
       "carName": "Ginetta G61-LT-P325 Evo",
       "carId": "Ginetta G61-LT-P325 Evo",
       "fileName": "ginetta-g61-lt-p325-evo.json"
@@ -103,9 +103,9 @@
       "fileName": "lmp3-ginetta-g61-lt-p3-custom-team-397.json"
     },
     {
-      "carName": "ADESS Factory Racing Team 2025",
-      "carId": "LMP3_ADESS Factory Racing Team 2025_46",
-      "fileName": "lmp3-adess-factory-racing-team-2025-46.json"
+      "carName": "ADESS Racing Team 2025",
+      "carId": "LMP3_ADESS Racing Team 2025_46",
+      "fileName": "lmp3-adess-racing-team-2025-46.json"
     },
     {
       "carName": "ADESS AD25 Custom Team",

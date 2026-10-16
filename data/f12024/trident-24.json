@@ -4,7 +4,7 @@
   "carClass": "F2",
   "ledNumber": 8,
   "redlineBlinkInterval": 50,
-  "ledColor": ["#00000000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF0000FF","#FF0000FF"],
+  "ledColor": ["#00000000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000"],
   "ledRpm": [
     {
       "R": [8600,7080,7520,7945,8105,8235,8358,8435,8495],
