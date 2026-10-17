@@ -9,3 +9,12 @@ repos:
     args: ['--autofix', '--no-sort-keys', '--no-ensure-ascii']
     types: [file]  # override `types: [json]`
     files: \.(json)$
+    exclude: ^data/lmu/
+- repo: local
+  hooks:
+  - id: format-lmu-json
+    name: format LMU JSON
+    entry: python scripts/format_json.py
+    language: python
+    types: [file]
+    files: ^data/lmu/.*\.json$
