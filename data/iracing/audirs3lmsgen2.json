@@ -1,7 +1,7 @@
 {
   "carName": "Audi RS3 LMS Gen2",
   "carId": "audirs3lmsgen2",
-  "carClass": "TCR",
+  "carClass": "tcr",
   "ledNumber": 9,
   "redlineBlinkInterval": 250,
   "ledColor": ["#FFFF00FF","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF00FF","#FFFF00FF"],

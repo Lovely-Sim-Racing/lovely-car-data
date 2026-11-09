@@ -1,7 +1,7 @@
 {
   "carName": "Nissan GT-R Nismo GT3",
   "carId": "nissan_gtr_nismo_gt3",
-  "carClass": "GT3",
+  "carClass": "gt3",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000"],

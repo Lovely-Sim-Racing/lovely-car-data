@@ -1,7 +1,7 @@
 {
   "carName": "Honda Civic TCR",
   "carId": "11320,Honda Civic TCR",
-  "carClass": "TCR",
+  "carClass": "tcr",
   "ledNumber": 10,
   "redlineBlinkInterval": 250,
   "ledColor": [

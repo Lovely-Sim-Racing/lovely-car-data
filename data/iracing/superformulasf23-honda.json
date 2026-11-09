@@ -1,7 +1,7 @@
 {
   "carName": "Super Formula - Honda",
   "carId": "superformulasf23 honda",
-  "carClass": "SF",
+  "carClass": "sf",
   "ledNumber": 10,
   "redlineBlinkInterval": 300,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000"],

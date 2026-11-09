@@ -1,7 +1,7 @@
 {
   "carName": "R8 (LMP900)",
   "carId": "R8 (LMP900)",
-  "carClass": "LMP1",
+  "carClass": "lmp1",
   "ledNumber": 5,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000"],

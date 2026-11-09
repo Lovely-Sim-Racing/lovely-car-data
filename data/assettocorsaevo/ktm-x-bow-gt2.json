@@ -1,7 +1,7 @@
 {
   "carName": "KTM X Bow GT2",
   "carId": "KTM X Bow GT2",
-  "carClass": "GT2",
+  "carClass": "gt2",
   "ledNumber": 8,
   "redlineBlinkInterval": 100,
   "ledColor": ["#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000"],

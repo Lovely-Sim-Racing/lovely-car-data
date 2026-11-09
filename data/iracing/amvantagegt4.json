@@ -1,7 +1,7 @@
 {
   "carName": "AM Vantage GT4",
   "carId": "amvantagegt4",
-  "carClass": "GT4",
+  "carClass": "gt4",
   "ledNumber": 12,
   "redlineBlinkInterval": 250,
   "ledColor": ["#FF6495ED","#FF00FF00","#FF00FF00","#00000000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#00000000","#FF6495ED","#FF6495ED"],

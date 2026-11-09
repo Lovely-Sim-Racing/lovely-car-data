@@ -1,7 +1,7 @@
 {
   "carName": "Lammborghini Huracan STO",
   "carId": "Lamborghini Huracan STO",
-  "carClass": "STO",
+  "carClass": "sto",
   "ledNumber": 14,
   "redlineBlinkInterval": 300,
   "ledColor": ["#FF0000FF","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0001","#FFFF0001","#FFFF0002","#FFFF0002","#FFFF0001","#FFFF0001","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000"],

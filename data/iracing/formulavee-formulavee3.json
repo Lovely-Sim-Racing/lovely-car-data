@@ -1,7 +1,7 @@
 {
   "carName": "Formula Vee - Conqueror",
   "carId": "formulavee formulavee3",
-  "carClass": "FVEE",
+  "carClass": "fvee",
   "ledNumber": 5,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000"],

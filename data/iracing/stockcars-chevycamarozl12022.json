@@ -1,7 +1,7 @@
 {
   "carName": "NASCAR Cup Next Gen Chevrolet Camaro ZL1",
   "carId": "stockcars chevycamarozl12022",
-  "carClass": "NXG",
+  "carClass": "nxg",
   "ledNumber": 9,
   "redlineBlinkInterval": 0,
   "ledColor": [

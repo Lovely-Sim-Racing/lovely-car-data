@@ -1,7 +1,7 @@
 {
   "carName": "Formula V8 Gen3",
   "carId": "Formula V8 Gen3 - High Downforce",
-  "carClass": "F-R",
+  "carClass": "f-r",
   "ledNumber": 15,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF"],

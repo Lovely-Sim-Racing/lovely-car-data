@@ -1,7 +1,7 @@
 {
   "carName": "Audi R18",
   "carId": "audir18",
-  "carClass": "LMP1",
+  "carClass": "lmp1",
   "ledNumber": 12,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000"],

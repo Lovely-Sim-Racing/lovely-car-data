@@ -1,7 +1,7 @@
 {
   "carName": "Aston Martin Vantage GT4 Evo",
   "carId": "aston_martin_vantage_gt4_evo",
-  "carClass": "GT4",
+  "carClass": "gt4",
   "ledNumber": 8,
   "redlineBlinkInterval": 300,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000"],

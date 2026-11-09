@@ -2,7 +2,7 @@
   "_schemaVersion": "v2.0.0",
   "carName": "AMV Custom Team 2023",
   "carId": "GTE_AMV Custom Team 2023",
-  "carClass": "GTE",
+  "carClass": "gte",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FF0000FF"],

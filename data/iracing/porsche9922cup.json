@@ -1,7 +1,7 @@
 {
   "carName": "Porsche 911 Cup (992.2)",
   "carId": "porsche9922cup",
-  "carClass": "CUP",
+  "carClass": "cup",
   "ledNumber": 16,
   "redlineBlinkInterval": 200,
   "ledColor": ["#FF6495ED","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00","#FF00FF00"],

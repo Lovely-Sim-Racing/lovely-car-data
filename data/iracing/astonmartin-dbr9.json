@@ -1,7 +1,7 @@
 {
   "carName": "Aston Martin DBR9 GT1",
   "carId": "astonmartin dbr9",
-  "carClass": "GT1",
+  "carClass": "gt1",
   "ledNumber": 5,
   "redlineBlinkInterval": 500,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFF0000","#FFFF0000"],
