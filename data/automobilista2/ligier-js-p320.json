@@ -1,7 +1,7 @@
 {
   "carName": "Ligier JS P320",
   "carId": "ligier_js_p320",
-  "carClass": "P1 Gen2",
+  "carClass": "P1",
   "ledNumber": 10,
   "redlineBlinkInterval": 120,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FF0000FF","#FF00BFFF","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],
