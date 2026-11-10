@@ -2701,19 +2701,19 @@
         "path": "lmu/gt3-united-autosports-2025.json"
       },
       {
-        "carName": "Vista AF Corsa 2026",
-        "carId": "GT3_Vista AF Corsa 2026_21",
-        "path": "lmu/gt3-vista-af-corsa-2026-21.json"
-      },
-      {
-        "carName": "Vista AF Corsa 2026",
-        "carId": "GT3_Vista AF Corsa 2026_54",
-        "path": "lmu/gt3-vista-af-corsa-2026-54.json"
-      },
-      {
         "carName": "Vista AF Corse 2025",
         "carId": "GT3_Vista AF Corse 2025",
         "path": "lmu/gt3-vista-af-corse-2025.json"
+      },
+      {
+        "carName": "Vista AF Corse 2026",
+        "carId": "GT3_Vista AF Corse 2026_21",
+        "path": "lmu/gt3-vista-af-corse-2026-21.json"
+      },
+      {
+        "carName": "Vista AF Corse 2026",
+        "carId": "GT3_Vista AF Corse 2026_54",
+        "path": "lmu/gt3-vista-af-corse-2026-54.json"
       },
       {
         "carName": "Z06GT3R Custom Team 2025",
