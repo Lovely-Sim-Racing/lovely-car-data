@@ -1,7 +1,7 @@
 {
   "carName": "BMW M4 EVO GT4",
   "carId": "bmwm4evogt4",
-  "carClass": "GT4",
+  "carClass": "gt4",
   "ledNumber": 10,
   "redlineBlinkInterval": 200,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],

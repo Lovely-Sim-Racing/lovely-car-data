@@ -1,7 +1,7 @@
 {
   "carName": "Bentley Continental GT3 2016",
   "carId": "bentley_continental_gt3_2016",
-  "carClass": "GT3",
+  "carClass": "gt3",
   "ledNumber": 8,
   "redlineBlinkInterval": 100,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF0000FF","#FF0000FF","#FFFF0000","#FFFF0000"],

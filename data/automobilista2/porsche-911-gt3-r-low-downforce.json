@@ -1,7 +1,7 @@
 {
   "carName": "Porsche 911 GT3 R",
   "carId": "Porsche 911 GT3 R - Low Downforce",
-  "carClass": "GT3",
+  "carClass": "gt3",
   "ledNumber": 8,
   "redlineBlinkInterval": 50,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF1E90FF","#FF1E90FF","#FFFF0000","#FFFF0000","#FFFF0000"],

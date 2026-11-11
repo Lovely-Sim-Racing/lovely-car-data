@@ -1,7 +1,7 @@
 {
   "carName": "Caterham 420R",
   "carId": "caterham caterham420r",
-  "carClass": "CAT",
+  "carClass": "cat",
   "ledNumber": 5,
   "redlineBlinkInterval": 100,
   "ledColor": ["#00000000","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000"],

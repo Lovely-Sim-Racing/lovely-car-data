@@ -1,7 +1,7 @@
 {
   "carName": "Caterham supersport",
   "carId": "caterham_supersport",
-  "carClass": "",
+  "carClass": "css",
   "ledNumber": 5,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FFFF0000","#FFFF0000"],

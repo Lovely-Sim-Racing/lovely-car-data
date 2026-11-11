@@ -1,7 +1,7 @@
 {
   "carName": "Ginetta G55 GT4",
   "carId": "Ginetta G55 GT4",
-  "carClass": "GT4",
+  "carClass": "gt4",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00"],

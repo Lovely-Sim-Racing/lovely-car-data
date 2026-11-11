@@ -1,8 +1,8 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "Hyper_BMW M Team WRT 2026",
+  "carName": "BMW M Team WRT 2026",
   "carId": "Hyper_BMW M Team WRT 2026_20",
-  "carClass": "HYP",
+  "carClass": "hyp",
   "ledNumber": 15,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00","#FF00FF00"],

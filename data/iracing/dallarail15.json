@@ -1,7 +1,7 @@
 {
   "carName": "Dallara IL15 Indy NXT",
   "carId": "dallarail15",
-  "carClass": "NXT",
+  "carClass": "nxt",
   "ledNumber": 8,
   "redlineBlinkInterval": 250,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000"],

@@ -1,7 +1,7 @@
 {
   "carName": "Porsche 911 GT3 Cup 3.8",
   "carId": "Porsche 911 GT3 Cup 3.8",
-  "carClass": "CUP",
+  "carClass": "cup",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF0000FF","#FF0000FF","#FFFF0000","#FFFF0000","#FFFF0000"],

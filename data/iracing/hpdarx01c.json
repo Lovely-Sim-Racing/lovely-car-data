@@ -1,7 +1,7 @@
 {
   "carName": "HPX ARX-01C",
   "carId": "hpdarx01c",
-  "carClass": "LMP2",
+  "carClass": "lmp2",
   "ledNumber": 15,
   "redlineBlinkInterval": 250,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF6495ED","#FF6495ED","#FF6495ED","#FF6495ED","#FF6495ED"],

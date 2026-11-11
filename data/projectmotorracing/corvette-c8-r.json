@@ -1,7 +1,7 @@
 {
   "carName": "Corvette C8.R",
   "carId": "Corvette C8.R",
-  "carClass": "GTE",
+  "carClass": "gte",
   "ledNumber": 12,
   "redlineBlinkInterval": 125,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#00000000","#FFFF0000","#FFFF0000"],

@@ -1,7 +1,7 @@
 {
   "carName": "BMW M4 GT3",
   "carId": "bmwm4gt3",
-  "carClass": "GT3",
+  "carClass": "gt3",
   "ledNumber": 12,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00A0FF","#FF00A0FF","#FF00A0FF","#00000000","#FF00A0FF","#FF00A0FF"],

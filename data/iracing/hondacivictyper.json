@@ -1,7 +1,7 @@
 {
   "carName": "Honda Civic Type R",
   "carId": "hondacivictyper",
-  "carClass": "TCR",
+  "carClass": "tcr",
   "ledNumber": 10,
   "redlineBlinkInterval": 50,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00"],

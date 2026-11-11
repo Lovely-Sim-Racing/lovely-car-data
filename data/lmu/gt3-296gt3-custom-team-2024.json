@@ -1,8 +1,8 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "GT3_296GT3 Custom Team 2024",
+  "carName": "296GT3 Custom Team 2024",
   "carId": "GT3_296GT3 Custom Team 2024",
-  "carClass": "GT3",
+  "carClass": "gt3",
   "ledNumber": 6,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000"],

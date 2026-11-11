@@ -1,7 +1,7 @@
 {
   "carName": "NASCAR O'Reilly Chevrolet Camaro",
   "carId": "stockcars2 camaro2019",
-  "carClass": "ORE",
+  "carClass": "ore",
   "ledNumber": 1,
   "redlineBlinkInterval": 0,
   "ledColor": [

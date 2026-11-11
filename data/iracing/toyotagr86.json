@@ -1,7 +1,7 @@
 {
   "carName": "Toyota GR86",
   "carId": "toyotagr86",
-  "carClass": "GR86",
+  "carClass": "gr86",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FF6495ED","#FF00FF00","#FFFFFF00","#FFFF8000","#FFFF0000","#FFFF0000","#FFFF8000","#FFFFFF00","#FF00FF00"],

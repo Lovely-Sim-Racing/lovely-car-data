@@ -1,7 +1,7 @@
 {
   "carName": "NASCAR Cup Next Gen Toyota Camry",
   "carId": "stockcars toyotacamry2022",
-  "carClass": "NXG",
+  "carClass": "nxg",
   "ledNumber": 9,
   "redlineBlinkInterval": 0,
   "ledColor": [

@@ -1,7 +1,7 @@
 {
     "carName": "BMW m2 CUP 2020",
     "carId": "bmw_m2_cs_racing",
-    "carClass": "TCX",
+    "carClass": "tcx",
     "ledNumber": 10,
     "redlineBlinkInterval": 250,
     "ledColor": [ "#00000000", "#FF00FF00", "#FF00FF00", "#FFFFFF00", "#FFFFFF00", "#FFFF0000", "#FFFF0000", "#FFFFFF00", "#FFFFFF00", "#FF00FF00", "#FF00FF00" ],
