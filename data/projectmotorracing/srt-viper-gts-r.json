@@ -1,7 +1,7 @@
 {
   "carName": "SRT Viper GTS-R",
   "carId": "SRT Viper GTS-R",
-  "carClass": "GTE",
+  "carClass": "gte",
   "ledNumber": 8,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF87CEEB","#FF00FF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FF00FF00","#FF87CEEB"],

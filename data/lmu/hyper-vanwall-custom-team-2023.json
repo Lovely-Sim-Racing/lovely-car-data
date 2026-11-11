@@ -1,8 +1,8 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "Hyper_Vanwall Custom Team 2023",
+  "carName": "Vanwall Custom Team 2023",
   "carId": "Hyper_Vanwall Custom Team 2023",
-  "carClass": "HYP",
+  "carClass": "hyp",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FF0000FF","#FF00FF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF0000FF","#FF0000FF","#FF0000FF"],

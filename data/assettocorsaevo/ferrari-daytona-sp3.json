@@ -1,7 +1,7 @@
 {
   "carName": "Ferrari Daytona SP3",
   "carId": "Ferrari Daytona SP3",
-  "carClass": "SP3",
+  "carClass": "sp3",
   "ledNumber": 9,
   "redlineBlinkInterval": 100,
   "ledColor": ["#00000000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF00A0FF","#FF00A0FF"],

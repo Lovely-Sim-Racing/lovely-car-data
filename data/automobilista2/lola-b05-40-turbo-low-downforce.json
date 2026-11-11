@@ -1,7 +1,7 @@
 {
-  "carName": "Lola B05/40 Turbo - Low Downforce",
+  "carName": "Lola B05/40 Turbo",
   "carId": "Lola B05/40 Turbo - Low Downforce",
-  "carClass": "LMP2_05_LD",
+  "carClass": "lmp2",
   "ledNumber": 9,
   "redlineBlinkInterval": 100,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FFFF0000","#FFFF0000","#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00"],

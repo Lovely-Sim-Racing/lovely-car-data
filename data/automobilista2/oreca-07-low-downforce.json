@@ -1,7 +1,7 @@
 {
   "carName": "Oreca 07",
   "carId": "Oreca 07 - Low Downforce",
-  "carClass": "LMP2",
+  "carClass": "lmp2",
   "ledNumber": 10,
   "redlineBlinkInterval": 100,
   "ledColor": ["#FF1E90FF","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000"],

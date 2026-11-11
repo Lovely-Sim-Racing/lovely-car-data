@@ -1,7 +1,7 @@
 {
   "carName": "NASCAR O'Reilly Ford Mustang",
   "carId": "stockcars2 mustang2019",
-  "carClass": "ORE",
+  "carClass": "ore",
   "ledNumber": 1,
   "redlineBlinkInterval": 0,
   "ledColor": [

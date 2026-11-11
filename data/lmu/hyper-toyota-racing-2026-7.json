@@ -1,8 +1,8 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carName": "Hyper_Toyota Racing 2026",
+  "carName": "Toyota Racing 2026",
   "carId": "Hyper_Toyota Racing 2026_7",
-  "carClass": "HYP",
+  "carClass": "hyp",
   "ledNumber": 15,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF000000","#FF000000","#FF000000","#FF000000","#FF000000","#FF000000","#FF000000","#FFFF0000","#FFFF0000","#FFFF0000","#FF0080FF","#FF0080FF","#FF0080FF","#FF0080FF","#FF0080FF"],

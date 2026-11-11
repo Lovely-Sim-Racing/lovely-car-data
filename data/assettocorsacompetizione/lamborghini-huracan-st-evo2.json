@@ -1,7 +1,7 @@
 {
-  "carName": "LAMBORGHINI HURACÁN ST EVO2 2021",
+  "carName": "Lamborghini Huracán ST EVO2 2021",
   "carId": "lamborghini_huracan_st_evo2",
-  "carClass": "ST",
+  "carClass": "st",
   "ledNumber": 8,
   "redlineBlinkInterval": 250,
   "ledColor": ["#00000000","#FF00FF00","#FF0000FF","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FF0000FF","#FF00FF00"],

@@ -2,7 +2,7 @@
   "_schemaVersion": "v2.0.0",
   "carName": "Aston Martin Valkyrie LMH",
   "carId": "Aston Martin Valkyrie LMH",
-  "carClass": "HYP",
+  "carClass": "hyp",
   "ledNumber": 10,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FF0000FF"],

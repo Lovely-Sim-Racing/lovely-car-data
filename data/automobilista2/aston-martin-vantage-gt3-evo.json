@@ -1,7 +1,7 @@
 {
   "carName": "Aston Martin Vantage GT3 Evo",
   "carId": "aston_martin_vantage_gt3_evo",
-  "carClass": "GT3",
+  "carClass": "gt3",
   "ledNumber": 8,
   "redlineBlinkInterval": 125,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FF0000FF"],

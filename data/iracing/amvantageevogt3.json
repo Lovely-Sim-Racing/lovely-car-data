@@ -1,7 +1,7 @@
 {
   "carName": "AM Vantage EVO GT3",
   "carId": "amvantageevogt3",
-  "carClass": "GT3",
+  "carClass": "gt3",
   "ledNumber": 8,
   "redlineBlinkInterval": 150,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FF0000FF"],

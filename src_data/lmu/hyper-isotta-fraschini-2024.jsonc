@@ -1,6 +1,6 @@
 {
   "_schemaVersion": "v2.0.0",
-  "carClass": "HYP",
+  "carClass": "hyp",
   "ledNumber": 15,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FFFF0000","#FFFF0000","#FFFF0000"],
@@ -25,7 +25,7 @@
       "fileName": "isotta-fraschini-tipo6.json"
     },
     {
-      "carName": "Hyper_Isotta Fraschini Custom Team 2024",
+      "carName": "Isotta Fraschini Custom Team 2024",
       "carId": "Hyper_Isotta Fraschini Custom Team 2024",
       "fileName": "hyper-isotta-fraschini-custom-team-2024.json"
     },

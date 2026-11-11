@@ -1,7 +1,7 @@
 {
   "carName": "Porsche 992 GT3R",
   "carId": "porsche_992_gt3_r",
-  "carClass": "GT3",
+  "carClass": "gt3",
   "ledNumber": 16,
   "redlineBlinkInterval": 100,
   "ledColor": ["#FF0000FF","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00","#FF00FF00"],

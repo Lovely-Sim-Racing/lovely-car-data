@@ -1,7 +1,7 @@
 {
   "carName": "Lammborghini Huracan ST EVO2",
   "carId": "Lamborghini Huracan ST EVO2",
-  "carClass": "STO",
+  "carClass": "sto",
   "ledNumber": 10,
   "redlineBlinkInterval": 150,
   "ledColor": ["#00000000","#FF000000","#FF00FF00","#FF0000FF","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FF0000FF","#FF00FF00","#FF000000"],

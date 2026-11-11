@@ -1,7 +1,7 @@
 {
   "carName": "BMW M2 CS Racing",
   "carId": "BMW M2 CS Racing",
-  "carClass": "M2",
+  "carClass": "m2",
   "ledNumber": 10,
   "redlineBlinkInterval": 100,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],

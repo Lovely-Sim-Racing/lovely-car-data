@@ -2,7 +2,7 @@
   "_schemaVersion": "v2.0.0",
   "carName": "ADESS Factory Racing Team 2025",
   "carId": "LMP3_ADESS Factory Racing Team 2025_46",
-  "carClass": "LMP3",
+  "carClass": "lmp3",
   "ledNumber": 10,
   "redlineBlinkInterval": 100,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FF0080FF","#FF0080FF","#FFFFFF00","#FFFFFF00","#FF00FF00","#FF00FF00"],

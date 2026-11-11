@@ -1,7 +1,7 @@
 {
   "carName": "Chevrolet Corvette C6.R GT1",
   "carId": "c6r",
-  "carClass": "GT1",
+  "carClass": "gt1",
   "ledNumber": 6,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000"],

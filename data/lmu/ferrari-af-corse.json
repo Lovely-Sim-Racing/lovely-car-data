@@ -2,7 +2,7 @@
   "_schemaVersion": "v2.0.0",
   "carName": "Ferrari AF Corse",
   "carId": "Ferrari AF Corse",
-  "carClass": "HYP",
+  "carClass": "hyp",
   "ledNumber": 12,
   "redlineBlinkInterval": 0,
   "ledColor": ["#FFFF0000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000","#FFFF0000","#FFFF0000"],

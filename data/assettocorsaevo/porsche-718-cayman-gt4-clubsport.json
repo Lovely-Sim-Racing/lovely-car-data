@@ -1,7 +1,7 @@
 {
   "carName": "Porsche 718 Cayman GT4 Clubsport",
   "carId": "Porsche 718 Cayman GT4 Clubsport",
-  "carClass": "GT4",
+  "carClass": "gt4",
   "ledNumber": 8,
   "redlineBlinkInterval": 50,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FFFFFF00","#FFFFFF00","#FFFFFF00","#FFFF0000"],

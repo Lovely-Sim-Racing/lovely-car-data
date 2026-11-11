@@ -1,7 +1,7 @@
 {
   "carName": "NASCAR Gen 4 Ford Taurus (2003)",
   "carId": "stockcars fordtaurus03",
-  "carClass": "Gen4",
+  "carClass": "gen4",
   "ledNumber": 1,
   "redlineBlinkInterval": 0,
   "ledColor": [

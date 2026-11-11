@@ -1,7 +1,7 @@
 {
   "carName": "Mitsubishi Lancer RS",
   "carId": "mitsubishi_lancer_rs",
-  "carClass": "Mitsubishi Lancer Cup",
+  "carClass": "mlc",
   "ledNumber": 13,
   "redlineBlinkInterval": 0,
   "ledColor": ["#00000000","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF00FF00","#FF0000FF","#FF0000FF","#FF0000FF","#FF0000FF","#FFFF0000","#FFFF0000","#FFFF0000","#FFFF0000"],

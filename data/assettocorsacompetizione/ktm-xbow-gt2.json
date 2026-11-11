@@ -1,7 +1,7 @@
 {
-    "carName": "KTM XBOW GT2 2021",
+    "carName": "KTM Xbow GT2 2021",
     "carId": "ktm_xbow_gt2",
-    "carClass": "GT2",
+    "carClass": "gt2",
     "ledNumber": 8,
     "redlineBlinkInterval": 250,
     "ledColor": [ "#00000000", "#FFFF0000", "#FFFF0000", "#FFFF0000", "#FFFF0000", "#FFFF0000", "#FFFF0000", "#FFFF0000", "#FFFF0000" ],
